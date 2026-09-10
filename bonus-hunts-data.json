@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-10T19:23:45.282Z",
+  "generatedAt": "2026-09-10T19:31:41.820Z",
   "hunts": [
     {
       "id": "cmtvplju71h00jcsr2wqhtu4h",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-10T15:55:45.199Z",
-      "updatedAt": "2026-09-10T18:29:01.059Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-10T18:53:08.394Z",
+      "isOpening": false,
       "startCost": 1000,
       "bonusCount": 15,
-      "totalWinnings": 88.88,
-      "profitLoss": -911.12,
-      "profitLossPercentage": -91.11,
+      "totalWinnings": 894.88,
+      "profitLoss": -105.12,
+      "profitLossPercentage": -10.51,
       "averagePayoutRequired": 66.67,
-      "currentAverage": 5.93,
+      "currentAverage": 59.66,
       "averageBetSize": 0.45,
-      "cumulativeMultiplier": 222.2,
-      "currentAverageMultiplier": 14.81,
+      "cumulativeMultiplier": 1945.95,
+      "currentAverageMultiplier": 129.73,
       "averageRequiredMultiplier": 147.06,
       "highestWin": {
-        "slotName": "Flight Mode",
-        "provider": "Nolimit City",
-        "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
-        "payout": 47.9,
-        "multiplier": 119.75,
-        "betSize": 0.4
-      },
-      "highestMulti": {
-        "slotName": "Flight Mode",
-        "provider": "Nolimit City",
-        "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
-        "payout": 47.9,
-        "multiplier": 119.75,
-        "betSize": 0.4
-      },
-      "lowestMulti": {
         "slotName": "The Dog House Megaways 1000",
         "provider": "Pragmatic Play",
         "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 378.7,
+        "multiplier": 946.75,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 378.7,
+        "multiplier": 946.75,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Hell Butcher",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+        "payout": 4.46,
+        "multiplier": 11.15,
         "betSize": 0.4
       },
       "bonuses": [
@@ -91,80 +91,80 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 946.75,
+          "payout": 378.7
         },
         {
           "slotName": "Outsourced",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/fff32a8bf7dec79ff52a75c25c579fc063f4772bab6a036e884e1a03a37d9d32",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 44.85,
+          "payout": 17.94
         },
         {
           "slotName": "The Crypt",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/87f963bbc287d5a8e2fbad5ce8dccc661cdcbc66c45d034169af524fda43f435",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25.55,
+          "payout": 10.22
         },
         {
           "slotName": "Bizarre",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 23.6,
+          "payout": 9.44
         },
         {
           "slotName": "Hot Ross",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 57.7,
+          "payout": 23.08
         },
         {
           "slotName": "Outsourced: Payday",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 42,
+          "payout": 25.2
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 471.2,
+          "payout": 282.72
         },
         {
           "slotName": "Starlight Princess 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25.9,
+          "payout": 15.54
         },
         {
           "slotName": "Fury of Anubis",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
           "betSize": 0.8,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 43.2,
+          "payout": 34.56
         },
         {
           "slotName": "Duck Hunters 2",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 43,
+          "payout": 8.6
         }
       ]
     },
