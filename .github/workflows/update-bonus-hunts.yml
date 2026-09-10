@@ -27,6 +27,8 @@ jobs:
           node-version: "20"
 
       - name: Fetch latest Bonus Hunts
+        env:
+          BONUSHUNT_API_KEY: ${{ secrets.BONUSHUNT_API_KEY }}
         run: node scripts/update-bonus-hunts.mjs
 
       - name: Commit changes if any
