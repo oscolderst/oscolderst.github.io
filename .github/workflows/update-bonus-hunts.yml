@@ -1,0 +1,42 @@
+name: Update Bonus Hunts
+
+on:
+  schedule:
+    # Runs every hour, at minute 15 (UTC).
+    - cron: "15 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update-bonus-hunts.mjs"
+      - ".github/workflows/update-bonus-hunts.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest Bonus Hunts
+        run: node scripts/update-bonus-hunts.mjs
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- bonus-hunts-data.json; then
+            echo "No changes to bonus-hunts-data.json"
+          else
+            git add bonus-hunts-data.json
+            git commit -m "Update bonus hunts data [automated]"
+            git push
+          fi
