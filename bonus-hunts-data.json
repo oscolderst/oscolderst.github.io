@@ -1,7 +1,2976 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-10T14:10:04.829Z",
+  "generatedAt": "2026-09-10T15:04:45.844Z",
   "hunts": [
-    {"id":"cmtu9g8wo08cejcsrw89yz6fl","title":"bonus hunt 44","casino":"Stake","currency":"EUR","createdAt":"2026-09-09T15:35:57.721Z","updatedAt":"2026-09-09T21:41:39.262Z","isOpening":false,"startCost":1000,"bonusCount":14,"totalWinnings":453.44,"profitLoss":-546.56,"profitLossPercentage":-54.66,"averagePayoutRequired":71.43,"currentAverage":32.39,"averageBetSize":0.5,"cumulativeMultiplier":933.15,"currentAverageMultiplier":66.65,"averageRequiredMultiplier":141.84,"highestWin":{"slotName":"Big Bass Splash","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a","payout":61.74,"multiplier":88.2,"betSize":0.7},"highestMulti":{"slotName":"Bash Bros","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/7cb7dbca4d6578476951c5f44215128f9cd375e05b59ccd5f9511d3844851527","payout":55,"multiplier":137.5,"betSize":0.4},"lowestMulti":{"slotName":"Frightening Frankie","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e","payout":15.6,"multiplier":20.8,"betSize":0.75},"bonuses":[{"slotName":"Nitro Nights","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a","betSize":0.4,"multiplier":125.6,"payout":50.24},{"slotName":"Minted Mike","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897","betSize":0.4,"multiplier":63.8,"payout":25.52},{"slotName":"Bash Bros","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/7cb7dbca4d6578476951c5f44215128f9cd375e05b59ccd5f9511d3844851527","betSize":0.4,"multiplier":137.5,"payout":55},{"slotName":"Fighter Pit","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/5ec25f926e0d9b8b6575aa93df1dfb769e7b6b2127f801d159994eb249eefe29","betSize":0.4,"multiplier":32.9,"payout":13.16},{"slotName":"Junkyard Kings 2","provider":"Bullshark Games","slotImage":"https://mediumrare.imgix.net/365cca34b6c4b9ffd09244e0ac8e0b3e28d325e9a59124e3f3bebb7350df3ada","betSize":0.4,"multiplier":34.6,"payout":13.84},{"slotName":"Eye of the Panda","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e","betSize":0.4,"multiplier":71,"payout":28.4},{"slotName":"Jelly Express","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0","betSize":0.4,"multiplier":39.55,"payout":15.82},{"slotName":"Fury of Anubis","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4","betSize":0.4,"multiplier":108,"payout":43.2},{"slotName":"Big Bass Splash 1000","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e","betSize":0.6,"multiplier":34,"payout":20.4},{"slotName":"Outsourced: Payday","provider":"Nolimit City","slotImage":"https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd","betSize":0.6,"multiplier":56,"payout":33.6},{"slotName":"Big Bass Splash","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a","betSize":0.7,"multiplier":88.2,"payout":61.74},{"slotName":"Frightening Frankie","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e","betSize":0.75,"multiplier":20.8,"payout":15.6},{"slotName":"PIZZA! PIZZA? PIZZA!","provider":"Pragmatic Play","slotImage":"https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e","betSize":0.8,"multiplier":71.1,"payout":56.88},{"slotName":"Miami Mayhem","provider":"Hacksaw Gaming","slotImage":"https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209","betSize":0.4,"multiplier":50.1,"payout":20.04}]}
+    {
+      "id": "cmtu9g8wo08cejcsrw89yz6fl",
+      "title": "bonus hunt 44",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-09T15:35:57.721Z",
+      "updatedAt": "2026-09-09T21:41:39.262Z",
+      "isOpening": false,
+      "startCost": 1000,
+      "bonusCount": 14,
+      "totalWinnings": 453.44,
+      "profitLoss": -546.56,
+      "profitLossPercentage": -54.66,
+      "averagePayoutRequired": 71.43,
+      "currentAverage": 32.39,
+      "averageBetSize": 0.5,
+      "cumulativeMultiplier": 933.15,
+      "currentAverageMultiplier": 66.65,
+      "averageRequiredMultiplier": 141.84,
+      "highestWin": {
+        "slotName": "Big Bass Splash",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a",
+        "payout": 61.74,
+        "multiplier": 88.2,
+        "betSize": 0.7
+      },
+      "highestMulti": {
+        "slotName": "Bash Bros",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/7cb7dbca4d6578476951c5f44215128f9cd375e05b59ccd5f9511d3844851527",
+        "payout": 55,
+        "multiplier": 137.5,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Frightening Frankie",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e",
+        "payout": 15.6,
+        "multiplier": 20.8,
+        "betSize": 0.75
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.4,
+          "multiplier": 125.6,
+          "payout": 50.24
+        },
+        {
+          "slotName": "Minted Mike",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
+          "betSize": 0.4,
+          "multiplier": 63.8,
+          "payout": 25.52
+        },
+        {
+          "slotName": "Bash Bros",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7cb7dbca4d6578476951c5f44215128f9cd375e05b59ccd5f9511d3844851527",
+          "betSize": 0.4,
+          "multiplier": 137.5,
+          "payout": 55
+        },
+        {
+          "slotName": "Fighter Pit",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/5ec25f926e0d9b8b6575aa93df1dfb769e7b6b2127f801d159994eb249eefe29",
+          "betSize": 0.4,
+          "multiplier": 32.9,
+          "payout": 13.16
+        },
+        {
+          "slotName": "Junkyard Kings 2",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/365cca34b6c4b9ffd09244e0ac8e0b3e28d325e9a59124e3f3bebb7350df3ada",
+          "betSize": 0.4,
+          "multiplier": 34.6,
+          "payout": 13.84
+        },
+        {
+          "slotName": "Eye of the Panda",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e",
+          "betSize": 0.4,
+          "multiplier": 71,
+          "payout": 28.4
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.4,
+          "multiplier": 39.55,
+          "payout": 15.82
+        },
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.4,
+          "multiplier": 108,
+          "payout": 43.2
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.6,
+          "multiplier": 34,
+          "payout": 20.4
+        },
+        {
+          "slotName": "Outsourced: Payday",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd",
+          "betSize": 0.6,
+          "multiplier": 56,
+          "payout": 33.6
+        },
+        {
+          "slotName": "Big Bass Splash",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a",
+          "betSize": 0.7,
+          "multiplier": 88.2,
+          "payout": 61.74
+        },
+        {
+          "slotName": "Frightening Frankie",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e",
+          "betSize": 0.75,
+          "multiplier": 20.8,
+          "payout": 15.6
+        },
+        {
+          "slotName": "PIZZA! PIZZA? PIZZA!",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e",
+          "betSize": 0.8,
+          "multiplier": 71.1,
+          "payout": 56.88
+        },
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.4,
+          "multiplier": 50.1,
+          "payout": 20.04
+        }
+      ]
+    },
+    {
+      "id": "cmtt7auct23vwjc8jsh052ngo",
+      "title": "bonus hunt 43",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-08T21:48:00.173Z",
+      "updatedAt": "2026-09-08T23:03:23.614Z",
+      "isOpening": false,
+      "startCost": 600,
+      "bonusCount": 9,
+      "totalWinnings": 365.19,
+      "profitLoss": -234.81,
+      "profitLossPercentage": -39.13,
+      "averagePayoutRequired": 66.67,
+      "currentAverage": 40.58,
+      "averageBetSize": 0.49,
+      "cumulativeMultiplier": 672.1,
+      "currentAverageMultiplier": 74.68,
+      "averageRequiredMultiplier": 136.36,
+      "highestWin": {
+        "slotName": "Fist of Destruction",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+        "payout": 172.98,
+        "multiplier": 288.3,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Fist of Destruction",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+        "payout": 172.98,
+        "multiplier": 288.3,
+        "betSize": 0.6
+      },
+      "lowestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 4.17,
+        "multiplier": 6.95,
+        "betSize": 0.6
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 21.9,
+          "payout": 4.38
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 83.45,
+          "payout": 33.38
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.6,
+          "multiplier": 6.95,
+          "payout": 4.17
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.6,
+          "multiplier": 35.7,
+          "payout": 21.42
+        },
+        {
+          "slotName": "Flight Mode",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
+          "betSize": 0.4,
+          "multiplier": 22.05,
+          "payout": 8.82
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 41.05,
+          "payout": 16.42
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.6,
+          "multiplier": 41.5,
+          "payout": 24.9
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.6,
+          "multiplier": 288.3,
+          "payout": 172.98
+        },
+        {
+          "slotName": "Das xBoot 2wei!",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/1ce27afaadf389f21280785a197e6d38f5612b095d906878d3d6a481322b058c",
+          "betSize": 0.6,
+          "multiplier": 131.2,
+          "payout": 78.72
+        }
+      ]
+    },
+    {
+      "id": "cmtrvwvl80vxtjc8jk5ce1exu",
+      "title": "BONUS HUNT 42",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-07T23:41:26.637Z",
+      "updatedAt": "2026-09-08T19:31:48.924Z",
+      "isOpening": false,
+      "startCost": 1000,
+      "bonusCount": 21,
+      "totalWinnings": 1071.77,
+      "profitLoss": 71.77,
+      "profitLossPercentage": 7.18,
+      "averagePayoutRequired": 47.62,
+      "currentAverage": 51.04,
+      "averageBetSize": 0.61,
+      "cumulativeMultiplier": 1738.35,
+      "currentAverageMultiplier": 82.78,
+      "averageRequiredMultiplier": 78.13,
+      "highestWin": {
+        "slotName": "Bloody Dawn",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+        "payout": 217.62,
+        "multiplier": 362.7,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Bloody Dawn",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+        "payout": 217.62,
+        "multiplier": 362.7,
+        "betSize": 0.6
+      },
+      "lowestMulti": {
+        "slotName": "Outsourced: Payday",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd",
+        "payout": 7.2,
+        "multiplier": 12,
+        "betSize": 0.6
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.4,
+          "multiplier": 47.5,
+          "payout": 19
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.4,
+          "multiplier": 15.15,
+          "payout": 6.06
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 228.1,
+          "payout": 91.24
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 19.35,
+          "payout": 7.74
+        },
+        {
+          "slotName": "The Crypt 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92ec940699c93c4ae05c7ffd4cb4ca2ce7c222879b8449470bce980f1c452270",
+          "betSize": 0.6,
+          "multiplier": 103.6,
+          "payout": 62.16
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.6,
+          "multiplier": 97.8,
+          "payout": 58.68
+        },
+        {
+          "slotName": "Crazy Ex-Girlfriend",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/8218e92fd18e0547bae613646e8e8249bf09933f159b7e89afbacf753b963cb8",
+          "betSize": 0.6,
+          "multiplier": 46.55,
+          "payout": 27.93
+        },
+        {
+          "slotName": "Flight Mode",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
+          "betSize": 0.6,
+          "multiplier": 79.05,
+          "payout": 47.43
+        },
+        {
+          "slotName": "Outsourced",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/fff32a8bf7dec79ff52a75c25c579fc063f4772bab6a036e884e1a03a37d9d32",
+          "betSize": 0.6,
+          "multiplier": 17.85,
+          "payout": 10.71
+        },
+        {
+          "slotName": "Outsourced: Payday",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd",
+          "betSize": 0.6,
+          "multiplier": 12,
+          "payout": 7.2
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.6,
+          "multiplier": 32.8,
+          "payout": 19.68
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.6,
+          "multiplier": 15.3,
+          "payout": 9.18
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.6,
+          "multiplier": 125.15,
+          "payout": 75.09
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.6,
+          "multiplier": 23,
+          "payout": 13.8
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 0.8,
+          "multiplier": 24.5,
+          "payout": 19.6
+        },
+        {
+          "slotName": "Sweet Bonanza Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2e0fb5d8d19a26f8dabafc4076ce81c7eb653a613219a9fbb7cc44ec936ce993",
+          "betSize": 0.8,
+          "multiplier": 133.6,
+          "payout": 106.88
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 1,
+          "multiplier": 126.55,
+          "payout": 126.55
+        },
+        {
+          "slotName": "Wild West Gold Megaways",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a16bace509a7b8962e9cd0582832042f2f16c8280015f82894cd8db6a843d2b9",
+          "betSize": 1,
+          "multiplier": 55,
+          "payout": 55
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.6,
+          "multiplier": 362.7,
+          "payout": 217.62
+        },
+        {
+          "slotName": "Eye of the Panda",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e",
+          "betSize": 0.4,
+          "multiplier": 67.3,
+          "payout": 26.92
+        },
+        {
+          "slotName": "5 Lions Megaways 2",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+          "betSize": 0.6,
+          "multiplier": 105.5,
+          "payout": 63.3
+        }
+      ]
+    },
+    {
+      "id": "cmtqglk0f065yjczr5zmz3gau",
+      "title": "bonus hunt 41",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-06T23:44:57.999Z",
+      "updatedAt": "2026-09-07T18:54:18.546Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 13,
+      "totalWinnings": 839.1,
+      "profitLoss": 339.1,
+      "profitLossPercentage": 67.82,
+      "averagePayoutRequired": 38.46,
+      "currentAverage": 64.55,
+      "averageBetSize": 0.53,
+      "cumulativeMultiplier": 1661.02,
+      "currentAverageMultiplier": 127.77,
+      "averageRequiredMultiplier": 72.46,
+      "highestWin": {
+        "slotName": "Wild West Gold Megaways",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/a16bace509a7b8962e9cd0582832042f2f16c8280015f82894cd8db6a843d2b9",
+        "payout": 293.95,
+        "multiplier": 293.95,
+        "betSize": 1
+      },
+      "highestMulti": {
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 262.42,
+        "multiplier": 656.05,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Vampy Party",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/385705dc3bc1b5cff015de7acb337ccb6767a42e19ed12a5f70089b67361218d",
+        "payout": 3.96,
+        "multiplier": 6.6,
+        "betSize": 0.6
+      },
+      "bonuses": [
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 95.1,
+          "payout": 19.02
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.2,
+          "multiplier": 214.6,
+          "payout": 42.92
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 87.45,
+          "payout": 17.49
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 656.05,
+          "payout": 262.42
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 44.65,
+          "payout": 17.86
+        },
+        {
+          "slotName": "Book of Shadows",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a5d3d2dd5c17a75338c3dfca64c4a2f344c1982e6ac247fbb3ace92d26b9494a",
+          "betSize": 0.4,
+          "multiplier": 59.3,
+          "payout": 23.72
+        },
+        {
+          "slotName": "Juicy Fruits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/884da2c4d7b719ff5078a4960928d11f831314f1c4fe6db828d3fced07404d13",
+          "betSize": 0.5,
+          "multiplier": 10,
+          "payout": 5
+        },
+        {
+          "slotName": "Vampy Party",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/385705dc3bc1b5cff015de7acb337ccb6767a42e19ed12a5f70089b67361218d",
+          "betSize": 0.6,
+          "multiplier": 6.6,
+          "payout": 3.96
+        },
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.6,
+          "multiplier": 9.47,
+          "payout": 5.68
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.8,
+          "multiplier": 62.4,
+          "payout": 49.92
+        },
+        {
+          "slotName": "Gates of Olympus 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
+          "betSize": 0.8,
+          "multiplier": 25.75,
+          "payout": 20.6
+        },
+        {
+          "slotName": "Gates of Olympus Xmas 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/206a059864461c5bb63e1af83d5a105a2c36205cb8e01b37418f57d10d295252",
+          "betSize": 0.8,
+          "multiplier": 95.7,
+          "payout": 76.56
+        },
+        {
+          "slotName": "Wild West Gold Megaways",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a16bace509a7b8962e9cd0582832042f2f16c8280015f82894cd8db6a843d2b9",
+          "betSize": 1,
+          "multiplier": 293.95,
+          "payout": 293.95
+        }
+      ]
+    },
+    {
+      "id": "cmtq5ueuw0rlwjclry3vym4lw",
+      "title": "bonus hunt 40",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-06T18:43:55.448Z",
+      "updatedAt": "2026-09-06T21:08:59.822Z",
+      "isOpening": false,
+      "startCost": 200,
+      "bonusCount": 13,
+      "totalWinnings": 83.73,
+      "profitLoss": -116.27,
+      "profitLossPercentage": -58.13,
+      "averagePayoutRequired": 15.38,
+      "currentAverage": 6.44,
+      "averageBetSize": 0.15,
+      "cumulativeMultiplier": 610.05,
+      "currentAverageMultiplier": 46.93,
+      "averageRequiredMultiplier": 100,
+      "highestWin": {
+        "slotName": "Le Cowboy",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+        "payout": 18.44,
+        "multiplier": 184.4,
+        "betSize": 0.1
+      },
+      "highestMulti": {
+        "slotName": "Le Cowboy",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+        "payout": 18.44,
+        "multiplier": 184.4,
+        "betSize": 0.1
+      },
+      "lowestMulti": {
+        "slotName": "5 Lions Megaways 2",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+        "payout": 0.68,
+        "multiplier": 3.4,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.1,
+          "multiplier": 47.9,
+          "payout": 4.79
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.1,
+          "multiplier": 26.5,
+          "payout": 2.65
+        },
+        {
+          "slotName": "Marlin Masters: The Big Haul",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+          "betSize": 0.1,
+          "multiplier": 11.1,
+          "payout": 1.11
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 42.2,
+          "payout": 4.22
+        },
+        {
+          "slotName": "Le Cowboy",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+          "betSize": 0.1,
+          "multiplier": 184.4,
+          "payout": 18.44
+        },
+        {
+          "slotName": "Big Bass Splash",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a",
+          "betSize": 0.2,
+          "multiplier": 72.9,
+          "payout": 14.58
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.2,
+          "multiplier": 27.2,
+          "payout": 5.44
+        },
+        {
+          "slotName": "Minted Mike",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
+          "betSize": 0.2,
+          "multiplier": 5.2,
+          "payout": 1.04
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 3.75,
+          "payout": 0.75
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 90.3,
+          "payout": 18.06
+        },
+        {
+          "slotName": "5 Lions Megaways 2",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+          "betSize": 0.2,
+          "multiplier": 3.4,
+          "payout": 0.68
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 24.5,
+          "payout": 4.9
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.1,
+          "multiplier": 70.7,
+          "payout": 7.07
+        }
+      ]
+    },
+    {
+      "id": "cmtluhv9x0936jcz3ralxemg3",
+      "title": "bonus hunt 39",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-03T18:15:09.718Z",
+      "updatedAt": "2026-09-03T20:30:19.937Z",
+      "isOpening": false,
+      "startCost": 300,
+      "bonusCount": 16,
+      "totalWinnings": 352.46,
+      "profitLoss": 52.46,
+      "profitLossPercentage": 17.49,
+      "averagePayoutRequired": 18.75,
+      "currentAverage": 22.03,
+      "averageBetSize": 0.23,
+      "cumulativeMultiplier": 1289.87,
+      "currentAverageMultiplier": 80.62,
+      "averageRequiredMultiplier": 81.08,
+      "highestWin": {
+        "slotName": "The Hand of Midas",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a",
+        "payout": 179.94,
+        "multiplier": 449.85,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "The Hand of Midas",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a",
+        "payout": 179.94,
+        "multiplier": 449.85,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Land of the Free",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/789ad9f2881c31f08eb5b5ad4b813b7ae2f5fd0b183b4f5e361728dd902f622b",
+        "payout": 1.36,
+        "multiplier": 6.8,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 30.8,
+          "payout": 3.08
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 58.6,
+          "payout": 11.72
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 55.5,
+          "payout": 11.1
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.2,
+          "multiplier": 33.5,
+          "payout": 6.7
+        },
+        {
+          "slotName": "The Crypt",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/87f963bbc287d5a8e2fbad5ce8dccc661cdcbc66c45d034169af524fda43f435",
+          "betSize": 0.2,
+          "multiplier": 27.95,
+          "payout": 5.59
+        },
+        {
+          "slotName": "The Crypt 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92ec940699c93c4ae05c7ffd4cb4ca2ce7c222879b8449470bce980f1c452270",
+          "betSize": 0.2,
+          "multiplier": 56.4,
+          "payout": 11.28
+        },
+        {
+          "slotName": "Land of the Free",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/789ad9f2881c31f08eb5b5ad4b813b7ae2f5fd0b183b4f5e361728dd902f622b",
+          "betSize": 0.2,
+          "multiplier": 6.8,
+          "payout": 1.36
+        },
+        {
+          "slotName": "Soaked By Seamen",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/e044f39098a73e1417615fa8e710d07f176be9ca8b558ea5cc02d14d4f769548",
+          "betSize": 0.2,
+          "multiplier": 13.9,
+          "payout": 2.78
+        },
+        {
+          "slotName": "Flight Mode",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
+          "betSize": 0.2,
+          "multiplier": 13.8,
+          "payout": 2.76
+        },
+        {
+          "slotName": "Johnny Cash",
+          "provider": "BGaming",
+          "slotImage": "https://mediumrare.imgix.net/5093806ee6094f00b5a76c575fed594ea9f1b9262e56db428537b99ae384d33f",
+          "betSize": 0.2,
+          "multiplier": 39,
+          "payout": 7.8
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 46.55,
+          "payout": 9.31
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 355.5,
+          "payout": 71.1
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 63.75,
+          "payout": 12.75
+        },
+        {
+          "slotName": "Catfish Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/03a7e09275271e25ae54c53f906ef605e632c4643fd7c3b5f3fb25ed01e982cd",
+          "betSize": 0.4,
+          "multiplier": 15.43,
+          "payout": 6.17
+        },
+        {
+          "slotName": "The Hand of Midas",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a",
+          "betSize": 0.4,
+          "multiplier": 449.85,
+          "payout": 179.94
+        },
+        {
+          "slotName": "Nine To Five",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/331f263c9b1499cece06fbd2d7f7f2e4aba23fec25c4b0f0fa27ab4e9bdf2d87",
+          "betSize": 0.4,
+          "multiplier": 22.55,
+          "payout": 9.02
+        }
+      ]
+    },
+    {
+      "id": "cmtlmtw6306z4jcjcy95lx0o5",
+      "title": "bonus hunt 38",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-03T14:40:33.819Z",
+      "updatedAt": "2026-09-03T18:14:29.058Z",
+      "isOpening": false,
+      "startCost": 350,
+      "bonusCount": 11,
+      "totalWinnings": 179.92,
+      "profitLoss": -170.08,
+      "profitLossPercentage": -48.59,
+      "averagePayoutRequired": 31.82,
+      "currentAverage": 16.36,
+      "averageBetSize": 0.24,
+      "cumulativeMultiplier": 838.45,
+      "currentAverageMultiplier": 76.22,
+      "averageRequiredMultiplier": 134.62,
+      "highestWin": {
+        "slotName": "Bizarre",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
+        "payout": 90.57,
+        "multiplier": 452.85,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Bizarre",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
+        "payout": 90.57,
+        "multiplier": 452.85,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Hearts of Venus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+        "payout": 0.64,
+        "multiplier": 3.2,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 56.1,
+          "payout": 5.61
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 25.1,
+          "payout": 5.02
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 19.8,
+          "payout": 3.96
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.2,
+          "multiplier": 31,
+          "payout": 6.2
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.2,
+          "multiplier": 10.4,
+          "payout": 2.08
+        },
+        {
+          "slotName": "Book of Shadows",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a5d3d2dd5c17a75338c3dfca64c4a2f344c1982e6ac247fbb3ace92d26b9494a",
+          "betSize": 0.2,
+          "multiplier": 77.2,
+          "payout": 15.44
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 3.2,
+          "payout": 0.64
+        },
+        {
+          "slotName": "Harvest Moon: Grave Profits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
+          "betSize": 0.3,
+          "multiplier": 147.2,
+          "payout": 44.16
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 7.85,
+          "payout": 3.14
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 7.75,
+          "payout": 3.1
+        },
+        {
+          "slotName": "Bizarre",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
+          "betSize": 0.2,
+          "multiplier": 452.85,
+          "payout": 90.57
+        }
+      ]
+    },
+    {
+      "id": "cmtkf1g79018ijc5pt4ehnw2t",
+      "title": "bonus hunt 37",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-02T18:14:43.269Z",
+      "updatedAt": "2026-09-02T20:23:37.238Z",
+      "isOpening": false,
+      "startCost": 340,
+      "bonusCount": 14,
+      "totalWinnings": 503.1,
+      "profitLoss": 163.1,
+      "profitLossPercentage": 47.97,
+      "averagePayoutRequired": 24.29,
+      "currentAverage": 35.94,
+      "averageBetSize": 0.29,
+      "cumulativeMultiplier": 2011.32,
+      "currentAverageMultiplier": 143.67,
+      "averageRequiredMultiplier": 85,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 127.44,
+        "multiplier": 318.6,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Fist of Destruction",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+        "payout": 73.96,
+        "multiplier": 369.8,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Tombstone Begins",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/37bba82dc430034d0a3ada135218fdef69ee913ee0bc2076c12406fd445caba1",
+        "payout": 1.12,
+        "multiplier": 2.8,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 106.7,
+          "payout": 10.67
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.1,
+          "multiplier": 30.2,
+          "payout": 3.02
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 229.3,
+          "payout": 45.86
+        },
+        {
+          "slotName": "Disorder",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/f7b8d83d5156b0b7f316802e67c93e8a2e62e8a4c09f197b45b23c55f68e3ce4",
+          "betSize": 0.2,
+          "multiplier": 116.45,
+          "payout": 23.29
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.2,
+          "multiplier": 369.8,
+          "payout": 73.96
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.2,
+          "multiplier": 244.1,
+          "payout": 48.82
+        },
+        {
+          "slotName": "Tombstone Begins",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/37bba82dc430034d0a3ada135218fdef69ee913ee0bc2076c12406fd445caba1",
+          "betSize": 0.4,
+          "multiplier": 2.8,
+          "payout": 1.12
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 342.15,
+          "payout": 68.43
+        },
+        {
+          "slotName": "Nine To Five",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/331f263c9b1499cece06fbd2d7f7f2e4aba23fec25c4b0f0fa27ab4e9bdf2d87",
+          "betSize": 0.4,
+          "multiplier": 8,
+          "payout": 3.2
+        },
+        {
+          "slotName": "BRICK SNAKE 2000",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/4d46b7eea228f489c86bc528e7221e20213d107feeee4f1d662e7f563234529f",
+          "betSize": 0.4,
+          "multiplier": 62.5,
+          "payout": 25
+        },
+        {
+          "slotName": "AFK Airport Security",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/4b0316d1963d89817aced162094395da95d547e73eedf52a0ae47d7306b70c8a",
+          "betSize": 0.4,
+          "multiplier": 17,
+          "payout": 6.8
+        },
+        {
+          "slotName": "Soaked By Seamen",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/e044f39098a73e1417615fa8e710d07f176be9ca8b558ea5cc02d14d4f769548",
+          "betSize": 0.4,
+          "multiplier": 63.8,
+          "payout": 25.52
+        },
+        {
+          "slotName": "Flight Mode",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a9d5675f56a1106328a5a42452bd3e1aeb9ab256b8d39474911f6365a5240422",
+          "betSize": 0.4,
+          "multiplier": 99.93,
+          "payout": 39.97
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 318.6,
+          "payout": 127.44
+        }
+      ]
+    },
+    {
+      "id": "cmtk9ar7a4lw0jch9lrvxsrif",
+      "title": "bonus hunt 36",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-02T15:33:59.735Z",
+      "updatedAt": "2026-09-02T18:14:20.637Z",
+      "isOpening": false,
+      "startCost": 350,
+      "bonusCount": 14,
+      "totalWinnings": 195.77,
+      "profitLoss": -154.23,
+      "profitLossPercentage": -44.07,
+      "averagePayoutRequired": 25,
+      "currentAverage": 13.98,
+      "averageBetSize": 0.22,
+      "cumulativeMultiplier": 858.3,
+      "currentAverageMultiplier": 61.31,
+      "averageRequiredMultiplier": 112.9,
+      "highestWin": {
+        "slotName": "Starlight Princess Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+        "payout": 70.66,
+        "multiplier": 176.65,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Hearts of Venus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+        "payout": 38.23,
+        "multiplier": 191.15,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Marlin Masters OG",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+        "payout": 2.4,
+        "multiplier": 12,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 139.6,
+          "payout": 13.96
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 12,
+          "payout": 2.4
+        },
+        {
+          "slotName": "Le Bunny",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d8db515d5b88c06d2a86dc0454512896b30777c9bd835cd7dc865eefb0d7c4eb",
+          "betSize": 0.2,
+          "multiplier": 38.5,
+          "payout": 7.7
+        },
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 49.9,
+          "payout": 9.98
+        },
+        {
+          "slotName": "Le Prechaun",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
+          "betSize": 0.2,
+          "multiplier": 27.8,
+          "payout": 5.56
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.2,
+          "multiplier": 16.35,
+          "payout": 3.27
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 54.1,
+          "payout": 10.82
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 191.15,
+          "payout": 38.23
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 37.15,
+          "payout": 7.43
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 25.7,
+          "payout": 5.14
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 35.6,
+          "payout": 7.12
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 40.1,
+          "payout": 8.02
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.4,
+          "multiplier": 13.7,
+          "payout": 5.48
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 0.4,
+          "multiplier": 176.65,
+          "payout": 70.66
+        }
+      ]
+    },
+    {
+      "id": "cmtj2g6mi3sxejch9lpgdlzkn",
+      "title": "bonus hunt 35",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-01T19:34:29.514Z",
+      "updatedAt": "2026-09-01T20:59:47.210Z",
+      "isOpening": false,
+      "startCost": 900,
+      "bonusCount": 11,
+      "totalWinnings": 288.92,
+      "profitLoss": -611.08,
+      "profitLossPercentage": -67.9,
+      "averagePayoutRequired": 81.82,
+      "currentAverage": 26.27,
+      "averageBetSize": 0.56,
+      "cumulativeMultiplier": 423.5,
+      "currentAverageMultiplier": 38.5,
+      "averageRequiredMultiplier": 145.16,
+      "highestWin": {
+        "slotName": "Sweet Bonanza 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+        "payout": 115.85,
+        "multiplier": 115.85,
+        "betSize": 1
+      },
+      "highestMulti": {
+        "slotName": "Sweet Bonanza 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+        "payout": 115.85,
+        "multiplier": 115.85,
+        "betSize": 1
+      },
+      "lowestMulti": {
+        "slotName": "Sugar Rush Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 0.8,
+        "multiplier": 4,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 15.7,
+          "payout": 3.14
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 4,
+          "payout": 0.8
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.4,
+          "multiplier": 113.6,
+          "payout": 45.44
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.4,
+          "multiplier": 11.8,
+          "payout": 4.72
+        },
+        {
+          "slotName": "Le Prechaun",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
+          "betSize": 0.6,
+          "multiplier": 35.6,
+          "payout": 21.36
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.6,
+          "multiplier": 33.9,
+          "payout": 20.34
+        },
+        {
+          "slotName": "The Crypt",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/87f963bbc287d5a8e2fbad5ce8dccc661cdcbc66c45d034169af524fda43f435",
+          "betSize": 0.6,
+          "multiplier": 27.8,
+          "payout": 16.68
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.6,
+          "multiplier": 5.9,
+          "payout": 3.54
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.6,
+          "multiplier": 5.75,
+          "payout": 3.45
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 1,
+          "multiplier": 53.6,
+          "payout": 53.6
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 1,
+          "multiplier": 115.85,
+          "payout": 115.85
+        }
+      ]
+    },
+    {
+      "id": "cmtir5olm3c2kjch9ul9kgzv0",
+      "title": "Bonus hunt 34",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-01T14:18:23.818Z",
+      "updatedAt": "2026-09-01T19:21:31.508Z",
+      "isOpening": false,
+      "startCost": 700,
+      "bonusCount": 19,
+      "totalWinnings": 427.94,
+      "profitLoss": -272.06,
+      "profitLossPercentage": -38.87,
+      "averagePayoutRequired": 36.84,
+      "currentAverage": 22.52,
+      "averageBetSize": 0.42,
+      "cumulativeMultiplier": 1322.2,
+      "currentAverageMultiplier": 69.59,
+      "averageRequiredMultiplier": 87.5,
+      "highestWin": {
+        "slotName": "Hearts of Venus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+        "payout": 96.54,
+        "multiplier": 482.7,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Hearts of Venus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+        "payout": 96.54,
+        "multiplier": 482.7,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Buffalo King",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/25cd1adef282051892c89c8a3f46c00975e5452f776c49bf8f8e9bdce81c8483",
+        "payout": 4.8,
+        "multiplier": 4,
+        "betSize": 1.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 482.7,
+          "payout": 96.54
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 36.2,
+          "payout": 7.24
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 20.2,
+          "payout": 4.04
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 21.9,
+          "payout": 4.38
+        },
+        {
+          "slotName": "Marlin Masters: The Big Haul",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+          "betSize": 0.2,
+          "multiplier": 58.8,
+          "payout": 11.76
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.2,
+          "multiplier": 55.3,
+          "payout": 11.06
+        },
+        {
+          "slotName": "Book of Shadows",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a5d3d2dd5c17a75338c3dfca64c4a2f344c1982e6ac247fbb3ace92d26b9494a",
+          "betSize": 0.4,
+          "multiplier": 114.6,
+          "payout": 45.84
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.4,
+          "multiplier": 18.3,
+          "payout": 7.32
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.4,
+          "multiplier": 21,
+          "payout": 8.4
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 0.4,
+          "multiplier": 45,
+          "payout": 18
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.4,
+          "multiplier": 17,
+          "payout": 6.8
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.4,
+          "multiplier": 145.6,
+          "payout": 58.24
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 11.8,
+          "payout": 4.72
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 19.2,
+          "payout": 7.68
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 35.75,
+          "payout": 14.3
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 137.65,
+          "payout": 55.06
+        },
+        {
+          "slotName": "Gates of Olympus 1000 Dice",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/c0343caad3435cc83db2e072a20e450fa3502a1b5d45d67bba2adbd85d797d45",
+          "betSize": 0.8,
+          "multiplier": 50.1,
+          "payout": 40.08
+        },
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 0.8,
+          "multiplier": 27.1,
+          "payout": 21.68
+        },
+        {
+          "slotName": "Buffalo King",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/25cd1adef282051892c89c8a3f46c00975e5452f776c49bf8f8e9bdce81c8483",
+          "betSize": 1.2,
+          "multiplier": 4,
+          "payout": 4.8
+        }
+      ]
+    },
+    {
+      "id": "cmthkycd62gdxjch96zzxjg7p",
+      "title": "BONUS HUNT 33",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-31T18:36:57.498Z",
+      "updatedAt": "2026-08-31T20:21:01.004Z",
+      "isOpening": false,
+      "startCost": 700,
+      "bonusCount": 12,
+      "totalWinnings": 600.53,
+      "profitLoss": -99.47,
+      "profitLossPercentage": -14.21,
+      "averagePayoutRequired": 58.33,
+      "currentAverage": 50.04,
+      "averageBetSize": 0.65,
+      "cumulativeMultiplier": 787.05,
+      "currentAverageMultiplier": 65.59,
+      "averageRequiredMultiplier": 90.32,
+      "highestWin": {
+        "slotName": "Fire Portals",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+        "payout": 262.1,
+        "multiplier": 262.1,
+        "betSize": 1
+      },
+      "highestMulti": {
+        "slotName": "Fire Portals",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+        "payout": 262.1,
+        "multiplier": 262.1,
+        "betSize": 1
+      },
+      "lowestMulti": {
+        "slotName": "Chilli Heat",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/33ea7f514199523216fbb025355f8fdbb0a29bae063e751655e64c99743f16ac",
+        "payout": 4.5,
+        "multiplier": 6,
+        "betSize": 0.75
+      },
+      "bonuses": [
+        {
+          "slotName": "Brute Force",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/4da078927c44e5477a4a1e63e83d867bf7e192fc2971d261977d4b140add8530",
+          "betSize": 0.4,
+          "multiplier": 136.25,
+          "payout": 54.5
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 13.15,
+          "payout": 5.26
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 26.7,
+          "payout": 10.68
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.6,
+          "multiplier": 38.25,
+          "payout": 22.95
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.6,
+          "multiplier": 58.05,
+          "payout": 34.83
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.6,
+          "multiplier": 14.05,
+          "payout": 8.43
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.6,
+          "multiplier": 19.7,
+          "payout": 11.82
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.6,
+          "multiplier": 71,
+          "payout": 42.6
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.6,
+          "multiplier": 45.5,
+          "payout": 27.3
+        },
+        {
+          "slotName": "Chilli Heat",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/33ea7f514199523216fbb025355f8fdbb0a29bae063e751655e64c99743f16ac",
+          "betSize": 0.75,
+          "multiplier": 6,
+          "payout": 4.5
+        },
+        {
+          "slotName": "Fire Portals",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+          "betSize": 1,
+          "multiplier": 262.1,
+          "payout": 262.1
+        },
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 1.2,
+          "multiplier": 96.3,
+          "payout": 115.56
+        }
+      ]
+    },
+    {
+      "id": "cmthgjdes2b15jch9hbn85ry7",
+      "title": "BONUS HUNT 32",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-31T16:33:20.548Z",
+      "updatedAt": "2026-08-31T18:36:30.335Z",
+      "isOpening": false,
+      "startCost": 600,
+      "bonusCount": 12,
+      "totalWinnings": 1324,
+      "profitLoss": 724,
+      "profitLossPercentage": 120.67,
+      "averagePayoutRequired": 50,
+      "currentAverage": 110.33,
+      "averageBetSize": 0.58,
+      "cumulativeMultiplier": 2299.05,
+      "currentAverageMultiplier": 191.59,
+      "averageRequiredMultiplier": 86.96,
+      "highestWin": {
+        "slotName": "Bloody Dawn",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+        "payout": 494.43,
+        "multiplier": 824.05,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Bloody Dawn",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+        "payout": 494.43,
+        "multiplier": 824.05,
+        "betSize": 0.6
+      },
+      "lowestMulti": {
+        "slotName": "Marlin Masters OG",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+        "payout": 7.4,
+        "multiplier": 18.5,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "SixSixSix",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/2e91aa9817c936a142dc7446f260404011db393e72dc71ac4ec13f900e20e042",
+          "betSize": 0.1,
+          "multiplier": 57.2,
+          "payout": 5.72
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 57.3,
+          "payout": 11.46
+        },
+        {
+          "slotName": "The Crypt",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/87f963bbc287d5a8e2fbad5ce8dccc661cdcbc66c45d034169af524fda43f435",
+          "betSize": 0.4,
+          "multiplier": 162.7,
+          "payout": 65.08
+        },
+        {
+          "slotName": "Bizarre",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
+          "betSize": 0.4,
+          "multiplier": 676.3,
+          "payout": 270.52
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 45.15,
+          "payout": 18.06
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.4,
+          "multiplier": 18.5,
+          "payout": 7.4
+        },
+        {
+          "slotName": "PIZZA! PIZZA? PIZZA!",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e",
+          "betSize": 0.6,
+          "multiplier": 23.25,
+          "payout": 13.95
+        },
+        {
+          "slotName": "Peppe's Pepperoni Pizza Plaza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a710fb4b159d4a3cf7c814d11b1ea07fe0a5ce4442122ea3ce102c96eb89dc5b",
+          "betSize": 0.6,
+          "multiplier": 39.9,
+          "payout": 23.94
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.6,
+          "multiplier": 824.05,
+          "payout": 494.43
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.8,
+          "multiplier": 150.5,
+          "payout": 120.4
+        },
+        {
+          "slotName": "Fire Portals",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+          "betSize": 1.2,
+          "multiplier": 36.5,
+          "payout": 43.8
+        },
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 1.2,
+          "multiplier": 207.7,
+          "payout": 249.24
+        }
+      ]
+    },
+    {
+      "id": "cmtg96hev1gdfjch9ky4ki87v",
+      "title": "bonus hunt 31",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-30T20:19:35.719Z",
+      "updatedAt": "2026-08-30T22:29:26.629Z",
+      "isOpening": false,
+      "startCost": 400,
+      "bonusCount": 14,
+      "totalWinnings": 297.3,
+      "profitLoss": -102.7,
+      "profitLossPercentage": -25.67,
+      "averagePayoutRequired": 28.57,
+      "currentAverage": 21.24,
+      "averageBetSize": 0.27,
+      "cumulativeMultiplier": 991.9,
+      "currentAverageMultiplier": 70.85,
+      "averageRequiredMultiplier": 105.26,
+      "highestWin": {
+        "slotName": "Bigger Bass Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/aa1d816ec96179fb6c1e385fc121dfda9558aa7acf5be6f5c823ad20ad1e6225",
+        "payout": 81.3,
+        "multiplier": 135.5,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Big Bass Bonanza 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+        "payout": 67.28,
+        "multiplier": 168.2,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Tombstone",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/95a4365f6bc5c291528c1ca76bdaa1c81bdaca6a5ee043ddb6a73235c74cb74b",
+        "payout": 6.84,
+        "multiplier": 17.1,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Book of Shadows",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a5d3d2dd5c17a75338c3dfca64c4a2f344c1982e6ac247fbb3ace92d26b9494a",
+          "betSize": 0.2,
+          "multiplier": 126.2,
+          "payout": 25.24
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.4,
+          "multiplier": 168.2,
+          "payout": 67.28
+        },
+        {
+          "slotName": "Le Zeus",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/23817cad10a51c4a4a086a302774b766360770f87c97a623d45ca0ede6e05203",
+          "betSize": 0.2,
+          "multiplier": 85.9,
+          "payout": 17.18
+        },
+        {
+          "slotName": "Tombstone",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/95a4365f6bc5c291528c1ca76bdaa1c81bdaca6a5ee043ddb6a73235c74cb74b",
+          "betSize": 0.4,
+          "multiplier": 17.1,
+          "payout": 6.84
+        },
+        {
+          "slotName": "Bizarre",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a69b9d675f67cd1831f59cb51607c0bd1923e765ed350f26671102d109bb036c",
+          "betSize": 0.4,
+          "multiplier": 38.3,
+          "payout": 15.32
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 143.9,
+          "payout": 28.78
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.2,
+          "multiplier": 23.7,
+          "payout": 4.74
+        },
+        {
+          "slotName": "San Quentin Manhunt",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/50cc840d2c1ca0458209034b0d00f42874a544a0944ac25316f6bb7bc4c77f92",
+          "betSize": 0.2,
+          "multiplier": 36.45,
+          "payout": 7.29
+        },
+        {
+          "slotName": "Catfish Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/03a7e09275271e25ae54c53f906ef605e632c4643fd7c3b5f3fb25ed01e982cd",
+          "betSize": 0.2,
+          "multiplier": 42.35,
+          "payout": 8.47
+        },
+        {
+          "slotName": "Punk Rocker 3",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/004c2cf6fcb2d1c05fc5d6000e3364a798fbd3fbc3353888ad41860735567abc",
+          "betSize": 0.2,
+          "multiplier": 26.65,
+          "payout": 5.33
+        },
+        {
+          "slotName": "Snow Party",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/172e42fc4b5185ed6e360696f1aaae793cc01a7cf2a9f6591418824664843fe8",
+          "betSize": 0.2,
+          "multiplier": 40.85,
+          "payout": 8.17
+        },
+        {
+          "slotName": "Bigger Bass Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/aa1d816ec96179fb6c1e385fc121dfda9558aa7acf5be6f5c823ad20ad1e6225",
+          "betSize": 0.6,
+          "multiplier": 135.5,
+          "payout": 81.3
+        },
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 58,
+          "payout": 11.6
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 48.8,
+          "payout": 9.76
+        }
+      ]
+    },
+    {
+      "id": "cmtg2pg2i12lvjch9ms22ugq4",
+      "title": "bonus hunt 30",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-30T17:18:23.130Z",
+      "updatedAt": "2026-08-30T20:18:42.698Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 12,
+      "totalWinnings": 328.76,
+      "profitLoss": -171.24,
+      "profitLossPercentage": -34.25,
+      "averagePayoutRequired": 41.67,
+      "currentAverage": 27.4,
+      "averageBetSize": 0.28,
+      "cumulativeMultiplier": 863.6,
+      "currentAverageMultiplier": 71.97,
+      "averageRequiredMultiplier": 151.52,
+      "highestWin": {
+        "slotName": "Starlight Princess 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+        "payout": 186.45,
+        "multiplier": 186.45,
+        "betSize": 1
+      },
+      "highestMulti": {
+        "slotName": "Hell Butcher",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+        "payout": 59.41,
+        "multiplier": 297.05,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 0.36,
+        "multiplier": 1.8,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 1,
+          "multiplier": 186.45,
+          "payout": 186.45
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 67.6,
+          "payout": 13.52
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 38.8,
+          "payout": 7.76
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 40.6,
+          "payout": 8.12
+        },
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.2,
+          "multiplier": 27,
+          "payout": 5.4
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 1.8,
+          "payout": 0.36
+        },
+        {
+          "slotName": "Eye of the Panda",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e",
+          "betSize": 0.2,
+          "multiplier": 37.3,
+          "payout": 7.46
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 17.2,
+          "payout": 3.44
+        },
+        {
+          "slotName": "SixSixSix",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/2e91aa9817c936a142dc7446f260404011db393e72dc71ac4ec13f900e20e042",
+          "betSize": 0.1,
+          "multiplier": 51.6,
+          "payout": 5.16
+        },
+        {
+          "slotName": "Xmas Drop",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/be3cf80fcd859427ca4ecabef13e7dfbee3603eaa3ed2dc975ccc1cb6ee622dc",
+          "betSize": 0.2,
+          "multiplier": 38,
+          "payout": 7.6
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 297.05,
+          "payout": 59.41
+        },
+        {
+          "slotName": "PIZZA! PIZZA? PIZZA!",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e",
+          "betSize": 0.4,
+          "multiplier": 60.2,
+          "payout": 24.08
+        }
+      ]
+    },
+    {
+      "id": "cmtev496x08dxjch91iahesw5",
+      "title": "bonus hunt 29",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-29T20:58:10.954Z",
+      "updatedAt": "2026-08-29T22:23:07.184Z",
+      "isOpening": false,
+      "startCost": 200,
+      "bonusCount": 7,
+      "totalWinnings": 87.11,
+      "profitLoss": -112.89,
+      "profitLossPercentage": -56.44,
+      "averagePayoutRequired": 28.57,
+      "currentAverage": 12.44,
+      "averageBetSize": 0.21,
+      "cumulativeMultiplier": 409.8,
+      "currentAverageMultiplier": 58.54,
+      "averageRequiredMultiplier": 133.33,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 30.59,
+        "multiplier": 152.95,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 30.59,
+        "multiplier": 152.95,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Hell Butcher",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+        "payout": 1.08,
+        "multiplier": 5.4,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "SixSixSix",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/2e91aa9817c936a142dc7446f260404011db393e72dc71ac4ec13f900e20e042",
+          "betSize": 0.1,
+          "multiplier": 55.2,
+          "payout": 5.52
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 47.6,
+          "payout": 9.52
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 5.4,
+          "payout": 1.08
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 152.95,
+          "payout": 30.59
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 85,
+          "payout": 17
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.2,
+          "multiplier": 10.3,
+          "payout": 2.06
+        },
+        {
+          "slotName": "Fire Portals",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+          "betSize": 0.4,
+          "multiplier": 53.35,
+          "payout": 21.34
+        }
+      ]
+    },
+    {
+      "id": "cmtdj1y6t0oxkjcenurtdbqhq",
+      "title": "bonus hunt 28",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-28T22:32:41.814Z",
+      "updatedAt": "2026-08-29T00:42:10.059Z",
+      "isOpening": false,
+      "startCost": 400,
+      "bonusCount": 16,
+      "totalWinnings": 196,
+      "profitLoss": -204,
+      "profitLossPercentage": -51,
+      "averagePayoutRequired": 25,
+      "currentAverage": 12.25,
+      "averageBetSize": 0.29,
+      "cumulativeMultiplier": 865.5,
+      "currentAverageMultiplier": 54.09,
+      "averageRequiredMultiplier": 86.96,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 31,
+        "multiplier": 155,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 31,
+        "multiplier": 155,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Death Becomes You",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/1a05d78652483448828c150dfbd0d989e2b932215ad42fe4456b48c6e5ffa53f",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Pearl Harbor",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/46bd05db9a7d11799672b6e09f1e29a2cce964af1ab83bd4348495f402a20e1d",
+          "betSize": 0.6,
+          "multiplier": 15,
+          "payout": 9
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.4,
+          "multiplier": 72.5,
+          "payout": 29
+        },
+        {
+          "slotName": "Le Prechaun",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
+          "betSize": 0.2,
+          "multiplier": 50,
+          "payout": 10
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 155,
+          "payout": 31
+        },
+        {
+          "slotName": "Death Becomes You",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1a05d78652483448828c150dfbd0d989e2b932215ad42fe4456b48c6e5ffa53f",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Epic Bullets and Bounty",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d99a5b4d8ef0f0ac47bfd6a44e44412ee6a51044cb8d6b83bdb85f43d0e3113c",
+          "betSize": 0.1,
+          "multiplier": 70,
+          "payout": 7
+        },
+        {
+          "slotName": "le football fan",
+          "provider": "Custom",
+          "slotImage": "/images/noimage.jpg",
+          "betSize": 0.2,
+          "multiplier": 40,
+          "payout": 8
+        },
+        {
+          "slotName": "Hot Ross",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
+          "betSize": 0.2,
+          "multiplier": 35,
+          "payout": 7
+        },
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 85,
+          "payout": 17
+        },
+        {
+          "slotName": "SixSixSix",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/2e91aa9817c936a142dc7446f260404011db393e72dc71ac4ec13f900e20e042",
+          "betSize": 0.1,
+          "multiplier": 80,
+          "payout": 8
+        },
+        {
+          "slotName": "Rainbow Princess",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/968f7682f3af160f60d88eeb8f5c3e22a280b142f29b64dd4b765998ab28a591",
+          "betSize": 0.4,
+          "multiplier": 35,
+          "payout": 14
+        },
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.2,
+          "multiplier": 20,
+          "payout": 4
+        },
+        {
+          "slotName": "The Count",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/85df80b16ad5fc92a2a7a7e9e12f78c75dd1a33eddff36daa8a02dbc7f2eab54",
+          "betSize": 0.2,
+          "multiplier": 75,
+          "payout": 15
+        },
+        {
+          "slotName": "Bash Bros",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7cb7dbca4d6578476951c5f44215128f9cd375e05b59ccd5f9511d3844851527",
+          "betSize": 0.2,
+          "multiplier": 75,
+          "payout": 15
+        },
+        {
+          "slotName": "Gobstopper Grind",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/d0cbbd7913e18dfc2419683cf79b610adaf32d9fbd76fd60a009f9ed90c6ea58",
+          "betSize": 0.2,
+          "multiplier": 45,
+          "payout": 9
+        },
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 1,
+          "multiplier": 13,
+          "payout": 13
+        }
+      ]
+    },
+    {
+      "id": "cmtda4ces0c42jcen9tenkq85",
+      "title": "bonus hunt 27",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-28T18:22:37.012Z",
+      "updatedAt": "2026-08-28T22:11:35.870Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 14,
+      "totalWinnings": 227,
+      "profitLoss": -273,
+      "profitLossPercentage": -54.6,
+      "averagePayoutRequired": 35.71,
+      "currentAverage": 16.21,
+      "averageBetSize": 0.25,
+      "cumulativeMultiplier": 807.5,
+      "currentAverageMultiplier": 57.68,
+      "averageRequiredMultiplier": 142.86,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 66,
+        "multiplier": 165,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Marlin Masters",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+        "payout": 39,
+        "multiplier": 195,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Jelly Express",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 10,
+          "payout": 1
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 165,
+          "payout": 66
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 65,
+          "payout": 26
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 15,
+          "payout": 3
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Peppe's Pepperoni Pizza Plaza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a710fb4b159d4a3cf7c814d11b1ea07fe0a5ce4442122ea3ce102c96eb89dc5b",
+          "betSize": 0.4,
+          "multiplier": 32.5,
+          "payout": 13
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.2,
+          "multiplier": 5,
+          "payout": 1
+        },
+        {
+          "slotName": "Deadwood RIP",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/bc8a92c97ae8bbea76ce0f0fae158903f9a134a40fec321dfd8db0b1af66d34c",
+          "betSize": 0.2,
+          "multiplier": 10,
+          "payout": 2
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 30,
+          "payout": 6
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 20,
+          "payout": 4
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.2,
+          "multiplier": 195,
+          "payout": 39
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.2,
+          "multiplier": 170,
+          "payout": 34
+        },
+        {
+          "slotName": "Outsourced: Payday",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/70059c30186447073e2997b19ecf25368aea3a6332e32328436828bceafecabd",
+          "betSize": 0.4,
+          "multiplier": 70,
+          "payout": 28
+        },
+        {
+          "slotName": "Eye of the Panda",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e",
+          "betSize": 0.2,
+          "multiplier": 20,
+          "payout": 4
+        }
+      ]
+    },
+    {
+      "id": "cmsezd3z70cdljcez0lr4s82b",
+      "title": "bonus hunt 26",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-08-04T18:17:20.227Z",
+      "updatedAt": "2026-08-28T18:22:47.245Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 20,
+      "totalWinnings": 324.72,
+      "profitLoss": -175.28,
+      "profitLossPercentage": -35.06,
+      "averagePayoutRequired": 25,
+      "currentAverage": 16.24,
+      "averageBetSize": 0.3,
+      "cumulativeMultiplier": 1315.05,
+      "currentAverageMultiplier": 65.75,
+      "averageRequiredMultiplier": 83.33,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 54.22,
+        "multiplier": 135.55,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Junkyard Kings",
+        "provider": "Bullshark Games",
+        "slotImage": "https://mediumrare.imgix.net/290cfb54fac293b6098898e6ea5e4f123522b6bc9eb306df26556fe033655f50",
+        "payout": 48.6,
+        "multiplier": 243,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Jelly Express",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+        "payout": 0.06,
+        "multiplier": 0.3,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Fire Portals",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f66bd7f515175883d6d66e609e125fcf33f53508ea9a986841a822b63dbc9cf",
+          "betSize": 0.4,
+          "multiplier": 20.5,
+          "payout": 8.2
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 0.3,
+          "payout": 0.06
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.1,
+          "multiplier": 164.6,
+          "payout": 16.46
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 134,
+          "payout": 26.8
+        },
+        {
+          "slotName": "Le Bunny",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d8db515d5b88c06d2a86dc0454512896b30777c9bd835cd7dc865eefb0d7c4eb",
+          "betSize": 0.2,
+          "multiplier": 18.2,
+          "payout": 3.64
+        },
+        {
+          "slotName": "Rusty & Curly",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/3c00491db9f09d1a2a20ff5d2e90b5668942839bd6b64eb6a6b95726a3e7538b",
+          "betSize": 0.2,
+          "multiplier": 36.1,
+          "payout": 7.22
+        },
+        {
+          "slotName": "Book of Shadows",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/a5d3d2dd5c17a75338c3dfca64c4a2f344c1982e6ac247fbb3ace92d26b9494a",
+          "betSize": 0.4,
+          "multiplier": 18.3,
+          "payout": 7.32
+        },
+        {
+          "slotName": "Vampy Party",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/385705dc3bc1b5cff015de7acb337ccb6767a42e19ed12a5f70089b67361218d",
+          "betSize": 0.4,
+          "multiplier": 14.4,
+          "payout": 5.76
+        },
+        {
+          "slotName": "Pug Life",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/38d0c89012f7195628b72aca978fd149ebe395b97cd081f5a24fd779a25445c4",
+          "betSize": 0.2,
+          "multiplier": 11.4,
+          "payout": 2.28
+        },
+        {
+          "slotName": "Junkyard Kings",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/290cfb54fac293b6098898e6ea5e4f123522b6bc9eb306df26556fe033655f50",
+          "betSize": 0.2,
+          "multiplier": 243,
+          "payout": 48.6
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 43.2,
+          "payout": 17.28
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.4,
+          "multiplier": 24.05,
+          "payout": 9.62
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 155.3,
+          "payout": 31.06
+        },
+        {
+          "slotName": "Crazy Ex-Girlfriend",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/8218e92fd18e0547bae613646e8e8249bf09933f159b7e89afbacf753b963cb8",
+          "betSize": 0.4,
+          "multiplier": 27.45,
+          "payout": 10.98
+        },
+        {
+          "slotName": "PIZZA! PIZZA? PIZZA!",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b1599aa0b84487625b7ae717369210668a1d866b95ec9fccfa325fb9782a213e",
+          "betSize": 0.4,
+          "multiplier": 70.05,
+          "payout": 28.02
+        },
+        {
+          "slotName": "Outsourced",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/fff32a8bf7dec79ff52a75c25c579fc063f4772bab6a036e884e1a03a37d9d32",
+          "betSize": 0.4,
+          "multiplier": 16.35,
+          "payout": 6.54
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 140,
+          "payout": 28
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 135.55,
+          "payout": 54.22
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.5,
+          "multiplier": 14,
+          "payout": 7
+        },
+        {
+          "slotName": "Brute Force: Alien Onslaught",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/26767b8164062b9f2c82f0cb3641efb2c414d2671c83aacb0e99f4776efc7b1b",
+          "betSize": 0.2,
+          "multiplier": 28.3,
+          "payout": 5.66
+        }
+      ]
+    }
   ]
 }
