@@ -1,7 +1,31 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-10T16:27:16.207Z",
+  "generatedAt": "2026-09-10T17:27:07.460Z",
   "hunts": [
+    {
+      "id": "cmtvplju71h00jcsr2wqhtu4h",
+      "title": "bonus hunt 45",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-10T15:55:45.199Z",
+      "updatedAt": "2026-09-10T15:55:45.199Z",
+      "isOpening": false,
+      "startCost": 1000,
+      "bonusCount": 0,
+      "totalWinnings": 0,
+      "profitLoss": -1000,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 0,
+      "currentAverage": 0,
+      "averageBetSize": 0,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 0,
+      "highestWin": null,
+      "highestMulti": null,
+      "lowestMulti": null,
+      "bonuses": []
+    },
     {
       "id": "cmtu9g8wo08cejcsrw89yz6fl",
       "title": "bonus hunt 44",
