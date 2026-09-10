@@ -1,11 +1,18 @@
-// Fetches all Bonus Hunts for the "oscolderst" bonushunt.gg profile from the
-// public (no-auth-required) API and writes a static JSON file the website
-// reads at runtime. Runs on a schedule via .github/workflows/update-bonus-hunts.yml.
+// Fetches all Bonus Hunts for the "oscolderst" bonushunt.gg account via the
+// official Developer API (https://bonushunt.gg/api) and writes a static JSON
+// file the website reads at runtime. Runs on a schedule via
+// .github/workflows/update-bonus-hunts.yml.
 //
-// Run manually with: node scripts/update-bonus-hunts.mjs
+// Requires a BONUSHUNT_API_KEY environment variable (a bonushunt.gg API key,
+// generated at bonushunt.gg -> Integrations -> API, sent as a repository
+// secret by the workflow).
+//
+// Run manually with: BONUSHUNT_API_KEY=bnt_xxx node scripts/update-bonus-hunts.mjs
 
 const USERNAME = "oscolderst";
-const API_BASE = "https://bonushunt.gg/api/hunts";
+const API_KEY = process.env.BONUSHUNT_API_KEY;
+const API_BASE = "https://bonushunt.gg/api/public/hunts";
+const PAGE_LIMIT = 100;
 const OUT_FILE = new URL("../bonus-hunts-data.json", import.meta.url);
 
 function round2(n) {
@@ -13,23 +20,33 @@ function round2(n) {
 }
 
 async function fetchAllHunts() {
+  if (!API_KEY) {
+    throw new Error(
+      "Missing BONUSHUNT_API_KEY environment variable. Generate a key at " +
+        "bonushunt.gg -> Integrations -> API and add it as a repository secret."
+    );
+  }
+
   const hunts = [];
-  let cursor = null;
+  let offset = 0;
   let hasMore = true;
 
   while (hasMore) {
     const url = new URL(API_BASE);
-    url.searchParams.set("user", USERNAME);
-    if (cursor) url.searchParams.set("cursor", cursor);
+    url.searchParams.set("limit", String(PAGE_LIMIT));
+    url.searchParams.set("offset", String(offset));
 
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: { Authorization: `Bearer ${API_KEY}` },
+    });
     if (!res.ok) {
-      throw new Error(`bonushunt.gg API request failed: ${res.status} ${res.statusText}`);
+      const body = await res.text().catch(() => "");
+      throw new Error(`bonushunt.gg API request failed: ${res.status} ${res.statusText} ${body}`);
     }
     const data = await res.json();
     hunts.push(...(data.hunts || []));
-    hasMore = Boolean(data.hasMore);
-    cursor = data.nextCursor || null;
+    hasMore = Boolean(data.pagination && data.pagination.hasMore);
+    offset += PAGE_LIMIT;
     // Safety valve so a bug in pagination can't loop forever.
     if (hunts.length > 2000) break;
   }
@@ -38,7 +55,7 @@ async function fetchAllHunts() {
 }
 
 function summarizeHunt(hunt) {
-  const bonuses = (hunt.bonuses || []).slice().sort((a, b) => a.order - b.order);
+  const bonuses = (hunt.bonuses || []).slice().sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
   const bonusCount = bonuses.length;
   const totalWinnings = bonuses.reduce((sum, b) => sum + (b.payout || 0), 0);
   const startCost = hunt.startCost || 0;
