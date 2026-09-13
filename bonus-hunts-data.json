@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-13T21:25:22.340Z",
+  "generatedAt": "2026-09-13T22:26:45.328Z",
   "hunts": [
     {
       "id": "cmu06mvot009yjcjp6ijpmjsb",
@@ -8,42 +8,42 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-13T19:03:45.390Z",
-      "updatedAt": "2026-09-13T20:22:59.533Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-13T21:01:57.268Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 8,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 314.33,
+      "profitLoss": -185.67,
+      "profitLossPercentage": -37.13,
       "averagePayoutRequired": 62.5,
-      "currentAverage": 0,
+      "currentAverage": 39.29,
       "averageBetSize": 0.36,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 733.75,
+      "currentAverageMultiplier": 91.72,
       "averageRequiredMultiplier": 172.41,
       "highestWin": {
-        "slotName": "Nitro Nights",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.1
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 95.82,
+        "multiplier": 159.7,
+        "betSize": 0.6
       },
       "highestMulti": {
-        "slotName": "Nitro Nights",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.1
+        "slotName": "Sweet Bonanza 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+        "payout": 91.78,
+        "multiplier": 229.45,
+        "betSize": 0.4
       },
       "lowestMulti": {
-        "slotName": "Nitro Nights",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.1
+        "slotName": "Hearts of Venus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+        "payout": 1.6,
+        "multiplier": 8,
+        "betSize": 0.2
       },
       "bonuses": [
         {
@@ -51,64 +51,64 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
           "betSize": 0.1,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 31.7,
+          "payout": 3.17
         },
         {
           "slotName": "Hearts of Venus",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 8,
+          "payout": 1.6
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 10,
+          "payout": 4
         },
         {
           "slotName": "Fist of Destruction",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 97.3,
+          "payout": 38.92
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 159.7,
+          "payout": 95.82
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 229.45,
+          "payout": 91.78
         },
         {
           "slotName": "Bloody Dawn",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 160.1,
+          "payout": 64.04
         },
         {
           "slotName": "Fighter Pit",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/5ec25f926e0d9b8b6575aa93df1dfb769e7b6b2127f801d159994eb249eefe29",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 37.5,
+          "payout": 15
         }
       ]
     },
