@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-14T20:27:26.914Z",
+  "generatedAt": "2026-09-14T21:26:51.907Z",
   "hunts": [
     {
       "id": "cmu1393jy0i3vjco1xr4j0kyl",
@@ -8,18 +8,18 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-14T10:16:49.726Z",
-      "updatedAt": "2026-09-14T19:27:06.213Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-14T19:37:10.942Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 29,
-      "totalWinnings": 581.92,
-      "profitLoss": 81.92,
-      "profitLossPercentage": 16.38,
+      "totalWinnings": 698.05,
+      "profitLoss": 198.05,
+      "profitLossPercentage": 39.61,
       "averagePayoutRequired": 17.24,
-      "currentAverage": 20.07,
+      "currentAverage": 24.07,
       "averageBetSize": 0.36,
-      "cumulativeMultiplier": 1961.2,
-      "currentAverageMultiplier": 67.63,
+      "cumulativeMultiplier": 2171.73,
+      "currentAverageMultiplier": 74.89,
       "averageRequiredMultiplier": 47.62,
       "highestWin": {
         "slotName": "Gates of Olympus 1000",
@@ -38,12 +38,12 @@
         "betSize": 0.4
       },
       "lowestMulti": {
-        "slotName": "Juicy Fruits",
+        "slotName": "Sweet Rush Bonanza",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/884da2c4d7b719ff5078a4960928d11f831314f1c4fe6db828d3fced07404d13",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.5
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 0.82,
+        "multiplier": 4.1,
+        "betSize": 0.2
       },
       "bonuses": [
         {
@@ -235,48 +235,48 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/884da2c4d7b719ff5078a4960928d11f831314f1c4fe6db828d3fced07404d13",
           "betSize": 0.5,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.96,
+          "payout": 17.98
         },
         {
           "slotName": "Big Bass Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
           "betSize": 0.5,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 10.2,
+          "payout": 5.1
         },
         {
           "slotName": "Haunted Crypt",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/cfc7008a7a88a4102a17616c6dee212e6b811030b07a330be57379e8db57de82",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 32.9,
+          "payout": 19.74
         },
         {
           "slotName": "Starlight Princess Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 7.35,
+          "payout": 4.41
         },
         {
           "slotName": "Peppe's Pepperoni Pizza Plaza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/a710fb4b159d4a3cf7c814d11b1ea07fe0a5ce4442122ea3ce102c96eb89dc5b",
           "betSize": 0.8,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 48.13,
+          "payout": 38.5
         },
         {
           "slotName": "Frank's Farm",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/8493bbf7575c02b09d053ec3034532f6dec87301495fa5b0cdcd0a5cd297eeeb",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 76,
+          "payout": 30.4
         }
       ]
     },
