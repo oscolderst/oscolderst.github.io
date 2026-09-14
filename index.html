@@ -163,13 +163,17 @@
   .tier b{color:var(--text);font-weight:700;}
   .tier-badge{flex-shrink:0;width:22px;height:22px;border-radius:7px;background:var(--surface-2);border:1px solid var(--border);color:var(--accent);font-size:10.5px;font-weight:800;display:flex;align-items:center;justify-content:center;margin-top:1px;}
   @media (max-width:640px){ .offer-card{grid-template-columns:1fr;max-width:400px;} }
-  .offer-row{display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:stretch;}
-  .offer-row .offer-card{margin:0;width:480px;max-width:480px;flex:0 1 480px;grid-template-columns:1fr;grid-template-rows:auto 1fr;}
+  .offer-row{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:stretch;}
+  .offer-row .offer-card{margin:0;width:auto;max-width:none;grid-template-columns:1fr;grid-template-rows:auto 1fr;}
   .offer-row .offer-card .offer-media{aspect-ratio:16/9;}
   .offer-row .offer-card .offer-media img{width:100%;height:100%;object-fit:cover;object-position:center center;}
   .offer-row .offer-card .offer-body{padding:26px 24px;justify-content:flex-start;}
-  @media (max-width:520px){
-    .offer-row .offer-card{width:100%;max-width:400px;flex-basis:auto;}
+  @media (max-width:900px){
+    .offer-row{grid-template-columns:1fr 1fr;}
+  }
+  @media (max-width:600px){
+    .offer-row{grid-template-columns:1fr;}
+    .offer-row .offer-card{max-width:400px;margin:0 auto;width:100%;}
   }
 
   .live{padding-bottom:64px;text-align:center;}
