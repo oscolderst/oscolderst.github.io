@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-14T16:28:17.701Z",
+  "generatedAt": "2026-09-14T17:26:26.784Z",
   "hunts": [
     {
       "id": "cmu1393jy0i3vjco1xr4j0kyl",
@@ -11,20 +11,58 @@
       "updatedAt": "2026-09-14T10:16:49.726Z",
       "isOpening": false,
       "startCost": 500,
-      "bonusCount": 0,
+      "bonusCount": 2,
       "totalWinnings": 0,
       "profitLoss": -500,
       "profitLossPercentage": -100,
-      "averagePayoutRequired": 0,
+      "averagePayoutRequired": 250,
       "currentAverage": 0,
-      "averageBetSize": 0,
+      "averageBetSize": 0.3,
       "cumulativeMultiplier": 0,
       "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 0,
-      "highestWin": null,
-      "highestMulti": null,
-      "lowestMulti": null,
-      "bonuses": []
+      "averageRequiredMultiplier": 833.33,
+      "highestWin": {
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Eye of the Panda",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/13ca7bcf6c10106cf50d99bedb5a52ae49f2c0fdb74e95027789382c84888c9e",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
     },
     {
       "id": "cmu06mvot009yjcjp6ijpmjsb",
