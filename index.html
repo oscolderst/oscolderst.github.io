@@ -495,12 +495,12 @@
       <button class="filter-tab" data-filter="wins" type="button">
         <span class="tab-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v4a5 5 0 0 1-10 0V4zM7 4H4a3 3 0 0 0 3 4M17 4h3a3 3 0 0 1-3 4"></path></svg></span>
         <span class="tab-text"><span class="tab-title">Maiores Ganhos</span><span class="tab-sub">Bónus e multiplicadores</span></span>
-        <span class="tab-count">6</span>
+        <span class="tab-count" id="winsCount">6</span>
       </button>
       <button class="filter-tab" data-filter="all" type="button">
         <span class="tab-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg></span>
         <span class="tab-text"><span class="tab-title">Todos</span><span class="tab-sub">Ver todos os clipes</span></span>
-        <span class="tab-count">21</span>
+        <span class="tab-count" id="allCount">21</span>
       </button>
     </div>
 
@@ -794,9 +794,26 @@ function ageGateConfirm(isAdult){
 
 <script>
 (function(){
+  var CLIP_CLIENT_ID = 'kimne78kx3ncx6brgo4mv6wki5h1ko';
+  var CLIP_LOGIN = 'oscolderst';
+  // Slugs de clips a destacar em "Maiores Ganhos" (curadoria manual - o Twitch não sabe
+  // quais os clips são "grandes ganhos"). Para destacar um novo clip, adiciona o slug aqui.
+  var WIN_SLUGS = [
+    'EnchantingPhilanthropicJalapenoRaccAttack-TErqueSHoWVqUfVs',
+    'DarkCovertKumquatDuDudu-kTBeRlN5xUnwEpbV',
+    'ZealousCheerfulLyrebirdBlargNaut-FFd4-A0Z7f8_epjw',
+    'CoyTransparentSandstormVoteNay-ECbXlV1fV_siOX-x',
+    'EnchantingNaiveSaladANELE-8pRYMZMzOze6SAsY',
+    'VibrantObedientLampGOWSkull-GcbK7nEXXuz3vku8'
+  ];
+
   var tabs = document.querySelectorAll('.filter-tab');
-  var cards = document.querySelectorAll('.clip-card');
+  var grid = document.querySelector('.clips-grid');
+  var winsCountEl = document.getElementById('winsCount');
+  var allCountEl = document.getElementById('allCount');
+
   function applyFilter(type){
+    var cards = grid.querySelectorAll('.clip-card');
     if(type === 'all'){
       cards.forEach(function(c){ c.classList.remove('is-hidden'); });
       return;
@@ -815,6 +832,7 @@ function ageGateConfirm(isAdult){
       cards.forEach(function(c){ c.classList.toggle('is-hidden', !topSet.has(c)); });
     }
   }
+
   tabs.forEach(function(tab){
     tab.addEventListener('click', function(){
       tabs.forEach(function(t){ t.classList.remove('active'); });
@@ -822,7 +840,55 @@ function ageGateConfirm(isAdult){
       applyFilter(tab.dataset.filter);
     });
   });
+
+  function fmtDuration(sec){
+    sec = Math.round(sec || 0);
+    var m = Math.floor(sec / 60), s = sec % 60;
+    return m + ':' + (s < 10 ? '0' : '') + s;
+  }
+
+  function renderClip(node){
+    var a = document.createElement('a');
+    a.className = 'clip-card';
+    a.href = 'https://www.twitch.tv/' + CLIP_LOGIN + '/clip/' + node.slug;
+    a.target = '_blank';
+    a.rel = 'noopener';
+    a.dataset.views = node.viewCount || 0;
+    if (WIN_SLUGS.indexOf(node.slug) !== -1) a.dataset.win = 'true';
+    a.innerHTML =
+      '<div class="clip-thumb"><img src="" alt="" loading="lazy">' +
+      '<span class="clip-duration"></span></div>' +
+      '<div class="clip-info"><div class="clip-name"></div><div class="clip-meta"></div></div>';
+    a.querySelector('.clip-thumb img').src = node.thumbnailURL || '';
+    a.querySelector('.clip-duration').textContent = fmtDuration(node.durationSeconds);
+    a.querySelector('.clip-name').textContent = node.title || '';
+    a.querySelector('.clip-meta').textContent = (node.viewCount || 0) + ' visualizações';
+    return a;
+  }
+
+  async function loadClips(){
+    try{
+      var res = await fetch('https://gql.twitch.tv/gql', {
+        method: 'POST',
+        headers: {'Client-ID': CLIP_CLIENT_ID, 'Content-Type': 'text/plain;charset=UTF-8'},
+        body: JSON.stringify({query: 'query { user(login:"' + CLIP_LOGIN + '"){ clips(first:24, criteria:{filter: ALL_TIME}){ edges { node { slug title viewCount durationSeconds thumbnailURL } } } } }'})
+      });
+      var json = await res.json();
+      var edges = json && json.data && json.data.user && json.data.user.clips && json.data.user.clips.edges;
+      if (!edges || !edges.length) return;
+      var nodes = edges.map(function(e){ return e.node; }).filter(Boolean);
+      grid.innerHTML = '';
+      nodes.forEach(function(node){ grid.appendChild(renderClip(node)); });
+      var winCount = nodes.filter(function(n){ return WIN_SLUGS.indexOf(n.slug) !== -1; }).length;
+      if (winsCountEl) winsCountEl.textContent = winCount;
+      if (allCountEl) allCountEl.textContent = nodes.length;
+      var activeTab = document.querySelector('.filter-tab.active');
+      applyFilter(activeTab ? activeTab.dataset.filter : 'top');
+    }catch(e){ /* fetch falhou - mantém os clips estáticos como fallback */ }
+  }
+
   applyFilter('top');
+  loadClips();
 })();
 </script>
 
