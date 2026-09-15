@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-15T19:25:51.268Z",
+  "generatedAt": "2026-09-15T20:26:40.298Z",
   "hunts": [
     {
       "id": "cmu2sccii07xcjc6dgqmw66aq",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-15T14:46:57.882Z",
-      "updatedAt": "2026-09-15T18:25:50.351Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-15T18:41:51.044Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 16,
-      "totalWinnings": 117.97,
-      "profitLoss": -382.03,
-      "profitLossPercentage": -76.41,
+      "totalWinnings": 440.51,
+      "profitLoss": -59.49,
+      "profitLossPercentage": -11.9,
       "averagePayoutRequired": 31.25,
-      "currentAverage": 7.37,
+      "currentAverage": 27.53,
       "averageBetSize": 0.26,
-      "cumulativeMultiplier": 589.85,
-      "currentAverageMultiplier": 36.87,
+      "cumulativeMultiplier": 1893.5,
+      "currentAverageMultiplier": 118.34,
       "averageRequiredMultiplier": 119.05,
       "highestWin": {
-        "slotName": "FRKN Bananas",
+        "slotName": "RIP City",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
-        "payout": 49.22,
-        "multiplier": 246.1,
+        "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+        "payout": 178.96,
+        "multiplier": 894.8,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "FRKN Bananas",
+        "slotName": "RIP City",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
-        "payout": 49.22,
-        "multiplier": 246.1,
+        "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+        "payout": 178.96,
+        "multiplier": 894.8,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "5 Lions Megaways 2",
-        "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Beast Below",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/fad562df401ccfd1dde3707308efab027eea94a6cd11c35d64cc814efbb3a44f",
+        "payout": 1.96,
+        "multiplier": 9.8,
         "betSize": 0.2
       },
       "bonuses": [
@@ -123,56 +123,56 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 99.8,
+          "payout": 19.96
         },
         {
           "slotName": "Duck Hunters 2",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 14.2,
+          "payout": 5.68
         },
         {
           "slotName": "Duck Hunters",
           "provider": "Nolimit City",
           "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 10.9,
+          "payout": 4.36
         },
         {
           "slotName": "Big Bass Splash 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 42.2,
+          "payout": 16.88
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 198.25,
+          "payout": 79.3
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 43.5,
+          "payout": 17.4
         },
         {
           "slotName": "RIP City",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 894.8,
+          "payout": 178.96
         }
       ]
     },
