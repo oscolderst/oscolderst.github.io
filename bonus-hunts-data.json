@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-15T17:25:08.686Z",
+  "generatedAt": "2026-09-15T18:28:39.305Z",
   "hunts": [
     {
       "id": "cmu2sccii07xcjc6dgqmw66aq",
@@ -11,20 +11,130 @@
       "updatedAt": "2026-09-15T14:46:57.882Z",
       "isOpening": false,
       "startCost": 500,
-      "bonusCount": 0,
+      "bonusCount": 11,
       "totalWinnings": 0,
       "profitLoss": -500,
       "profitLossPercentage": -100,
-      "averagePayoutRequired": 0,
+      "averagePayoutRequired": 45.45,
       "currentAverage": 0,
-      "averageBetSize": 0,
+      "averageBetSize": 0.29,
       "cumulativeMultiplier": 0,
       "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 0,
-      "highestWin": null,
-      "highestMulti": null,
-      "lowestMulti": null,
-      "bonuses": []
+      "averageRequiredMultiplier": 156.25,
+      "highestWin": {
+        "slotName": "Duck Hunters 2",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Duck Hunters 2",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Duck Hunters 2",
+        "provider": "Nolimit City",
+        "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Duck Hunters 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/64e1308a1d22f4d13ca5b23b81bdb2e0a123e05826cc0011c1a23b35247ed14c",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Bandit",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8ade942d35d2cdbddf7888f303be4cf4bda8c650a112b3c53f7c6f3ccad81254",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "FRKN Bananas",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Barrel Bonanza",
+          "provider": "Backseat Gaming",
+          "slotImage": "https://mediumrare.imgix.net/78853c4c98bbc63173678f9a29fa16f693261b7d72b5fc21754dc780f8e376a3",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
     },
     {
       "id": "cmu1393jy0i3vjco1xr4j0kyl",
