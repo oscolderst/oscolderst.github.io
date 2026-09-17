@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-17T11:42:17.785Z",
+  "generatedAt": "2026-09-17T17:00:01.633Z",
   "hunts": [
     {
       "id": "cmu4m83cz0a4pjcpbfny43849",
@@ -11,20 +11,58 @@
       "updatedAt": "2026-09-16T21:31:28.689Z",
       "isOpening": false,
       "startCost": 500,
-      "bonusCount": 0,
+      "bonusCount": 2,
       "totalWinnings": 0,
       "profitLoss": -500,
       "profitLossPercentage": -100,
-      "averagePayoutRequired": 0,
+      "averagePayoutRequired": 250,
       "currentAverage": 0,
-      "averageBetSize": 0,
+      "averageBetSize": 0.25,
       "cumulativeMultiplier": 0,
       "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 0,
-      "highestWin": null,
-      "highestMulti": null,
-      "lowestMulti": null,
-      "bonuses": []
+      "averageRequiredMultiplier": 1000,
+      "highestWin": {
+        "slotName": "Benny the Beer",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Benny the Beer",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Benny the Beer",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Benny the Beer",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.3,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
     },
     {
       "id": "cmu465mwf05x8jc21eh4l78ap",
