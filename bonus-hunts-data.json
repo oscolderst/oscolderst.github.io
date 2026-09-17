@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-17T20:20:17.227Z",
+  "generatedAt": "2026-09-17T23:33:35.223Z",
   "hunts": [
     {
       "id": "cmu4m83cz0a4pjcpbfny43849",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-16T21:31:14.051Z",
-      "updatedAt": "2026-09-17T12:37:26.497Z",
+      "updatedAt": "2026-09-17T19:11:54.996Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 15,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 392.37,
+      "profitLoss": -107.63,
+      "profitLossPercentage": -21.53,
       "averagePayoutRequired": 33.33,
-      "currentAverage": 0,
+      "currentAverage": 26.16,
       "averageBetSize": 0.21,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 1925.75,
+      "currentAverageMultiplier": 128.38,
       "averageRequiredMultiplier": 156.25,
       "highestWin": {
-        "slotName": "Marlin Masters",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Sugar Rush Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 161.44,
+        "multiplier": 807.2,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Marlin Masters",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Sugar Rush Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 161.44,
+        "multiplier": 807.2,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Marlin Masters",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Gates of Olympus 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
+        "payout": 3.3,
+        "multiplier": 16.5,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,120 +51,120 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 32.5,
+          "payout": 6.5
         },
         {
           "slotName": "Marlin Masters Atlantis",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 91.1,
+          "payout": 18.22
         },
         {
           "slotName": "Marlin Masters OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 93.6,
+          "payout": 18.72
         },
         {
           "slotName": "crown of the undying",
           "provider": "Custom",
           "slotImage": "/images/noimage.jpg",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 138.6,
+          "payout": 27.72
         },
         {
           "slotName": "Minted Mike",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 36.1,
+          "payout": 7.22
         },
         {
           "slotName": "Miami Mayhem",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 16.9,
+          "payout": 3.38
         },
         {
           "slotName": "Benny the Beer",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 220,
+          "payout": 44
         },
         {
           "slotName": "Big Bass Splash",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 38.2,
+          "payout": 11.46
         },
         {
           "slotName": "Big Bass Splash 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 34,
+          "payout": 10.2
         },
         {
           "slotName": "Hearts of Venus",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 101.2,
+          "payout": 20.24
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 807.2,
+          "payout": 161.44
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.05,
+          "payout": 7.01
         },
         {
           "slotName": "Gates of Olympus 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 16.5,
+          "payout": 3.3
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19.75,
+          "payout": 3.95
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 245.05,
+          "payout": 49.01
         }
       ]
     },
