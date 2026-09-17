@@ -1,48 +1,72 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-16T22:10:48.538Z",
+  "generatedAt": "2026-09-17T00:33:17.300Z",
   "hunts": [
+    {
+      "id": "cmu4m83cz0a4pjcpbfny43849",
+      "title": "bonus hunt 50",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-09-16T21:31:14.051Z",
+      "updatedAt": "2026-09-16T21:31:28.689Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 0,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 0,
+      "currentAverage": 0,
+      "averageBetSize": 0,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 0,
+      "highestWin": null,
+      "highestMulti": null,
+      "lowestMulti": null,
+      "bonuses": []
+    },
     {
       "id": "cmu465mwf05x8jc21eh4l78ap",
       "title": "Bónus hunt 49",
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-16T14:01:25.551Z",
-      "updatedAt": "2026-09-16T15:24:15.420Z",
+      "updatedAt": "2026-09-16T20:46:57.372Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 24,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 579.62,
+      "profitLoss": 79.62,
+      "profitLossPercentage": 15.92,
       "averagePayoutRequired": 20.83,
-      "currentAverage": 0,
+      "currentAverage": 24.15,
       "averageBetSize": 0.2,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 2898.1,
+      "currentAverageMultiplier": 120.75,
       "averageRequiredMultiplier": 104.17,
       "highestWin": {
-        "slotName": "Le Prechaun",
+        "slotName": "Benny the Beer",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+        "payout": 253.08,
+        "multiplier": 1265.4,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Le Prechaun",
+        "slotName": "Benny the Beer",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+        "payout": 253.08,
+        "multiplier": 1265.4,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Le Prechaun",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Banana Farm",
+        "provider": "Backseat Gaming",
+        "slotImage": "https://mediumrare.imgix.net/cb0abd5dd457d0c58ed1f488afbc46847b804b07cbceb0ce5dc46a94e42b002a",
+        "payout": 2,
+        "multiplier": 10,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,192 +75,192 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 61,
+          "payout": 12.2
         },
         {
           "slotName": "Le Pharaoh",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19.9,
+          "payout": 3.98
         },
         {
           "slotName": "Nitro Nights",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 79.2,
+          "payout": 15.84
         },
         {
           "slotName": "Marlin Masters OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 56.4,
+          "payout": 11.28
         },
         {
           "slotName": "Miami Mayhem",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 49.6,
+          "payout": 9.92
         },
         {
           "slotName": "Rainbow Princess",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/968f7682f3af160f60d88eeb8f5c3e22a280b142f29b64dd4b765998ab28a591",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 78.2,
+          "payout": 15.64
         },
         {
           "slotName": "Dorks of the Deep",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/73558636b4e41b610e1e15aa8f527b84348895dbbfee8f02d1231af77abbe9b1",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 12.4,
+          "payout": 2.48
         },
         {
           "slotName": "FRKN Bananas",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 42.3,
+          "payout": 8.46
         },
         {
           "slotName": "Le Fisherman",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 127.9,
+          "payout": 25.58
         },
         {
           "slotName": "Banana Farm",
           "provider": "Backseat Gaming",
           "slotImage": "https://mediumrare.imgix.net/cb0abd5dd457d0c58ed1f488afbc46847b804b07cbceb0ce5dc46a94e42b002a",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 10,
+          "payout": 2
         },
         {
           "slotName": "Cursed Crypt",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/b33ca28ef4338dad58eebe59144382a98874a8731f43e8eb761470de767d172f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 15.6,
+          "payout": 3.12
         },
         {
           "slotName": "RIP City",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 23.5,
+          "payout": 4.7
         },
         {
           "slotName": "Benny the Beer",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 1265.4,
+          "payout": 253.08
         },
         {
           "slotName": "Pug Life",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/38d0c89012f7195628b72aca978fd149ebe395b97cd081f5a24fd779a25445c4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 28,
+          "payout": 5.6
         },
         {
           "slotName": "Dork Unit",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/33cd5a34c3937da326652a3beb44fe9c3680118c363a060ca5670847595561a5",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 83.4,
+          "payout": 16.68
         },
         {
           "slotName": "Bloody Dawn",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 77.9,
+          "payout": 15.58
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 121.6,
+          "payout": 24.32
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 74.9,
+          "payout": 14.98
         },
         {
           "slotName": "Sweet Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25.25,
+          "payout": 5.05
         },
         {
           "slotName": "Gates of Olympus 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 43,
+          "payout": 8.6
         },
         {
           "slotName": "The Dog House",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/eb75dbe63e5b45feb035e02cba7f846d6e71a9343f66187387a32ee8abe21e75",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 176.5,
+          "payout": 35.3
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 259,
+          "payout": 51.8
         },
         {
           "slotName": "Gates of Olympus Xmas 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/206a059864461c5bb63e1af83d5a105a2c36205cb8e01b37418f57d10d295252",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 131.75,
+          "payout": 26.35
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.4,
+          "payout": 7.08
         }
       ]
     },
