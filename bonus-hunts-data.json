@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-20T19:26:58.065Z",
+  "generatedAt": "2026-09-20T22:26:46.765Z",
   "hunts": [
     {
       "id": "cmu9xrr3z1yoijcw4u65epufi",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-20T14:53:17.951Z",
-      "updatedAt": "2026-09-20T15:46:06.222Z",
+      "updatedAt": "2026-09-20T18:54:44.365Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 11,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 381.09,
+      "profitLoss": -118.91,
+      "profitLossPercentage": -23.78,
       "averagePayoutRequired": 45.45,
-      "currentAverage": 0,
+      "currentAverage": 34.64,
       "averageBetSize": 0.35,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 1086.85,
+      "currentAverageMultiplier": 98.8,
       "averageRequiredMultiplier": 131.58,
       "highestWin": {
-        "slotName": "Slayers Inc",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/f08dd3c03232627f508e0b4f458651947e13e46f6d8a53be08507672256d3be2",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 100.65,
+        "multiplier": 167.75,
+        "betSize": 0.6
       },
       "highestMulti": {
-        "slotName": "Slayers Inc",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/f08dd3c03232627f508e0b4f458651947e13e46f6d8a53be08507672256d3be2",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Bloody Dawn",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+        "payout": 47.1,
+        "multiplier": 235.5,
         "betSize": 0.2
       },
       "lowestMulti": {
         "slotName": "Slayers Inc",
         "provider": "Hacksaw Gaming",
         "slotImage": "https://mediumrare.imgix.net/f08dd3c03232627f508e0b4f458651947e13e46f6d8a53be08507672256d3be2",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 0.34,
+        "multiplier": 1.7,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,88 +51,88 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f08dd3c03232627f508e0b4f458651947e13e46f6d8a53be08507672256d3be2",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 1.7,
+          "payout": 0.34
         },
         {
           "slotName": "Duel at Dawn",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/bdff3ebf4d04f586ecab90203923fa65b39626ef03359106209089e0c8b1d0d3",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 39.4,
+          "payout": 7.88
         },
         {
           "slotName": "Fist of Destruction Megamultiplier",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 97.9,
+          "payout": 19.58
         },
         {
           "slotName": "Bloody Dawn",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 235.5,
+          "payout": 47.1
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 13.8,
+          "payout": 2.76
         },
         {
           "slotName": "Miami Mayhem",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 227.8,
+          "payout": 91.12
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 41.5,
+          "payout": 16.6
         },
         {
           "slotName": "Starlight Princess 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 46.25,
+          "payout": 27.75
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 167.75,
+          "payout": 100.65
         },
         {
           "slotName": "Gates of Olympus 1000 Dice",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/c0343caad3435cc83db2e072a20e450fa3502a1b5d45d67bba2adbd85d797d45",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 60.65,
+          "payout": 36.39
         },
         {
           "slotName": "Rusty & Curly",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/3c00491db9f09d1a2a20ff5d2e90b5668942839bd6b64eb6a6b95726a3e7538b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 154.6,
+          "payout": 30.92
         }
       ]
     },
