@@ -2,8 +2,9 @@ name: Update Bonus Hunts
 
 on:
   schedule:
-    # Runs every hour, at minute 15 (UTC).
-    - cron: "15 * * * *"
+    # Every 15 minutes. GitHub delays or drops scheduled runs under load, so the
+    # real cadence is best-effort, not guaranteed.
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
