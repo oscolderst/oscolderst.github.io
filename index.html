@@ -215,6 +215,36 @@
   }
   .bonushunt-embed iframe{position:absolute;top:0;left:0;width:100%;height:1000px;border:0;}
   @media (max-width:640px){ .bonushunt-embed{height:340px;} }
+  .store{padding-bottom:64px;text-align:center;}
+  .store h2{font-size:28px;font-weight:800;margin:6px 0 24px;}
+  .store-card{
+    display:flex;
+    align-items:center;
+    gap:20px;
+    max-width:560px;
+    margin:0 auto;
+    padding:24px 26px;
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:20px;
+    text-align:left;
+  }
+  .store-icon{
+    flex-shrink:0;
+    width:52px;height:52px;border-radius:14px;
+    background:rgba(255,182,72,0.12);
+    border:1px solid rgba(255,182,72,0.3);
+    display:flex;align-items:center;justify-content:center;
+  }
+  .store-icon svg{width:24px;height:24px;stroke:var(--accent);}
+  .store-text{flex:1;min-width:0;}
+  .store-title{font-size:16px;font-weight:800;}
+  .store-sub{font-size:12.5px;color:var(--muted);margin-top:4px;line-height:1.5;}
+  .store-card .cta{flex-shrink:0;padding:13px 22px;}
+  @media (max-width:560px){
+    .store-card{flex-direction:column;text-align:center;gap:16px;}
+    .store-card .cta{width:100%;}
+  }
   .clips{padding-bottom:80px;text-align:center;}
   .clips h2{font-size:28px;font-weight:800;margin:6px 0 32px;}
   .clips-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;text-align:left;}
@@ -477,6 +507,21 @@
         scrolling="no"
         title="Bonus Hunt">
       </iframe>
+    </div>
+  </section>
+
+  <section class="store">
+    <div class="eyebrow">Merch</div>
+    <h2>Loja Oficial</h2>
+    <div class="store-card">
+      <div class="store-icon">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      </div>
+      <div class="store-text">
+        <div class="store-title">Merch oficial oscolderst</div>
+        <div class="store-sub">Camisolas, hoodies e mais &mdash; direto da loja StreamElements.</div>
+      </div>
+      <a class="cta" href="https://streamelements.com/taydodrill/store" target="_blank" rel="noopener">VER LOJA</a>
     </div>
   </section>
 
