@@ -127,13 +127,31 @@ async function main() {
   rawHunts.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
   const hunts = rawHunts.map(summarizeHunt);
 
+  const fs = await import("node:fs/promises");
+
+  // Only rewrite when the hunts themselves changed. generatedAt moves on every
+  // run, so writing unconditionally would commit on every scheduled run even
+  // when nothing happened.
+  const previous = await fs.readFile(OUT_FILE, "utf8").catch(() => null);
+  if (previous) {
+    let previousHunts;
+    try {
+      previousHunts = JSON.parse(previous).hunts;
+    } catch {
+      previousHunts = undefined;
+    }
+    if (JSON.stringify(previousHunts) === JSON.stringify(hunts)) {
+      console.log(`No changes: ${hunts.length} hunts already up to date`);
+      return;
+    }
+  }
+
   const payload = {
     username: USERNAME,
     generatedAt: new Date().toISOString(),
     hunts,
   };
 
-  const fs = await import("node:fs/promises");
   await fs.writeFile(OUT_FILE, JSON.stringify(payload, null, 2) + "\n", "utf8");
   console.log(`Wrote ${hunts.length} hunts to ${OUT_FILE.pathname}`);
 }

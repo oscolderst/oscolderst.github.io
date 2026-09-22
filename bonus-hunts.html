@@ -383,12 +383,32 @@
     });
   }
 
-  fetch('bonus-hunts-data.json', { cache: 'no-store' })
-    .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-    .then((data) => { DATA = data; render(); })
-    .catch((err) => {
-      document.getElementById('bhWrap').innerHTML = '<div class="bh-empty">Não foi possível carregar os dados dos bonus hunts.<br>' + esc(err.message) + '</div>';
-    });
+  function loadData(isInitial) {
+    return fetch('bonus-hunts-data.json', { cache: 'no-store' })
+      .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then((data) => {
+        // Keep the visitor on the hunt they were reading: a new hunt lands at
+        // the top and shifts every index below it.
+        const openId = DATA && DATA.hunts && DATA.hunts[huntIndex] ? DATA.hunts[huntIndex].id : null;
+        DATA = data;
+        const hunts = (DATA && DATA.hunts) || [];
+        if (openId) {
+          const found = hunts.findIndex((h) => h.id === openId);
+          if (found === -1) { huntIndex = 0; tablePage = 0; }
+          else if (found !== huntIndex) { huntIndex = found; }
+        }
+        if (huntIndex > hunts.length - 1) { huntIndex = Math.max(0, hunts.length - 1); tablePage = 0; }
+        render();
+      })
+      .catch((err) => {
+        // A failed background refresh must not wipe out what is already shown.
+        if (!isInitial) return;
+        document.getElementById('bhWrap').innerHTML = '<div class="bh-empty">Não foi possível carregar os dados dos bonus hunts.<br>' + esc(err.message) + '</div>';
+      });
+  }
+
+  loadData(true);
+  setInterval(function () { loadData(false); }, 15 * 60 * 1000);
 })();
 </script>
 </body>
