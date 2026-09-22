@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-22T14:54:41.265Z",
+  "generatedAt": "2026-09-22T19:44:42.009Z",
   "hunts": [
     {
       "id": "cmuclnujx0014jcrs7d5gpl99",
@@ -8,42 +8,42 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-22T11:37:38.926Z",
-      "updatedAt": "2026-09-22T12:23:36.994Z",
+      "updatedAt": "2026-09-22T19:00:25.279Z",
       "isOpening": false,
       "startCost": 350,
       "bonusCount": 22,
-      "totalWinnings": 0,
-      "profitLoss": -350,
-      "profitLossPercentage": -100,
+      "totalWinnings": 395.04,
+      "profitLoss": 45.04,
+      "profitLossPercentage": 12.87,
       "averagePayoutRequired": 15.91,
-      "currentAverage": 0,
+      "currentAverage": 17.96,
       "averageBetSize": 0.22,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 1770.55,
+      "currentAverageMultiplier": 80.48,
       "averageRequiredMultiplier": 71.43,
       "highestWin": {
-        "slotName": "Marlin Masters Atlantis",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotName": "Gates of Olympus 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
+        "payout": 56.26,
+        "multiplier": 140.65,
+        "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "Marlin Masters Atlantis",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 52.05,
+        "multiplier": 260.25,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Marlin Masters Atlantis",
+        "slotName": "Nitro Nights",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
         "payout": 0,
         "multiplier": 0,
-        "betSize": 0.2
+        "betSize": 0.1
       },
       "bonuses": [
         {
@@ -51,96 +51,96 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 13.9,
+          "payout": 2.78
         },
         {
           "slotName": "Marlin Masters: The Big Haul",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 162.1,
+          "payout": 32.42
         },
         {
           "slotName": "Fist of Destruction",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 88.6,
+          "payout": 17.72
         },
         {
           "slotName": "Big Bass Blast",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/ee636eef7388578b750480165a4dd52b8b748714d358ab0aa6b81448472e9c9b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19.2,
+          "payout": 3.84
         },
         {
           "slotName": "Big Bass Trophy Catch",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 71.7,
+          "payout": 14.34
         },
         {
           "slotName": "Minted Mike",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 163.2,
+          "payout": 32.64
         },
         {
           "slotName": "Big Bass Raceday Repeat",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/3ea127cc8674676aac581e6387908978f27f3f84676223be7cc3b442514ccf84",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 96,
+          "payout": 19.2
         },
         {
           "slotName": "Big Bass Boxing Bonus Round",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 125.2,
+          "payout": 25.04
         },
         {
           "slotName": "Le Cowboy",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 16,
+          "payout": 3.2
         },
         {
           "slotName": "Big Bass Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 27.2,
+          "payout": 5.44
         },
         {
           "slotName": "Big Bass Return to the Races",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2a34f19ea9f4f8e0b159225f79d0d4119b3d499d04295bc02f0fe78b117ddbd1",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 17,
+          "payout": 3.4
         },
         {
           "slotName": "Big Bass Bonanza 3 Reeler",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/5f908029d31d48432f5710ee780546d3e8058120ab7ab6a03773e8e48416b465",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 73.5,
+          "payout": 14.7
         },
         {
           "slotName": "Nitro Nights",
@@ -155,72 +155,72 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 187.15,
+          "payout": 37.43
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 32.55,
+          "payout": 6.51
         },
         {
           "slotName": "Starlight Princess 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.4,
+          "payout": 7.08
         },
         {
           "slotName": "Sweet Bonanza Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2e0fb5d8d19a26f8dabafc4076ce81c7eb653a613219a9fbb7cc44ec936ce993",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 34.2,
+          "payout": 6.84
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 142.75,
+          "payout": 28.55
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 260.25,
+          "payout": 52.05
         },
         {
           "slotName": "Big Bass Splash 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19,
+          "payout": 7.6
         },
         {
           "slotName": "Big Bass Halloween 3",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/98ba809b9d06b63646e6868b7be75aacb26423c4c2b76bc4345b93f8dbfc5b15",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 45,
+          "payout": 18
         },
         {
           "slotName": "Gates of Olympus 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 140.65,
+          "payout": 56.26
         }
       ]
     },
