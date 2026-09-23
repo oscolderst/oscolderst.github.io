@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-23T15:08:45.588Z",
+  "generatedAt": "2026-09-23T22:17:32.704Z",
   "hunts": [
     {
       "id": "cmudy4ob2006ujchwgpunagnd",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-23T10:14:25.550Z",
-      "updatedAt": "2026-09-23T11:23:35.677Z",
+      "updatedAt": "2026-09-23T19:45:34.128Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 16,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 353.69,
+      "profitLoss": -146.31,
+      "profitLossPercentage": -29.26,
       "averagePayoutRequired": 31.25,
-      "currentAverage": 0,
+      "currentAverage": 22.11,
       "averageBetSize": 0.25,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 1466.15,
+      "currentAverageMultiplier": 91.63,
       "averageRequiredMultiplier": 125,
       "highestWin": {
-        "slotName": "Le Santa",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/1e5412c31cad1b948b6bd65698e1b848f9293c0977a47eda4375b624b5483c87",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 98.56,
+        "multiplier": 246.4,
+        "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "Le Santa",
+        "slotName": "Hot Ross",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/1e5412c31cad1b948b6bd65698e1b848f9293c0977a47eda4375b624b5483c87",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
+        "payout": 83.96,
+        "multiplier": 419.8,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Le Santa",
+        "slotName": "Great Game Serengeti",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/1e5412c31cad1b948b6bd65698e1b848f9293c0977a47eda4375b624b5483c87",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+        "payout": 2.24,
+        "multiplier": 11.2,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,128 +51,128 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1e5412c31cad1b948b6bd65698e1b848f9293c0977a47eda4375b624b5483c87",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 17.4,
+          "payout": 3.48
         },
         {
           "slotName": "Le Pharaoh",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 98,
+          "payout": 19.6
         },
         {
           "slotName": "Le Cowboy",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 53.8,
+          "payout": 10.76
         },
         {
           "slotName": "Xmas Drop",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/be3cf80fcd859427ca4ecabef13e7dfbee3603eaa3ed2dc975ccc1cb6ee622dc",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19.7,
+          "payout": 3.94
         },
         {
           "slotName": "3 Magic Piggy Banks™ Hold & Win",
           "provider": "Custom",
           "slotImage": "/images/noimage.jpg",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 93.4,
+          "payout": 18.68
         },
         {
           "slotName": "Fist of Demolition",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/fb8dbee868c3bde716ae98b94d977fc1fcc2688e3c4da546892b6886f663c83a",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 53.2,
+          "payout": 10.64
         },
         {
           "slotName": "Fighter Pit",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/5ec25f926e0d9b8b6575aa93df1dfb769e7b6b2127f801d159994eb249eefe29",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 34,
+          "payout": 6.8
         },
         {
           "slotName": "Dorks of the Deep",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/73558636b4e41b610e1e15aa8f527b84348895dbbfee8f02d1231af77abbe9b1",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 135.1,
+          "payout": 27.02
         },
         {
           "slotName": "Hot Ross",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 419.8,
+          "payout": 83.96
         },
         {
           "slotName": "Great Game Serengeti",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 11.2,
+          "payout": 2.24
         },
         {
           "slotName": "Ronin Stackways",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/68a04cf0d75f6fd3c1884805806e11ad128f09a8d274574ec99f34cd8f46f76e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 15.2,
+          "payout": 3.04
         },
         {
           "slotName": "Book of Time",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/a4f33d3918dcccb3b9f98f25bc67c834addfafb00f75cb73aea7cd10e6993c4b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 201.2,
+          "payout": 40.24
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 24.55,
+          "payout": 4.91
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 246.4,
+          "payout": 98.56
         },
         {
           "slotName": "Starlight Princess Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 30.5,
+          "payout": 12.2
         },
         {
           "slotName": "Gates of Olympus 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 12.7,
+          "payout": 7.62
         }
       ]
     },
