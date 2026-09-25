@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-24T15:25:23.816Z",
+  "generatedAt": "2026-09-25T00:51:44.612Z",
   "hunts": [
     {
       "id": "cmufguz6g01vkjc2cw59xtfhl",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-24T11:46:31.960Z",
-      "updatedAt": "2026-09-24T11:53:54.347Z",
+      "updatedAt": "2026-09-24T20:57:33.959Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 18,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 363.7,
+      "profitLoss": -136.3,
+      "profitLossPercentage": -27.26,
       "averagePayoutRequired": 27.78,
-      "currentAverage": 0,
+      "currentAverage": 20.21,
       "averageBetSize": 0.24,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 1493.05,
+      "currentAverageMultiplier": 82.95,
       "averageRequiredMultiplier": 113.64,
       "highestWin": {
-        "slotName": "3 Magic Piggy Banks: Hold & Win",
+        "slotName": "Le Digger",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
+        "payout": 102.6,
+        "multiplier": 513,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "3 Magic Piggy Banks: Hold & Win",
+        "slotName": "Le Digger",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
+        "payout": 102.6,
+        "multiplier": 513,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "3 Magic Piggy Banks: Hold & Win",
+        "slotName": "Pug Life",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/38d0c89012f7195628b72aca978fd149ebe395b97cd081f5a24fd779a25445c4",
+        "payout": 0.66,
+        "multiplier": 3.3,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,144 +51,144 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 36.2,
+          "payout": 7.24
         },
         {
           "slotName": "Le Fisherman",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.5,
+          "payout": 7.1
         },
         {
           "slotName": "Le Prechaun",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 22.8,
+          "payout": 4.56
         },
         {
           "slotName": "Hot Ross",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 43,
+          "payout": 8.6
         },
         {
           "slotName": "FRKN Bananas",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 199.6,
+          "payout": 39.92
         },
         {
           "slotName": "RIP City",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 27.6,
+          "payout": 5.52
         },
         {
           "slotName": "Barrel Bonanza",
           "provider": "Backseat Gaming",
           "slotImage": "https://mediumrare.imgix.net/78853c4c98bbc63173678f9a29fa16f693261b7d72b5fc21754dc780f8e376a3",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 118.6,
+          "payout": 23.72
         },
         {
           "slotName": "Dorks of the Deep",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/73558636b4e41b610e1e15aa8f527b84348895dbbfee8f02d1231af77abbe9b1",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 8.2,
+          "payout": 1.64
         },
         {
           "slotName": "Benny the Beer",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19,
+          "payout": 3.8
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 55.7,
+          "payout": 11.14
         },
         {
           "slotName": "Sweet Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 31.05,
+          "payout": 12.42
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25,
+          "payout": 10
         },
         {
           "slotName": "Starlight Princess 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 58.8,
+          "payout": 23.52
         },
         {
           "slotName": "Starlight Princess Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 210.6,
+          "payout": 84.24
         },
         {
           "slotName": "Fist of Destruction Megamultiplier",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 4.3,
+          "payout": 0.86
         },
         {
           "slotName": "Le Digger",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 513,
+          "payout": 102.6
         },
         {
           "slotName": "Le Pharaoh",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 80.8,
+          "payout": 16.16
         },
         {
           "slotName": "Pug Life",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/38d0c89012f7195628b72aca978fd149ebe395b97cd081f5a24fd779a25445c4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 3.3,
+          "payout": 0.66
         }
       ]
     },
