@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-25T19:50:29.106Z",
+  "generatedAt": "2026-09-25T23:06:19.592Z",
   "hunts": [
     {
       "id": "cmugvp4f80qiejc40m6fmnngl",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-25T11:29:39.236Z",
-      "updatedAt": "2026-09-25T19:48:38.890Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-25T20:00:08.050Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 15,
-      "totalWinnings": 154.83,
-      "profitLoss": -345.17,
-      "profitLossPercentage": -69.03,
+      "totalWinnings": 353.24,
+      "profitLoss": -146.76,
+      "profitLossPercentage": -29.35,
       "averagePayoutRequired": 33.33,
-      "currentAverage": 10.32,
+      "currentAverage": 23.55,
       "averageBetSize": 0.21,
-      "cumulativeMultiplier": 873.6,
-      "currentAverageMultiplier": 58.24,
+      "cumulativeMultiplier": 1789.25,
+      "currentAverageMultiplier": 119.28,
       "averageRequiredMultiplier": 161.29,
       "highestWin": {
-        "slotName": "Fist of Destruction Megamultiplier",
+        "slotName": "Supreme Zeus",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
-        "payout": 37.58,
-        "multiplier": 187.9,
+        "slotImage": "https://mediumrare.imgix.net/6b92d5106e5bcb8ec59c8a9acdbe89ed240f7259c28d09f78be326fab46a127c",
+        "payout": 54.6,
+        "multiplier": 273,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Nitro Nights",
+        "slotName": "Supreme Zeus",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 19.89,
-        "multiplier": 198.9,
-        "betSize": 0.1
+        "slotImage": "https://mediumrare.imgix.net/6b92d5106e5bcb8ec59c8a9acdbe89ed240f7259c28d09f78be326fab46a127c",
+        "payout": 54.6,
+        "multiplier": 273,
+        "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Sweet Rush Bonanza",
-        "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "Grug Make Fire",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/12f16f0fc3ce25d7fe5f88dc57ca76e419527b65f75b7593c49bc5a77913da04",
+        "payout": 1.6,
+        "multiplier": 8,
         "betSize": 0.2
       },
       "bonuses": [
@@ -131,40 +131,40 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 225.95,
+          "payout": 45.19
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 119.9,
+          "payout": 23.98
         },
         {
           "slotName": "Skull Fiesta",
           "provider": "NowNow Gaming",
           "slotImage": "https://mediumrare.imgix.net/9ebb1585a510c42ecfe2177606622e4183ab66755fb3c32a06c6b6627504baa3",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 76.4,
+          "payout": 30.56
         },
         {
           "slotName": "Arena of Iron",
           "provider": "Bullshark Games",
           "slotImage": "https://mediumrare.imgix.net/aeeb75df912d2bff7540ec2fc8bd8d4a8510870baa0e9d106924725ebff825f7",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 220.4,
+          "payout": 44.08
         },
         {
           "slotName": "Supreme Zeus",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/6b92d5106e5bcb8ec59c8a9acdbe89ed240f7259c28d09f78be326fab46a127c",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 273,
+          "payout": 54.6
         }
       ]
     },
