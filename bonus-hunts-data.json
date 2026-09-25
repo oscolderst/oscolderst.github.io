@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-25T15:50:22.482Z",
+  "generatedAt": "2026-09-25T19:50:29.106Z",
   "hunts": [
     {
       "id": "cmugvp4f80qiejc40m6fmnngl",
@@ -8,42 +8,42 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-25T11:29:39.236Z",
-      "updatedAt": "2026-09-25T11:29:39.236Z",
-      "isOpening": false,
+      "updatedAt": "2026-09-25T19:48:38.890Z",
+      "isOpening": true,
       "startCost": 500,
       "bonusCount": 15,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
+      "totalWinnings": 154.83,
+      "profitLoss": -345.17,
+      "profitLossPercentage": -69.03,
       "averagePayoutRequired": 33.33,
-      "currentAverage": 0,
+      "currentAverage": 10.32,
       "averageBetSize": 0.21,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 873.6,
+      "currentAverageMultiplier": 58.24,
       "averageRequiredMultiplier": 161.29,
       "highestWin": {
-        "slotName": "Nitro Nights",
+        "slotName": "Fist of Destruction Megamultiplier",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.1
+        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+        "payout": 37.58,
+        "multiplier": 187.9,
+        "betSize": 0.2
       },
       "highestMulti": {
         "slotName": "Nitro Nights",
         "provider": "Hacksaw Gaming",
         "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 19.89,
+        "multiplier": 198.9,
         "betSize": 0.1
       },
       "lowestMulti": {
-        "slotName": "Nitro Nights",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
         "payout": 0,
         "multiplier": 0,
-        "betSize": 0.1
+        "betSize": 0.2
       },
       "bonuses": [
         {
@@ -51,80 +51,80 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
           "betSize": 0.1,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 198.9,
+          "payout": 19.89
         },
         {
           "slotName": "Fist of Destruction Megamultiplier",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 187.9,
+          "payout": 37.58
         },
         {
           "slotName": "Minted Mike",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25,
+          "payout": 5
         },
         {
           "slotName": "Arizona James and the Lost Relics",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/7d01a85b7b669891f90ea1ed7cb84fbededb7540d357f82593c8068517710800",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 50.8,
+          "payout": 10.16
         },
         {
           "slotName": "The Library Overdue",
           "provider": "Kitsune Studios",
           "slotImage": "https://mediumrare.imgix.net/63c6c36ec5015c652fa45c406032145222ba6ca0467ba0e4d39469e7e75a52bd",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 27.2,
+          "payout": 5.44
         },
         {
           "slotName": "Marlin Masters OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 88.3,
+          "payout": 17.66
         },
         {
           "slotName": "Crown of the undying",
           "provider": "Custom",
           "slotImage": "/images/noimage.jpg",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 84.5,
+          "payout": 16.9
         },
         {
           "slotName": "Leatherheads",
           "provider": "Kitsune Studios",
           "slotImage": "https://mediumrare.imgix.net/8cac3a526951f688d9c0f0ed767e3d1fad9395f8339fd411fd136ffce2e01250",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 89,
+          "payout": 17.8
         },
         {
           "slotName": "Grug Make Fire",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/12f16f0fc3ce25d7fe5f88dc57ca76e419527b65f75b7593c49bc5a77913da04",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 8,
+          "payout": 1.6
         },
         {
           "slotName": "Le Digger",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 114,
+          "payout": 22.8
         },
         {
           "slotName": "Sweet Rush Bonanza",
