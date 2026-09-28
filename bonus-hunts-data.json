@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-27T22:27:10.737Z",
+  "generatedAt": "2026-09-28T01:03:41.760Z",
   "hunts": [
     {
       "id": "cmuk2au5g09nqjcv9ji5tux61",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-27T16:57:48.580Z",
-      "updatedAt": "2026-09-27T19:16:36.170Z",
-      "isOpening": true,
+      "updatedAt": "2026-09-27T19:48:23.150Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 23,
-      "totalWinnings": 44.78,
-      "profitLoss": -455.22,
-      "profitLossPercentage": -91.04,
+      "totalWinnings": 377.53,
+      "profitLoss": -122.47,
+      "profitLossPercentage": -24.49,
       "averagePayoutRequired": 21.74,
-      "currentAverage": 1.95,
+      "currentAverage": 16.41,
       "averageBetSize": 0.24,
-      "cumulativeMultiplier": 223.9,
-      "currentAverageMultiplier": 9.73,
+      "cumulativeMultiplier": 1402.35,
+      "currentAverageMultiplier": 60.97,
       "averageRequiredMultiplier": 90.91,
       "highestWin": {
-        "slotName": "Grug Make Fire",
+        "slotName": "Great Game Serengeti",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/12f16f0fc3ce25d7fe5f88dc57ca76e419527b65f75b7593c49bc5a77913da04",
-        "payout": 15.38,
-        "multiplier": 76.9,
-        "betSize": 0.2
+        "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+        "payout": 138.6,
+        "multiplier": 346.5,
+        "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "Grug Make Fire",
+        "slotName": "Great Game Serengeti",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/12f16f0fc3ce25d7fe5f88dc57ca76e419527b65f75b7593c49bc5a77913da04",
-        "payout": 15.38,
-        "multiplier": 76.9,
-        "betSize": 0.2
+        "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+        "payout": 138.6,
+        "multiplier": 346.5,
+        "betSize": 0.4
       },
       "lowestMulti": {
-        "slotName": "Scarab Ascension",
-        "provider": "NowNow Gaming",
-        "slotImage": "https://mediumrare.imgix.net/5734ee61d3026d005808f992364a5b8313e4b2c54fec708285c65bf8b048d692",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "crown of the undying",
+        "provider": "Custom",
+        "slotImage": "/images/noimage.jpg",
+        "payout": 1.3,
+        "multiplier": 6.5,
         "betSize": 0.2
       },
       "bonuses": [
@@ -115,120 +115,120 @@
           "provider": "NowNow Gaming",
           "slotImage": "https://mediumrare.imgix.net/5734ee61d3026d005808f992364a5b8313e4b2c54fec708285c65bf8b048d692",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 69.8,
+          "payout": 13.96
         },
         {
           "slotName": "Death Becomes You",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1a05d78652483448828c150dfbd0d989e2b932215ad42fe4456b48c6e5ffa53f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 33.9,
+          "payout": 6.78
         },
         {
           "slotName": "Le Hooligan",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/bb3f53c4d44293e9c2f65fd97f1831cb492cb300be781882fc608bd334265b33",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 206.7,
+          "payout": 41.34
         },
         {
           "slotName": "le football fan",
           "provider": "Custom",
           "slotImage": "/images/noimage.jpg",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 23.6,
+          "payout": 4.72
         },
         {
           "slotName": "Duel at Dawn",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/bdff3ebf4d04f586ecab90203923fa65b39626ef03359106209089e0c8b1d0d3",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 17.2,
+          "payout": 3.44
         },
         {
           "slotName": "Sunnydaze Asylum",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 20.05,
+          "payout": 4.01
         },
         {
           "slotName": "Fury of Anubis",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 73.6,
+          "payout": 14.72
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25.05,
+          "payout": 5.01
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 167.25,
+          "payout": 33.45
         },
         {
           "slotName": "Hearts of Venus",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 10.5,
+          "payout": 2.1
         },
         {
           "slotName": "Harvest Moon: Grave Profits",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 91,
+          "payout": 27.3
         },
         {
           "slotName": "Big Bass Trophy Catch",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 13.4,
+          "payout": 5.36
         },
         {
           "slotName": "Magic Piggy OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f79b9824200fdd5fafbc3b9457f168f0455653c14d070ab7a6861e17fecf62ef",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 56.4,
+          "payout": 22.56
         },
         {
           "slotName": "Great Game Serengeti",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 346.5,
+          "payout": 138.6
         },
         {
           "slotName": "Banana Farm",
           "provider": "Backseat Gaming",
           "slotImage": "https://mediumrare.imgix.net/cb0abd5dd457d0c58ed1f488afbc46847b804b07cbceb0ce5dc46a94e42b002a",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 23.5,
+          "payout": 9.4
         }
       ]
     },
