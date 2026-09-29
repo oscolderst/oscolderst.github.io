@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-09-29T13:45:14.295Z",
+  "generatedAt": "2026-09-29T18:54:06.928Z",
   "hunts": [
     {
       "id": "cmumkmi3m0rfcjc2acdeidfp5",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-09-29T11:06:18.274Z",
-      "updatedAt": "2026-09-29T11:06:18.274Z",
+      "updatedAt": "2026-09-29T16:58:48.052Z",
       "isOpening": false,
       "startCost": 250,
       "bonusCount": 10,
-      "totalWinnings": 0,
-      "profitLoss": -250,
-      "profitLossPercentage": -100,
+      "totalWinnings": 112.35,
+      "profitLoss": -137.65,
+      "profitLossPercentage": -55.06,
       "averagePayoutRequired": 25,
-      "currentAverage": 0,
+      "currentAverage": 11.24,
       "averageBetSize": 0.2,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
+      "cumulativeMultiplier": 561.75,
+      "currentAverageMultiplier": 56.18,
       "averageRequiredMultiplier": 125,
       "highestWin": {
         "slotName": "Le Prechaun",
         "provider": "Hacksaw Gaming",
         "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 20.32,
+        "multiplier": 101.6,
         "betSize": 0.2
       },
       "highestMulti": {
         "slotName": "Le Prechaun",
         "provider": "Hacksaw Gaming",
         "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 20.32,
+        "multiplier": 101.6,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Le Prechaun",
+        "slotName": "Le Fisherman",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+        "payout": 5.4,
+        "multiplier": 27,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,80 +51,80 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 101.6,
+          "payout": 20.32
         },
         {
           "slotName": "Le Fisherman",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 27,
+          "payout": 5.4
         },
         {
           "slotName": "Le Pharaoh",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 32.2,
+          "payout": 6.44
         },
         {
           "slotName": "Dr Zappo",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 36.6,
+          "payout": 7.32
         },
         {
           "slotName": "Hot Ross",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 76.3,
+          "payout": 15.26
         },
         {
           "slotName": "Fist of Destruction Megamultiplier",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 31.2,
+          "payout": 6.24
         },
         {
           "slotName": "Sun Princess",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/eee55fb124fd11f32bd54e50689505c6d4eefd58176ebb956f8b49aa7b754f56",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 90.1,
+          "payout": 18.02
         },
         {
           "slotName": "Sweet Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 39.7,
+          "payout": 7.94
         },
         {
           "slotName": "Starlight Princess 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 88.85,
+          "payout": 17.77
         },
         {
           "slotName": "Le Digger",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 38.2,
+          "payout": 7.64
         }
       ]
     },
