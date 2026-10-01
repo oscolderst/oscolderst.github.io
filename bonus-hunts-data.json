@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-01T16:37:57.666Z",
+  "generatedAt": "2026-10-01T21:22:36.116Z",
   "hunts": [
     {
       "id": "cmupciwve0y3qjcwzsr0phn34",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-01T09:42:52.395Z",
-      "updatedAt": "2026-10-01T16:36:37.615Z",
-      "isOpening": true,
+      "updatedAt": "2026-10-01T17:03:05.548Z",
+      "isOpening": false,
       "startCost": 500,
       "bonusCount": 19,
-      "totalWinnings": 13.88,
-      "profitLoss": -486.12,
-      "profitLossPercentage": -97.22,
+      "totalWinnings": 371.83,
+      "profitLoss": -128.17,
+      "profitLossPercentage": -25.63,
       "averagePayoutRequired": 26.32,
-      "currentAverage": 0.73,
+      "currentAverage": 19.57,
       "averageBetSize": 0.21,
-      "cumulativeMultiplier": 69.4,
-      "currentAverageMultiplier": 3.65,
+      "cumulativeMultiplier": 1827,
+      "currentAverageMultiplier": 96.16,
       "averageRequiredMultiplier": 125,
       "highestWin": {
-        "slotName": "Fist of Destruction Megamultiplier",
+        "slotName": "Le Digger",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
-        "payout": 4.8,
-        "multiplier": 24,
+        "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
+        "payout": 126.04,
+        "multiplier": 630.2,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Fist of Destruction Megamultiplier",
+        "slotName": "Le Digger",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
-        "payout": 4.8,
-        "multiplier": 24,
+        "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
+        "payout": 126.04,
+        "multiplier": 630.2,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Le Cowboy",
+        "slotName": "Densho",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/eadeb726f36d9807051b6216e638c817537c8b4a39cd1e5de9017e1b0d6ea61c",
+        "payout": 0.02,
+        "multiplier": 0.1,
         "betSize": 0.2
       },
       "bonuses": [
@@ -83,120 +83,120 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 75.2,
+          "payout": 15.04
         },
         {
           "slotName": "Le Pharaoh",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 6.1,
+          "payout": 1.22
         },
         {
           "slotName": "Fist of Destruction",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 44,
+          "payout": 8.8
         },
         {
           "slotName": "Benny the Beer",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 171.5,
+          "payout": 34.3
         },
         {
           "slotName": "Book of Time",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/a4f33d3918dcccb3b9f98f25bc67c834addfafb00f75cb73aea7cd10e6993c4b",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 54.4,
+          "payout": 10.88
         },
         {
           "slotName": "Densho",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/eadeb726f36d9807051b6216e638c817537c8b4a39cd1e5de9017e1b0d6ea61c",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 0.1,
+          "payout": 0.02
         },
         {
           "slotName": "Dork Unit",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/33cd5a34c3937da326652a3beb44fe9c3680118c363a060ca5670847595561a5",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 145.7,
+          "payout": 29.14
         },
         {
           "slotName": "The Dog House Megaways 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 98.05,
+          "payout": 19.61
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 25.85,
+          "payout": 5.17
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 170.85,
+          "payout": 34.17
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 32.15,
+          "payout": 12.86
         },
         {
           "slotName": "Mayan Stackways",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/f13df3ab6dbb6f1bc732baa75113414ecc4aa04d1860bb009cc8aba4717f2f64",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 133.1,
+          "payout": 26.62
         },
         {
           "slotName": "Ronin Stackways",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/68a04cf0d75f6fd3c1884805806e11ad128f09a8d274574ec99f34cd8f46f76e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 85.3,
+          "payout": 17.06
         },
         {
           "slotName": "Le Digger",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 630.2,
+          "payout": 126.04
         },
         {
           "slotName": "The Big Dog House",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 85.1,
+          "payout": 17.02
         }
       ]
     },
