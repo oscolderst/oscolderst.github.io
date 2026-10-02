@@ -1,7 +1,293 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-01T21:22:36.116Z",
+  "generatedAt": "2026-10-02T18:58:39.017Z",
   "hunts": [
+    {
+      "id": "cmur0zp0c02yfjcv34gtf0r59",
+      "title": "Bonus hunt 62",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-02T13:55:32.316Z",
+      "updatedAt": "2026-10-02T13:55:32.316Z",
+      "isOpening": false,
+      "startCost": 800,
+      "bonusCount": 30,
+      "totalWinnings": 0,
+      "profitLoss": -800,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 26.67,
+      "currentAverage": 0,
+      "averageBetSize": 0.29,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 90.91,
+      "highestWin": {
+        "slotName": "Le Pharaoh",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Le Pharaoh",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Le Pharaoh",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Le Pharaoh",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/293b2337d4d5cfda999ca423e34518a1a6682062340f1f1c5a669a26e7927c79",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Dorks of the Deep",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/73558636b4e41b610e1e15aa8f527b84348895dbbfee8f02d1231af77abbe9b1",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Cowboy",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Dr Zappo",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Prechaun",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Super Twins",
+          "provider": "Backseat Gaming",
+          "slotImage": "https://mediumrare.imgix.net/90ffaf765398d66f56c18af54d5e0a2cd0089dcdd5cf81296e0760f3902c582f",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Rusty & Curly",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/3c00491db9f09d1a2a20ff5d2e90b5668942839bd6b64eb6a6b95726a3e7538b",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Barrel Bonanza",
+          "provider": "Backseat Gaming",
+          "slotImage": "https://mediumrare.imgix.net/78853c4c98bbc63173678f9a29fa16f693261b7d72b5fc21754dc780f8e376a3",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Immortal Desire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1a7de51973e9c1298b1fa58ffe6bdd9ddb02c9e2df2c1adf62c7ca4b63c0b06a",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Rotten",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/46941e9367474779278145c5ac4dad2ea04d601c3b6deb583087585240459e42",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Great Game Rockies",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6802b13b9c6af8027a28d2e69df5d2430fdc9440928aa2d55bb38a863c92122c",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Book of Time",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/a4f33d3918dcccb3b9f98f25bc67c834addfafb00f75cb73aea7cd10e6993c4b",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Dork Unit",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/33cd5a34c3937da326652a3beb44fe9c3680118c363a060ca5670847595561a5",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Legacy of inca",
+          "provider": "Custom",
+          "slotImage": "/images/noimage.jpg",
+          "betSize": 0.3,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/eb75dbe63e5b45feb035e02cba7f846d6e71a9343f66187387a32ee8abe21e75",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Curse of the Werewolf Megaways",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ecee42a17c415c2d7059e8b7d97e9569ac0b57aeda39fa9657be7f01644ca6aa",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Great Game Serengeti",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.5,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Bonanza 1000 Dice",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4a8e119e4fc2dfd38439f8adbd315ed6c377f5ea825bb293f28fabbe0a34cd38",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "gates of hercules 10000",
+          "provider": "Custom",
+          "slotImage": "/images/noimage.jpg",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Digger",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1cf40c72962cfd94a31ff23157760ec5ea034a5148a7a6f1632638e74d358c73",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmupciwve0y3qjcwzsr0phn34",
       "title": "Bonus hunt 61",
