@@ -69,7 +69,7 @@
         '</a>' +
         '<a class="side-promo ghost" href="https://streamelements.com/taydodrill/store" target="_blank" rel="noopener">' +
           '<span class="promo-icon">' + ICON.bag + '</span>' +
-          '<span><span class="promo-label">Merch</span><span class="promo-title">Shop</span></span>' +
+          '<span><span class="promo-title">Shop</span></span>' +
         '</a>' +
       '</div>' +
       '<nav class="side-nav">' + navHtml() + '</nav>' +
