@@ -103,20 +103,6 @@ html{ scroll-behavior:smooth; }
 .side-nav a.is-active svg{color:var(--accent);}
 .side-nav a .ext{margin-left:auto;width:13px;height:13px;opacity:.45;}
 
-/* ---- socials ---- */
-.side-socials{
-  display:flex;gap:9px;justify-content:center;flex-wrap:wrap;
-  margin-top:auto;padding-top:16px;border-top:1px solid var(--border);
-}
-.side-socials a{
-  width:32px;height:32px;border-radius:50%;
-  border:1px solid var(--border);
-  display:flex;align-items:center;justify-content:center;
-  color:var(--muted);
-  transition:border-color .15s ease,color .15s ease;
-}
-.side-socials a:hover{border-color:var(--accent);color:var(--accent);}
-.side-socials svg{width:15px;height:15px;fill:currentColor;}
 
 /* ---- page offset ---- */
 body.has-sidebar main,
