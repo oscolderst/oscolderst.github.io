@@ -48,20 +48,9 @@
     '</div>' +
     '<div class="side-backdrop" id="sideBackdrop"></div>' +
     '<aside class="sidebar" id="sidebar">' +
-      '<div class="side-brand">' +
-        '<div class="brand-avatar">' +
-          '<img src="/assets/img/avatar.jpg" alt="oscolderst">' +
-          '<span class="live-dot" id="liveDot"></span>' +
-        '</div>' +
-        '<div class="brand-text">' +
-          '<div class="brand-name">oscolderst</div>' +
-          '<div class="brand-meta">' +
-            '<span class="live-stat" id="viewerStat"><span class="pulse"></span><span id="viewerCount">0</span>&nbsp;watching</span>' +
-            '<span class="meta-sep" id="viewerSep" style="display:none;">&middot;</span>' +
-            '<span><span id="followerCount">&hellip;</span>&nbsp;followers</span>' +
-          '</div>' +
-        '</div>' +
-      '</div>' +
+      '<a class="side-brand" href="/" aria-label="oscolderst home">' +
+        '<img class="brand-logo" src="/assets/img/logo.webp" alt="oscolderst" width="640" height="141">' +
+      '</a>' +
       '<div class="side-promos">' +
         '<a class="side-promo accent" href="/offers/">' +
           '<span class="promo-icon">' + ICON.gift + '</span>' +
