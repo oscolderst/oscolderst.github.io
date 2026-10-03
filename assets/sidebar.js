@@ -11,19 +11,26 @@
     bag:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>',
     ext:'<svg class="ext" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>',
     users:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>',
+    doc:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M8 13h8M8 17h8"/></svg>',
+    lock:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>',
+    cookie:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.5A9 9 0 1 1 11.5 3a3 3 0 0 0 3.5 3.5 3 3 0 0 0 3.5 3.5 3 3 0 0 0 2.5 2.5z"/><path d="M8.5 9.5h.01M15.5 15.5h.01M10 16h.01M12 12h.01"/></svg>',
     menu:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg>'
   };
 
   var NAV = [
-    { href:'/',             icon:'home', label:'In&iacute;cio' },
-    { href:'/offers/',      icon:'gift', label:'Ofertas' },
-    { href:'/live/',        icon:'live', label:'Ao Vivo' },
-    { href:'/clips/',       icon:'clip', label:'Clipes' },
+    { href:'/',             icon:'home', label:'Home' },
+    { href:'/offers/',      icon:'gift', label:'Offers' },
+    { href:'/live/',        icon:'live', label:'Live' },
+    { href:'/clips/',       icon:'clip', label:'Clips' },
     { href:'/bonus-hunts/', icon:'star', label:'Bonus Hunts' },
     { group:'Links' },
     { href:'https://www.twitch.tv/oscolderst', icon:'twitch', label:'Stream', ext:true },
-    { href:'https://streamelements.com/taydodrill/store', icon:'bag', label:'Loja', ext:true },
-    { href:'/community/', icon:'users', label:'Community' }
+    { href:'https://streamelements.com/taydodrill/store', icon:'bag', label:'Shop', ext:true },
+    { href:'/community/', icon:'users', label:'Community' },
+    { group:'Legal' },
+    { href:'/terms/',   icon:'doc',    label:'Terms' },
+    { href:'/privacy/', icon:'lock',   label:'Privacy' },
+    { href:'/cookies/', icon:'cookie', label:'Cookies' }
   ];
 
   function navHtml(){
@@ -36,7 +43,7 @@
 
   var markup =
     '<div class="mobile-bar">' +
-      '<button class="side-toggle" id="sideToggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="sidebar">' + ICON.menu + '</button>' +
+      '<button class="side-toggle" id="sideToggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">' + ICON.menu + '</button>' +
       '<span class="mobile-brand">oscolderst</span>' +
     '</div>' +
     '<div class="side-backdrop" id="sideBackdrop"></div>' +
@@ -49,20 +56,20 @@
         '<div class="brand-text">' +
           '<div class="brand-name">oscolderst</div>' +
           '<div class="brand-meta">' +
-            '<span class="live-stat" id="viewerStat"><span class="pulse"></span><span id="viewerCount">0</span>&nbsp;a assistir</span>' +
+            '<span class="live-stat" id="viewerStat"><span class="pulse"></span><span id="viewerCount">0</span>&nbsp;watching</span>' +
             '<span class="meta-sep" id="viewerSep" style="display:none;">&middot;</span>' +
-            '<span><span id="followerCount">&hellip;</span>&nbsp;seguidores</span>' +
+            '<span><span id="followerCount">&hellip;</span>&nbsp;followers</span>' +
           '</div>' +
         '</div>' +
       '</div>' +
       '<div class="side-promos">' +
         '<a class="side-promo accent" href="/offers/">' +
           '<span class="promo-icon">' + ICON.gift + '</span>' +
-          '<span><span class="promo-label">Reclama</span><span class="promo-title">Ofertas</span></span>' +
+          '<span><span class="promo-label">Claim</span><span class="promo-title">Offers</span></span>' +
         '</a>' +
         '<a class="side-promo ghost" href="https://streamelements.com/taydodrill/store" target="_blank" rel="noopener">' +
           '<span class="promo-icon">' + ICON.bag + '</span>' +
-          '<span><span class="promo-label">Merch</span><span class="promo-title">Loja</span></span>' +
+          '<span><span class="promo-label">Merch</span><span class="promo-title">Shop</span></span>' +
         '</a>' +
       '</div>' +
       '<nav class="side-nav">' + navHtml() + '</nav>' +

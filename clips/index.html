@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Clipes &mdash; oscolderst</title>
+<title>Clips &mdash; oscolderst</title>
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
 <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/favicon-64.png">
 <link rel="stylesheet" href="/assets/site.css">
@@ -17,36 +17,36 @@
     <div class="age-gate-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
     </div>
-    <div class="age-gate-eyebrow">18+ APENAS</div>
-    <h2 class="age-gate-title">Confirma a tua idade</h2>
-    <p class="age-gate-text">Este site cont&eacute;m conte&uacute;do relacionado com apostas, destinado a adultos. Confirma que tens pelo menos 18 anos e que est&aacute;s legalmente autorizado a ver este conte&uacute;do na tua jurisdi&ccedil;&atilde;o.</p>
-    <button class="age-gate-btn enter" data-age="ok" type="button">TENHO 18 OU MAIS &mdash; ENTRAR</button>
-    <button class="age-gate-btn exit" data-age="no" type="button">TENHO MENOS DE 18 &mdash; SAIR</button>
-    <p class="age-gate-fine">Apostar envolve risco. Aposta apenas o que podes perder. Este site promove jogo respons&aacute;vel e n&atilde;o se responsabiliza por perdas financeiras. Ao entrar, confirmas que compreendes estes riscos e aceitas total responsabilidade pelas tuas decis&otilde;es. A equipa oscolderst n&atilde;o se responsabiliza por resultados relacionados com servi&ccedil;os de apostas de terceiros associados neste site.</p>
+    <div class="age-gate-eyebrow">18+ ONLY</div>
+    <h2 class="age-gate-title">Confirm your age</h2>
+    <p class="age-gate-text">This site contains gambling-related content intended for adults. Please confirm that you are at least 18 years old and legally allowed to view this content in your jurisdiction.</p>
+    <button class="age-gate-btn enter" data-age="ok" type="button">I AM 18 OR OLDER &mdash; ENTER</button>
+    <button class="age-gate-btn exit" data-age="no" type="button">I AM UNDER 18 &mdash; LEAVE</button>
+    <p class="age-gate-fine">Gambling involves risk. Only bet what you can afford to lose. This site promotes responsible gambling and is not responsible for any financial losses. By entering, you confirm that you understand these risks and accept full responsibility for your decisions. The oscolderst team is not responsible for outcomes related to third-party gambling services linked on this site.</p>
   </div>
 </div>
 
 <main>
-  <section class="clips" id="clipes">
+  <section class="clips" id="clips">
     <div class="eyebrow">Watch &amp; enjoy</div>
-    <h2>Melhores Clipes</h2>
+    <h2>Top Clips</h2>
 
-    <div class="clip-filters" role="tablist" aria-label="Filtrar clipes">
+    <div class="clip-filters" role="tablist" aria-label="Filter clips">
       <button class="filter-tab active" data-filter="top" type="button">
         <span class="tab-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"></polyline><path d="M3.51 15a9 9 0 1 0 .49-9.36L1 10"></path></svg></span>
-        <span class="tab-text"><span class="tab-title">Mais Vistos</span><span class="tab-sub">Top 6 por visualiza&ccedil;&otilde;es</span></span>
+        <span class="tab-text"><span class="tab-title">Most Viewed</span><span class="tab-sub">Top 6 by views</span></span>
       </button>
       <button class="filter-tab" data-filter="all" type="button">
         <span class="tab-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg></span>
-        <span class="tab-text"><span class="tab-title">Todos</span><span class="tab-sub">Ver todos os clipes</span></span>
+        <span class="tab-text"><span class="tab-title">All</span><span class="tab-sub">See all clips</span></span>
         <span class="tab-count" id="allCount">&mdash;</span>
       </button>
     </div>
 
     <div class="clips-grid" id="clipsGrid"></div>
     <div class="clips-empty" id="clipsEmpty" hidden>
-      N&atilde;o foi poss&iacute;vel carregar os clipes agora.
-      <a href="https://www.twitch.tv/oscolderst/clips" target="_blank" rel="noopener">Ver na Twitch &rarr;</a>
+      Couldn&rsquo;t load the clips right now.
+      <a href="https://www.twitch.tv/oscolderst/clips" target="_blank" rel="noopener">Watch on Twitch &rarr;</a>
     </div>
   </section>
 </main>

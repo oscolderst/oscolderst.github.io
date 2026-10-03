@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -65,24 +65,24 @@
     <div class="age-gate-icon">
       <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
     </div>
-    <div class="age-gate-eyebrow">18+ APENAS</div>
-    <h2 class="age-gate-title">Confirma a tua idade</h2>
-    <p class="age-gate-text">Este site cont&eacute;m conte&uacute;do relacionado com apostas, destinado a adultos. Confirma que tens pelo menos 18 anos e que est&aacute;s legalmente autorizado a ver este conte&uacute;do na tua jurisdi&ccedil;&atilde;o.</p>
-    <button class="age-gate-btn enter" data-age="ok" type="button">TENHO 18 OU MAIS &mdash; ENTRAR</button>
-    <button class="age-gate-btn exit" data-age="no" type="button">TENHO MENOS DE 18 &mdash; SAIR</button>
-    <p class="age-gate-fine">Apostar envolve risco. Aposta apenas o que podes perder. Este site promove jogo respons&aacute;vel e n&atilde;o se responsabiliza por perdas financeiras. Ao entrar, confirmas que compreendes estes riscos e aceitas total responsabilidade pelas tuas decis&otilde;es. A equipa oscolderst n&atilde;o se responsabiliza por resultados relacionados com servi&ccedil;os de apostas de terceiros associados neste site.</p>
+    <div class="age-gate-eyebrow">18+ ONLY</div>
+    <h2 class="age-gate-title">Confirm your age</h2>
+    <p class="age-gate-text">This site contains gambling-related content intended for adults. Please confirm that you are at least 18 years old and legally allowed to view this content in your jurisdiction.</p>
+    <button class="age-gate-btn enter" data-age="ok" type="button">I AM 18 OR OLDER &mdash; ENTER</button>
+    <button class="age-gate-btn exit" data-age="no" type="button">I AM UNDER 18 &mdash; LEAVE</button>
+    <p class="age-gate-fine">Gambling involves risk. Only bet what you can afford to lose. This site promotes responsible gambling and is not responsible for any financial losses. By entering, you confirm that you understand these risks and accept full responsibility for your decisions. The oscolderst team is not responsible for outcomes related to third-party gambling services linked on this site.</p>
   </div>
 </div>
 
 <main>
   <section class="bh-hero">
-    <div class="eyebrow">HISTÓRICO</div>
+    <div class="eyebrow">HISTORY</div>
     <h1>Bonus Hunts</h1>
-    <p>Todos os bonus hunts do canal, com estatísticas e resultados de cada slot.</p>
+    <p>Every bonus hunt from the channel, with stats and results for each slot.</p>
   </section>
 
   <section class="bh-wrap" id="bhWrap">
-    <div id="bhLoading" class="bh-empty">A carregar dados&hellip;</div>
+    <div id="bhLoading" class="bh-empty">Loading data&hellip;</div>
   </section>
 </main>
 
@@ -105,15 +105,15 @@
 
   const fmtMoney = (n, currency) => {
     try {
-      return (n ?? 0).toLocaleString('pt-PT', { style: 'currency', currency: currency || 'EUR' });
+      return (n ?? 0).toLocaleString('en-GB', { style: 'currency', currency: currency || 'EUR' });
     } catch (e) {
-      return (n ?? 0).toFixed(2) + ' €';
+      return '€' + (n ?? 0).toFixed(2);
     }
   };
   const fmtX = (n) => (n ?? 0).toFixed(2) + 'x';
   const fmtDate = (iso) => {
     const d = new Date(iso);
-    return d.toLocaleString('pt-PT', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    return d.toLocaleString('en-GB', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
   };
   const huntNumber = (title) => {
     const m = (title || '').match(/(\d+)/);
@@ -141,32 +141,32 @@
   function renderSidebar(hunt) {
     const plClass = hunt.profitLoss >= 0 ? 'pos' : 'neg';
     const plSign = hunt.profitLoss >= 0 ? '+' : '';
-    const statusLabel = hunt.isOpening ? 'A decorrer' : 'Finalizado';
+    const statusLabel = hunt.isOpening ? 'In progress' : 'Finished';
 
     let html = '';
     html += '<div class="bh-card">';
     html += '<div class="bh-switcher">';
-    html += '<button class="bh-switcher-btn" id="bhPrev" aria-label="Hunt anterior" ' + (huntIndex >= DATA.hunts.length - 1 ? 'disabled' : '') + '>';
+    html += '<button class="bh-switcher-btn" id="bhPrev" aria-label="Previous hunt" ' + (huntIndex >= DATA.hunts.length - 1 ? 'disabled' : '') + '>';
     html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M15 6l-6 6 6 6"/></svg></button>';
     html += '<div class="bh-switcher-title"><div class="num">BONUS HUNT #' + esc(huntNumber(hunt.title)) + '</div><div class="date">' + fmtDate(hunt.createdAt) + '</div></div>';
-    html += '<button class="bh-switcher-btn" id="bhNext" aria-label="Hunt seguinte" ' + (huntIndex <= 0 ? 'disabled' : '') + '>';
+    html += '<button class="bh-switcher-btn" id="bhNext" aria-label="Next hunt" ' + (huntIndex <= 0 ? 'disabled' : '') + '>';
     html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 6l6 6-6 6"/></svg></button>';
     html += '</div>';
 
     html += '<div class="bh-stats">';
-    html += statCard('Estado', statusLabel);
-    html += statCard('Banca inicial', fmtMoney(hunt.startCost, hunt.currency));
-    html += statCard('Bónus', hunt.bonusCount);
-    html += statCard('Total pago', fmtMoney(hunt.totalWinnings, hunt.currency));
-    html += statCard('Lucro / Prejuízo', plSign + fmtMoney(hunt.profitLoss, hunt.currency), plClass);
-    html += statCard('Req. inicial', fmtMoney(hunt.averagePayoutRequired, hunt.currency) + ' &middot; ' + fmtX(hunt.averageRequiredMultiplier));
-    html += statCard('Média atual', fmtMoney(hunt.currentAverage, hunt.currency) + ' &middot; ' + fmtX(hunt.currentAverageMultiplier));
+    html += statCard('Status', statusLabel);
+    html += statCard('Starting balance', fmtMoney(hunt.startCost, hunt.currency));
+    html += statCard('Bonuses', hunt.bonusCount);
+    html += statCard('Total paid', fmtMoney(hunt.totalWinnings, hunt.currency));
+    html += statCard('Profit / Loss', plSign + fmtMoney(hunt.profitLoss, hunt.currency), plClass);
+    html += statCard('Start req.', fmtMoney(hunt.averagePayoutRequired, hunt.currency) + ' &middot; ' + fmtX(hunt.averageRequiredMultiplier));
+    html += statCard('Current avg.', fmtMoney(hunt.currentAverage, hunt.currency) + ' &middot; ' + fmtX(hunt.currentAverageMultiplier));
     html += '</div>';
 
     html += '<div class="bh-highlights">';
-    html += highlightRow('Maior win', hunt.highestWin);
-    html += highlightRow('Maior multi', hunt.highestMulti);
-    html += highlightRow('Menor multi', hunt.lowestMulti);
+    html += highlightRow('Biggest win', hunt.highestWin);
+    html += highlightRow('Highest multi', hunt.highestMulti);
+    html += highlightRow('Lowest multi', hunt.lowestMulti);
     html += '</div>';
     html += '</div>';
     return html;
@@ -197,7 +197,7 @@
     });
 
     if (!pageItems.length) {
-      html += '<tr><td colspan="6" style="text-align:center;color:var(--muted);padding:24px;">Sem slots registados.</td></tr>';
+      html += '<tr><td colspan="6" style="text-align:center;color:var(--muted);padding:24px;">No slots recorded.</td></tr>';
     }
 
     html += '</tbody></table></div>';
@@ -219,7 +219,7 @@
   function render() {
     const wrap = document.getElementById('bhWrap');
     if (!DATA || !DATA.hunts || !DATA.hunts.length) {
-      wrap.innerHTML = '<div class="bh-empty">Ainda não há bonus hunts para mostrar.</div>';
+      wrap.innerHTML = '<div class="bh-empty">No bonus hunts to show yet.</div>';
       return;
     }
     const hunt = DATA.hunts[huntIndex];
@@ -258,7 +258,7 @@
       .catch((err) => {
         // A failed background refresh must not wipe out what is already shown.
         if (!isInitial) return;
-        document.getElementById('bhWrap').innerHTML = '<div class="bh-empty">Não foi possível carregar os dados dos bonus hunts.<br>' + esc(err.message) + '</div>';
+        document.getElementById('bhWrap').innerHTML = '<div class="bh-empty">Couldn&rsquo;t load the bonus hunt data.<br>' + esc(err.message) + '</div>';
       });
   }
 
