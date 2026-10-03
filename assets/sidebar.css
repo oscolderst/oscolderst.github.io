@@ -117,7 +117,8 @@ body.has-sidebar main{max-width:none;padding:0 40px;}
     background:transparent;color:var(--text);cursor:pointer;
   }
   .side-toggle svg{width:19px;height:19px;}
-  .mobile-brand{font-weight:700;font-size:14px;}
+  .mobile-brand{display:block;line-height:0;}
+  .mobile-brand img{display:block;height:24px;width:auto;}
 
   .side-backdrop{
     display:block;position:fixed;inset:0;z-index:59;
