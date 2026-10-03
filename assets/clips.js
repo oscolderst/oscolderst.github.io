@@ -52,7 +52,7 @@
     a.querySelector('.clip-thumb img').src = node.thumbnailURL || '';
     a.querySelector('.clip-duration').textContent = fmtDuration(node.durationSeconds);
     a.querySelector('.clip-name').textContent = node.title || '';
-    a.querySelector('.clip-meta').textContent = (node.viewCount || 0) + ' visualizações';
+    a.querySelector('.clip-meta').textContent = (node.viewCount || 0) + ' views';
     return a;
   }
 

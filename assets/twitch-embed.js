@@ -9,7 +9,7 @@
     f.src = SRC;
     f.allowFullscreen = true;
     f.setAttribute('allow', 'autoplay; fullscreen');
-    f.title = 'Stream oscolderst na Twitch';
+    f.title = 'oscolderst stream on Twitch';
     box.innerHTML = '';
     box.appendChild(f);
   }
