@@ -255,3 +255,36 @@
   }
   .clips-empty a{color:var(--accent);text-decoration:none;margin-left:6px;}
   .clips-empty a:hover{text-decoration:underline;}
+
+  /* Community page */
+  .community{padding:56px 0 72px;text-align:center;}
+  .community h2{font-size:34px;font-weight:800;margin:6px 0 10px;}
+  .community .lede{margin:0 0 36px;}
+  .social-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px;text-align:left;}
+  .social-card{
+    --brand:var(--accent);
+    display:flex;flex-direction:column;align-items:flex-start;
+    padding:26px 24px;border-radius:20px;
+    background:var(--surface);border:1px solid var(--border);
+    color:var(--text);text-decoration:none;
+    transition:border-color .15s ease, transform .15s ease;
+  }
+  .social-card:hover{border-color:var(--brand);transform:translateY(-3px);}
+  .social-card.discord{--brand:#5865f2;}
+  .social-card.twitch{--brand:#9146ff;}
+  .social-card.instagram{--brand:#e1306c;}
+  .social-card.youtube{--brand:#ff0033;}
+  .social-logo{
+    width:58px;height:58px;border-radius:16px;margin-bottom:18px;
+    display:flex;align-items:center;justify-content:center;
+    background:var(--brand);
+  }
+  .social-card.instagram .social-logo{background:linear-gradient(45deg,#f9a825,#e1306c 50%,#833ab4);}
+  .social-logo svg{width:30px;height:30px;fill:#fff;}
+  .social-name{font-size:19px;font-weight:800;}
+  .social-handle{font-size:12.5px;color:var(--muted);margin-top:3px;}
+  .social-desc{font-size:13.5px;color:var(--muted);line-height:1.55;margin:14px 0 22px;flex:1;}
+  .social-btn{
+    font-size:13px;font-weight:800;color:var(--brand);
+  }
+  .social-card.instagram .social-btn{color:#e1306c;}
