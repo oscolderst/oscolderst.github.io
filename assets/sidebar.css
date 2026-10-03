@@ -121,6 +121,8 @@ html{ scroll-behavior:smooth; }
 /* ---- page offset ---- */
 body.has-sidebar main,
 body.has-sidebar footer{margin-left:var(--side-w);}
+/* Use the full width beside the sidebar instead of a centred 1100px column. */
+body.has-sidebar main{max-width:none;padding:0 40px;}
 
 /* ---- mobile ---- */
 .mobile-bar{display:none;}
@@ -136,6 +138,7 @@ body.has-sidebar footer{margin-left:var(--side-w);}
 
   body.has-sidebar main,
   body.has-sidebar footer{margin-left:0;}
+  body.has-sidebar main{padding:0 20px;}
 
   .mobile-bar{
     display:flex;align-items:center;gap:12px;
