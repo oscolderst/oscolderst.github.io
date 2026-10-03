@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bonus Hunts &mdash; oscolderst</title>
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png">
+<link rel="icon" type="image/png" sizes="64x64" href="/assets/img/favicon-64.png">
+<link rel="stylesheet" href="/assets/site.css">
+<link rel="stylesheet" href="/assets/sidebar.css">
+<style>
+  .bh-hero{text-align:center;padding:48px 0 32px;}
+  .bh-hero h1{font-size:36px;font-weight:800;margin:0 0 10px;letter-spacing:-0.5px;}
+  .bh-hero p{color:var(--muted);font-size:14.5px;margin:0;}
+  .bh-wrap{display:grid;grid-template-columns:340px 1fr;gap:20px;align-items:start;padding-bottom:64px;}
+  @media (max-width:860px){ .bh-wrap{grid-template-columns:1fr;} }
+  .bh-card{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:18px;}
+  .bh-switcher{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:16px;}
+  .bh-switcher-btn{width:34px;height:34px;border-radius:10px;border:1px solid var(--border);background:var(--surface-2);color:var(--text);display:flex;align-items:center;justify-content:center;cursor:pointer;flex-shrink:0;transition:border-color .15s ease,color .15s ease;}
+  .bh-switcher-btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent);}
+  .bh-switcher-btn:disabled{opacity:0.3;cursor:default;}
+  .bh-switcher-btn svg{width:16px;height:16px;}
+  .bh-switcher-title{text-align:center;flex:1;min-width:0;}
+  .bh-switcher-title .num{font-size:15px;font-weight:800;letter-spacing:0.3px;}
+  .bh-switcher-title .date{font-size:11.5px;color:var(--muted);margin-top:2px;}
+  .bh-stats{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:16px;}
+  .bh-stat{background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:10px 12px;}
+  .bh-stat .label{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:0.4px;}
+  .bh-stat .value{font-size:15px;font-weight:800;margin-top:3px;word-break:break-word;}
+  .bh-stat .value.pos{color:#4ade80;}
+  .bh-stat .value.neg{color:#ff6b6b;}
+  .bh-stat.wide{grid-column:1 / -1;}
+  .bh-highlights{display:flex;flex-direction:column;gap:8px;}
+  .bh-highlight{display:flex;align-items:center;gap:10px;background:var(--surface-2);border:1px solid var(--border);border-radius:12px;padding:8px;}
+  .bh-highlight img{width:36px;height:36px;border-radius:8px;object-fit:cover;flex-shrink:0;background:#000;}
+  .bh-highlight .info{min-width:0;flex:1;}
+  .bh-highlight .info .name{font-size:12.5px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+  .bh-highlight .info .tag{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:0.3px;}
+  .bh-highlight .val{font-size:13px;font-weight:800;color:var(--accent);flex-shrink:0;}
+  .bh-table-wrap{overflow-x:auto;}
+  table.bh-table{width:100%;border-collapse:collapse;font-size:13.5px;}
+  table.bh-table th{text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:0.5px;color:var(--muted);padding:0 10px 12px;font-weight:700;}
+  table.bh-table td{padding:10px;border-top:1px solid var(--border);vertical-align:middle;}
+  table.bh-table tr:first-child td{border-top:none;}
+  .bh-slot-cell{display:flex;align-items:center;gap:10px;}
+  .bh-slot-cell img{width:38px;height:38px;border-radius:8px;object-fit:cover;flex-shrink:0;background:#000;}
+  .bh-slot-cell .name{font-weight:700;}
+  .bh-multi{font-weight:800;}
+  .bh-multi.great{color:#4ade80;}
+  .bh-multi.good{color:var(--accent);}
+  .bh-win{font-weight:800;}
+  .bh-pager{display:flex;align-items:center;justify-content:center;gap:6px;margin-top:16px;}
+  .bh-pager button{min-width:32px;height:32px;border-radius:8px;border:1px solid var(--border);background:var(--surface-2);color:var(--text);cursor:pointer;font-size:12.5px;font-weight:700;padding:0 8px;}
+  .bh-pager button:hover:not(:disabled){border-color:var(--accent);color:var(--accent);}
+  .bh-pager button.active{background:var(--accent);color:#1a1206;border-color:var(--accent);}
+  .bh-pager button:disabled{opacity:0.3;cursor:default;}
+  .bh-empty{text-align:center;color:var(--muted);padding:60px 20px;font-size:14px;}
+</style>
+</head>
+<body class="has-sidebar">
+
+<div class="age-gate" id="ageGate">
+  <div class="age-gate-card">
+    <div class="age-gate-logo">oscolderst</div>
+    <div class="age-gate-icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6l7-3z"/><path d="M9 12l2 2 4-4"/></svg>
+    </div>
+    <div class="age-gate-eyebrow">18+ APENAS</div>
+    <h2 class="age-gate-title">Confirma a tua idade</h2>
+    <p class="age-gate-text">Este site cont&eacute;m conte&uacute;do relacionado com apostas, destinado a adultos. Confirma que tens pelo menos 18 anos e que est&aacute;s legalmente autorizado a ver este conte&uacute;do na tua jurisdi&ccedil;&atilde;o.</p>
+    <button class="age-gate-btn enter" data-age="ok" type="button">TENHO 18 OU MAIS &mdash; ENTRAR</button>
+    <button class="age-gate-btn exit" data-age="no" type="button">TENHO MENOS DE 18 &mdash; SAIR</button>
+    <p class="age-gate-fine">Apostar envolve risco. Aposta apenas o que podes perder. Este site promove jogo respons&aacute;vel e n&atilde;o se responsabiliza por perdas financeiras. Ao entrar, confirmas que compreendes estes riscos e aceitas total responsabilidade pelas tuas decis&otilde;es. A equipa oscolderst n&atilde;o se responsabiliza por resultados relacionados com servi&ccedil;os de apostas de terceiros associados neste site.</p>
+  </div>
+</div>
+
+<main>
+  <section class="bh-hero">
+    <div class="eyebrow">HISTÓRICO</div>
+    <h1>Bonus Hunts</h1>
+    <p>Todos os bonus hunts do canal, com estatísticas e resultados de cada slot.</p>
+  </section>
+
+  <section class="bh-wrap" id="bhWrap">
+    <div id="bhLoading" class="bh-empty">A carregar dados&hellip;</div>
+  </section>
+</main>
+
+<footer>
+  <div>Copyright &copy; 2026 OSCOLDERST &mdash; All rights reserved</div>
+  <div class="fine">Responsible gaming. 18+ only. &middot; <a href="https://www.begambleaware.org/" target="_blank" rel="noopener">BeGambleAware.org</a></div>
+  <div class="fine">Contact: <a href="mailto:oscolderst@gmail.com">oscolderst@gmail.com</a></div>
+</footer>
+
+<script src="/assets/age-gate.js"></script>
+<script src="/assets/sidebar.js"></script>
+<script src="/assets/twitch-stats.js"></script>
+<script>
+(function(){
+  const PAGE_SIZE = 9;
+  let DATA = null;
+  let huntIndex = 0;
+  let tablePage = 0;
+
+  const fmtMoney = (n, currency) => {
+    try {
+      return (n ?? 0).toLocaleString('pt-PT', { style: 'currency', currency: currency || 'EUR' });
+    } catch (e) {
+      return (n ?? 0).toFixed(2) + ' €';
+    }
+  };
+  const fmtX = (n) => (n ?? 0).toFixed(2) + 'x';
+  const fmtDate = (iso) => {
+    const d = new Date(iso);
+    return d.toLocaleString('pt-PT', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+  };
+  const huntNumber = (title) => {
+    const m = (title || '').match(/(\d+)/);
+    return m ? m[1] : '?';
+  };
+  const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  function statCard(label, value, extraClass) {
+    return '<div class="bh-stat' + (extraClass ? ' ' + extraClass : '') + '"><div class="label">' + esc(label) + '</div><div class="value' + (extraClass === 'wide' ? '' : '') + '">' + value + '</div></div>';
+  }
+
+  function highlightRow(tag, slot) {
+    if (!slot) return '';
+    return '' +
+      '<div class="bh-highlight">' +
+        '<img src="' + esc(slot.slotImage) + '" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'">' +
+        '<div class="info">' +
+          '<div class="name">' + esc(slot.slotName) + '</div>' +
+          '<div class="tag">' + esc(tag) + ' &middot; ' + esc(slot.provider) + '</div>' +
+        '</div>' +
+        '<div class="val">' + fmtX(slot.multiplier) + '</div>' +
+      '</div>';
+  }
+
+  function renderSidebar(hunt) {
+    const plClass = hunt.profitLoss >= 0 ? 'pos' : 'neg';
+    const plSign = hunt.profitLoss >= 0 ? '+' : '';
+    const statusLabel = hunt.isOpening ? 'A decorrer' : 'Finalizado';
+
+    let html = '';
+    html += '<div class="bh-card">';
+    html += '<div class="bh-switcher">';
+    html += '<button class="bh-switcher-btn" id="bhPrev" aria-label="Hunt anterior" ' + (huntIndex >= DATA.hunts.length - 1 ? 'disabled' : '') + '>';
+    html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M15 6l-6 6 6 6"/></svg></button>';
+    html += '<div class="bh-switcher-title"><div class="num">BONUS HUNT #' + esc(huntNumber(hunt.title)) + '</div><div class="date">' + fmtDate(hunt.createdAt) + '</div></div>';
+    html += '<button class="bh-switcher-btn" id="bhNext" aria-label="Hunt seguinte" ' + (huntIndex <= 0 ? 'disabled' : '') + '>';
+    html += '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M9 6l6 6-6 6"/></svg></button>';
+    html += '</div>';
+
+    html += '<div class="bh-stats">';
+    html += statCard('Estado', statusLabel);
+    html += statCard('Banca inicial', fmtMoney(hunt.startCost, hunt.currency));
+    html += statCard('Bónus', hunt.bonusCount);
+    html += statCard('Total pago', fmtMoney(hunt.totalWinnings, hunt.currency));
+    html += statCard('Lucro / Prejuízo', plSign + fmtMoney(hunt.profitLoss, hunt.currency), plClass);
+    html += statCard('Req. inicial', fmtMoney(hunt.averagePayoutRequired, hunt.currency) + ' &middot; ' + fmtX(hunt.averageRequiredMultiplier));
+    html += statCard('Média atual', fmtMoney(hunt.currentAverage, hunt.currency) + ' &middot; ' + fmtX(hunt.currentAverageMultiplier));
+    html += '</div>';
+
+    html += '<div class="bh-highlights">';
+    html += highlightRow('Maior win', hunt.highestWin);
+    html += highlightRow('Maior multi', hunt.highestMulti);
+    html += highlightRow('Menor multi', hunt.lowestMulti);
+    html += '</div>';
+    html += '</div>';
+    return html;
+  }
+
+  function renderTable(hunt) {
+    const bonuses = hunt.bonuses || [];
+    const totalPages = Math.max(1, Math.ceil(bonuses.length / PAGE_SIZE));
+    tablePage = Math.min(tablePage, totalPages - 1);
+    const start = tablePage * PAGE_SIZE;
+    const pageItems = bonuses.slice(start, start + PAGE_SIZE);
+
+    let html = '<div class="bh-card">';
+    html += '<div class="bh-table-wrap"><table class="bh-table"><thead><tr>';
+    html += '<th style="width:36px;">#</th><th>Slot</th><th>Provider</th><th>Bet</th><th>Multi</th><th>Win</th>';
+    html += '</tr></thead><tbody>';
+
+    pageItems.forEach((b, i) => {
+      const multiClass = b.multiplier >= 100 ? 'great' : (b.multiplier >= 20 ? 'good' : '');
+      html += '<tr>';
+      html += '<td>' + (start + i + 1) + '</td>';
+      html += '<td><div class="bh-slot-cell"><img src="' + esc(b.slotImage) + '" alt="" loading="lazy" onerror="this.style.visibility=\'hidden\'"><span class="name">' + esc(b.slotName) + '</span></div></td>';
+      html += '<td>' + esc(b.provider) + '</td>';
+      html += '<td>' + fmtMoney(b.betSize, hunt.currency) + '</td>';
+      html += '<td class="bh-multi ' + multiClass + '">' + fmtX(b.multiplier) + '</td>';
+      html += '<td class="bh-win">' + fmtMoney(b.payout, hunt.currency) + '</td>';
+      html += '</tr>';
+    });
+
+    if (!pageItems.length) {
+      html += '<tr><td colspan="6" style="text-align:center;color:var(--muted);padding:24px;">Sem slots registados.</td></tr>';
+    }
+
+    html += '</tbody></table></div>';
+
+    if (totalPages > 1) {
+      html += '<div class="bh-pager">';
+      html += '<button data-page="' + (tablePage - 1) + '" ' + (tablePage === 0 ? 'disabled' : '') + '>&lsaquo;</button>';
+      for (let p = 0; p < totalPages; p++) {
+        html += '<button data-page="' + p + '" class="' + (p === tablePage ? 'active' : '') + '">' + (p + 1) + '</button>';
+      }
+      html += '<button data-page="' + (tablePage + 1) + '" ' + (tablePage === totalPages - 1 ? 'disabled' : '') + '>&rsaquo;</button>';
+      html += '</div>';
+    }
+
+    html += '</div>';
+    return html;
+  }
+
+  function render() {
+    const wrap = document.getElementById('bhWrap');
+    if (!DATA || !DATA.hunts || !DATA.hunts.length) {
+      wrap.innerHTML = '<div class="bh-empty">Ainda não há bonus hunts para mostrar.</div>';
+      return;
+    }
+    const hunt = DATA.hunts[huntIndex];
+    wrap.innerHTML = renderSidebar(hunt) + renderTable(hunt);
+
+    const prevBtn = document.getElementById('bhPrev');
+    const nextBtn = document.getElementById('bhNext');
+    if (prevBtn) prevBtn.addEventListener('click', () => { if (huntIndex < DATA.hunts.length - 1) { huntIndex++; tablePage = 0; render(); } });
+    if (nextBtn) nextBtn.addEventListener('click', () => { if (huntIndex > 0) { huntIndex--; tablePage = 0; render(); } });
+
+    wrap.querySelectorAll('.bh-pager button[data-page]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const p = parseInt(btn.getAttribute('data-page'), 10);
+        if (!isNaN(p) && p >= 0) { tablePage = p; render(); }
+      });
+    });
+  }
+
+  function loadData(isInitial) {
+    return fetch('/bonus-hunts-data.json', { cache: 'no-store' })
+      .then((r) => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then((data) => {
+        // Keep the visitor on the hunt they were reading: a new hunt lands at
+        // the top and shifts every index below it.
+        const openId = DATA && DATA.hunts && DATA.hunts[huntIndex] ? DATA.hunts[huntIndex].id : null;
+        DATA = data;
+        const hunts = (DATA && DATA.hunts) || [];
+        if (openId) {
+          const found = hunts.findIndex((h) => h.id === openId);
+          if (found === -1) { huntIndex = 0; tablePage = 0; }
+          else if (found !== huntIndex) { huntIndex = found; }
+        }
+        if (huntIndex > hunts.length - 1) { huntIndex = Math.max(0, hunts.length - 1); tablePage = 0; }
+        render();
+      })
+      .catch((err) => {
+        // A failed background refresh must not wipe out what is already shown.
+        if (!isInitial) return;
+        document.getElementById('bhWrap').innerHTML = '<div class="bh-empty">Não foi possível carregar os dados dos bonus hunts.<br>' + esc(err.message) + '</div>';
+      });
+  }
+
+  loadData(true);
+  setInterval(function () { loadData(false); }, 15 * 60 * 1000);
+})();
+</script>
+
+
+</body>
+</html>
