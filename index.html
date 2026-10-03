@@ -90,12 +90,13 @@
   <section class="live" id="aovivo">
     <div class="eyebrow">Ao Vivo</div>
     <h2>Assiste Agora</h2>
-    <div class="live-embed">
-      <iframe
-        src="https://player.twitch.tv/?channel=oscolderst&parent=oscolderst.github.io&muted=true"
-        allowfullscreen="true"
-        scrolling="no">
-      </iframe>
+    <div class="live-embed" data-twitch>
+      <div class="embed-gate">
+        <svg class="embed-gate-logo" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 3 3 6v14h5v3h3l3-3h4l6-6V3H4zm16 10-3 3h-4l-3 3v-3H6V5h14v8z"/><path d="M15 7h2v5h-2zm-5 0h2v5h-2z"/></svg>
+        <div class="embed-gate-title">Stream da Twitch</div>
+        <button class="embed-gate-btn" type="button">Ver stream</button>
+        <p class="embed-gate-note">Ao carregar, a Twitch pode guardar cookies no teu browser. <a href="/cookies/">Cookies</a></p>
+      </div>
     </div>
     <a class="live-link" href="https://www.twitch.tv/oscolderst" target="_blank" rel="noopener">Ver no site da Twitch &rarr;</a>
   </section>
@@ -140,11 +141,13 @@
   <div>Copyright &copy; 2026 OSCOLDERST &mdash; All rights reserved</div>
   <div class="fine">Responsible gaming. 18+ only. &middot; <a href="https://www.begambleaware.org/" target="_blank" rel="noopener">BeGambleAware.org</a></div>
   <div class="fine">Contact: <a href="mailto:oscolderst@gmail.com">oscolderst@gmail.com</a></div>
+  <nav class="footer-legal" aria-label="Legal"><span>Legal</span><a href="/terms/">Terms</a><a href="/privacy/">Privacy</a><a href="/cookies/">Cookies</a></nav>
 </footer>
 
 <script src="/assets/age-gate.js"></script>
 <script src="/assets/sidebar.js"></script>
 <script src="/assets/twitch-stats.js"></script>
+<script src="/assets/twitch-embed.js"></script>
 <script src="/assets/clips.js"></script>
 </body>
 </html>
