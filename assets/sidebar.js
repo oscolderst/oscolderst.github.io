@@ -37,7 +37,7 @@
   var markup =
     '<div class="mobile-bar">' +
       '<button class="side-toggle" id="sideToggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="sidebar">' + ICON.menu + '</button>' +
-      '<span class="mobile-brand">oscolderst</span>' +
+      '<a class="mobile-brand" href="/" aria-label="oscolderst home"><img src="/assets/img/logo.webp" alt="oscolderst" width="640" height="141"></a>' +
     '</div>' +
     '<div class="side-backdrop" id="sideBackdrop"></div>' +
     '<aside class="sidebar" id="sidebar">' +
