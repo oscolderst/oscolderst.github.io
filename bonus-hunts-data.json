@@ -1,7 +1,275 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-02T22:54:38.578Z",
+  "generatedAt": "2026-10-05T19:54:59.204Z",
   "hunts": [
+    {
+      "id": "cmuvjrchg008bjcwmuh5qx5h6",
+      "title": "bonus hunt 64",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-05T17:52:00.244Z",
+      "updatedAt": "2026-10-05T19:37:31.895Z",
+      "isOpening": false,
+      "startCost": 350,
+      "bonusCount": 13,
+      "totalWinnings": 270.79,
+      "profitLoss": -79.21,
+      "profitLossPercentage": -22.63,
+      "averagePayoutRequired": 26.92,
+      "currentAverage": 20.83,
+      "averageBetSize": 0.19,
+      "cumulativeMultiplier": 1358.9,
+      "currentAverageMultiplier": 104.53,
+      "averageRequiredMultiplier": 140,
+      "highestWin": {
+        "slotName": "Marlin Masters: The Big Haul",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+        "payout": 112.94,
+        "multiplier": 564.7,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Marlin Masters: The Big Haul",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+        "payout": 112.94,
+        "multiplier": 564.7,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Red Rascal",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c971aafdd088d0c3dd0d7e7dc29a930f6185544a208931b9f801a76585c9d380",
+        "payout": 0.99,
+        "multiplier": 9.9,
+        "betSize": 0.1
+      },
+      "bonuses": [
+        {
+          "slotName": "Red Rascal",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c971aafdd088d0c3dd0d7e7dc29a930f6185544a208931b9f801a76585c9d380",
+          "betSize": 0.1,
+          "multiplier": 9.9,
+          "payout": 0.99
+        },
+        {
+          "slotName": "The Wildwood Curse",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/ac1692d61411a6f6ee1c5ff12fe091ec48b27350858e62af9a1026576b61fe17",
+          "betSize": 0.2,
+          "multiplier": 23.7,
+          "payout": 4.74
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.2,
+          "multiplier": 122.4,
+          "payout": 24.48
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.2,
+          "multiplier": 80.5,
+          "payout": 16.1
+        },
+        {
+          "slotName": "Le Fisherman",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/0599c1bc38fca6bf24813cc136a732d888c891393f0c102d6c5ce460c62e52db",
+          "betSize": 0.2,
+          "multiplier": 89.6,
+          "payout": 17.92
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 112.1,
+          "payout": 22.42
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 22.5,
+          "payout": 4.5
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.2,
+          "multiplier": 25.7,
+          "payout": 5.14
+        },
+        {
+          "slotName": "Marlin Masters: The Big Haul",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+          "betSize": 0.2,
+          "multiplier": 564.7,
+          "payout": 112.94
+        },
+        {
+          "slotName": "mortal oath",
+          "provider": "Custom",
+          "slotImage": "/images/noimage.jpg",
+          "betSize": 0.2,
+          "multiplier": 114,
+          "payout": 22.8
+        },
+        {
+          "slotName": "Beastbound Love",
+          "provider": "NowNow Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8cbefdf543e6b4ed9d4aec656466c2ed3b07c5062699d089670be4388c9bd534",
+          "betSize": 0.2,
+          "multiplier": 46.6,
+          "payout": 9.32
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 73.1,
+          "payout": 14.62
+        },
+        {
+          "slotName": "Dark Spiral",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/bb7b8fc902e61252f92096b6025d84c2dadb8d738f895dc8898a7afc431465f6",
+          "betSize": 0.2,
+          "multiplier": 74.1,
+          "payout": 14.82
+        }
+      ]
+    },
+    {
+      "id": "cmuv1s3951no2jc4h740vf4f4",
+      "title": "bonus hunt 63",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-05T09:28:41.849Z",
+      "updatedAt": "2026-10-05T17:50:03.932Z",
+      "isOpening": false,
+      "startCost": 350,
+      "bonusCount": 9,
+      "totalWinnings": 204.91,
+      "profitLoss": -145.09,
+      "profitLossPercentage": -41.45,
+      "averagePayoutRequired": 38.89,
+      "currentAverage": 22.77,
+      "averageBetSize": 0.23,
+      "cumulativeMultiplier": 975.72,
+      "currentAverageMultiplier": 108.41,
+      "averageRequiredMultiplier": 166.67,
+      "highestWin": {
+        "slotName": "The Wildwood Curse",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/ac1692d61411a6f6ee1c5ff12fe091ec48b27350858e62af9a1026576b61fe17",
+        "payout": 90.92,
+        "multiplier": 454.6,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "The Wildwood Curse",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/ac1692d61411a6f6ee1c5ff12fe091ec48b27350858e62af9a1026576b61fe17",
+        "payout": 90.92,
+        "multiplier": 454.6,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Triumph Of The 3 Gods",
+        "provider": "NowNow Gaming",
+        "slotImage": "https://mediumrare.imgix.net/3e7e9435bbb7c21cc20b4fa2ea2a7dd910d214f8740e5e029dbe58b47469511b",
+        "payout": 6.2,
+        "multiplier": 31,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Le Bunny",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d8db515d5b88c06d2a86dc0454512896b30777c9bd835cd7dc865eefb0d7c4eb",
+          "betSize": 0.2,
+          "multiplier": 87,
+          "payout": 17.4
+        },
+        {
+          "slotName": "3 Magic Piggy Banks: Hold & Win",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
+          "betSize": 0.2,
+          "multiplier": 37.8,
+          "payout": 7.56
+        },
+        {
+          "slotName": "Triumph Of The 3 Gods",
+          "provider": "NowNow Gaming",
+          "slotImage": "https://mediumrare.imgix.net/3e7e9435bbb7c21cc20b4fa2ea2a7dd910d214f8740e5e029dbe58b47469511b",
+          "betSize": 0.2,
+          "multiplier": 31,
+          "payout": 6.2
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.2,
+          "multiplier": 74,
+          "payout": 14.8
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 41.15,
+          "payout": 8.23
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.3,
+          "multiplier": 34.67,
+          "payout": 10.4
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.4,
+          "multiplier": 31.5,
+          "payout": 12.6
+        },
+        {
+          "slotName": "Le Cowboy",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+          "betSize": 0.2,
+          "multiplier": 184,
+          "payout": 36.8
+        },
+        {
+          "slotName": "The Wildwood Curse",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/ac1692d61411a6f6ee1c5ff12fe091ec48b27350858e62af9a1026576b61fe17",
+          "betSize": 0.2,
+          "multiplier": 454.6,
+          "payout": 90.92
+        }
+      ]
+    },
     {
       "id": "cmur0zp0c02yfjcv34gtf0r59",
       "title": "Bonus hunt 62",
