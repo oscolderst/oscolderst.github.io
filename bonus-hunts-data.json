@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-20T17:58:04.664Z",
+  "generatedAt": "2026-10-21T00:03:25.051Z",
   "hunts": [
     {
       "id": "cmvfjnkab00jyjculf9u7jlu3",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-19T17:44:27.251Z",
-      "updatedAt": "2026-10-20T16:44:51.136Z",
+      "updatedAt": "2026-10-20T19:04:42.515Z",
       "isOpening": false,
       "startCost": 500,
-      "bonusCount": 10,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 50,
-      "currentAverage": 0,
-      "averageBetSize": 0.2,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 250,
+      "bonusCount": 11,
+      "totalWinnings": 110.14,
+      "profitLoss": -389.86,
+      "profitLossPercentage": -77.97,
+      "averagePayoutRequired": 45.45,
+      "currentAverage": 10.01,
+      "averageBetSize": 0.22,
+      "cumulativeMultiplier": 518.5,
+      "currentAverageMultiplier": 47.14,
+      "averageRequiredMultiplier": 208.33,
       "highestWin": {
-        "slotName": "Le Vampire",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 20.36,
+        "multiplier": 101.8,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Le Vampire",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "The Dog House Megaways 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+        "payout": 20.36,
+        "multiplier": 101.8,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Le Vampire",
+        "slotName": "Marlin Masters",
         "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+        "payout": 4.02,
+        "multiplier": 20.1,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,80 +51,88 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
-        },
-        {
-          "slotName": "The Dog House Megaways 1000",
-          "provider": "Pragmatic Play",
-          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
-          "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 31.6,
+          "payout": 6.32
         },
         {
           "slotName": "3 Magic Piggy Banks: Hold & Win",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/53ced3f6425f6112c402ebf8cd24f65073745d824c29865e0a80581181651b93",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 20.4,
+          "payout": 4.08
         },
         {
           "slotName": "Dr Zappo",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 28.2,
+          "payout": 5.64
         },
         {
           "slotName": "Arizona James and the Lost Relics",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/7d01a85b7b669891f90ea1ed7cb84fbededb7540d357f82593c8068517710800",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 66.8,
+          "payout": 13.36
         },
         {
           "slotName": "Minted Mike",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/b3cf69cf6dd20c86e865a4705f6d2b94945bb5056c355cfa8214ce0285e76897",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 91.4,
+          "payout": 18.28
         },
         {
           "slotName": "Marlin Masters OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 23.2,
+          "payout": 4.64
         },
         {
           "slotName": "Marlin Masters Atlantis",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 67.7,
+          "payout": 13.54
         },
         {
           "slotName": "Marlin Masters: The Big Haul",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 35.1,
+          "payout": 7.02
         },
         {
           "slotName": "Marlin Masters",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 20.1,
+          "payout": 4.02
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 101.8,
+          "payout": 20.36
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 0.4,
+          "multiplier": 32.2,
+          "payout": 12.88
         }
       ]
     },
