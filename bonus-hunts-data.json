@@ -1,7 +1,157 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-21T00:03:25.051Z",
+  "generatedAt": "2026-10-21T19:06:57.075Z",
   "hunts": [
+    {
+      "id": "cmvic71cm01y3jcmnfhlicp70",
+      "title": "Bonus hunt 66",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-21T16:38:57.430Z",
+      "updatedAt": "2026-10-21T18:36:33.631Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 13,
+      "totalWinnings": 530.79,
+      "profitLoss": 30.79,
+      "profitLossPercentage": 6.16,
+      "averagePayoutRequired": 38.46,
+      "currentAverage": 40.83,
+      "averageBetSize": 0.31,
+      "cumulativeMultiplier": 1908.48,
+      "currentAverageMultiplier": 146.81,
+      "averageRequiredMultiplier": 125,
+      "highestWin": {
+        "slotName": "Sweet Bonanza 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+        "payout": 150.66,
+        "multiplier": 753.3,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Sweet Bonanza 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+        "payout": 150.66,
+        "multiplier": 753.3,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Golden Retriever",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/88cfc056b6bed1b22b232077d78b17e9237b3442af16a5fbf2d49b58559c65fb",
+        "payout": 4.32,
+        "multiplier": 10.8,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 56,
+          "payout": 11.2
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 42.7,
+          "payout": 8.54
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 158,
+          "payout": 31.6
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 119.15,
+          "payout": 23.83
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 33.85,
+          "payout": 6.77
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 753.3,
+          "payout": 150.66
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.4,
+          "multiplier": 266.7,
+          "payout": 106.68
+        },
+        {
+          "slotName": "Big Bass Halloween Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+          "betSize": 0.4,
+          "multiplier": 29.2,
+          "payout": 11.68
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.4,
+          "multiplier": 64.05,
+          "payout": 25.62
+        },
+        {
+          "slotName": "Bubble Up!",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f68da9f9f9566e99c755571fba8de0ef6374b33eb0f4becc847919149daa978",
+          "betSize": 0.4,
+          "multiplier": 40,
+          "payout": 16
+        },
+        {
+          "slotName": "Harvest Moon: Grave Profits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
+          "betSize": 0.4,
+          "multiplier": 201.38,
+          "payout": 80.55
+        },
+        {
+          "slotName": "Death Dominion",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fcf21b430c168c985b41f217d5db3476ce728fabdc643f3fd12420486b6bf2ab",
+          "betSize": 0.4,
+          "multiplier": 133.35,
+          "payout": 53.34
+        },
+        {
+          "slotName": "Golden Retriever",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/88cfc056b6bed1b22b232077d78b17e9237b3442af16a5fbf2d49b58559c65fb",
+          "betSize": 0.4,
+          "multiplier": 10.8,
+          "payout": 4.32
+        }
+      ]
+    },
     {
       "id": "cmvfjnkab00jyjculf9u7jlu3",
       "title": "Bonus hunt 65",
