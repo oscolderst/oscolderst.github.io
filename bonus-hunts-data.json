@@ -1,7 +1,197 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-21T19:06:57.075Z",
+  "generatedAt": "2026-10-22T19:45:02.491Z",
   "hunts": [
+    {
+      "id": "cmvjrkegi008hjc3xxls7biv9",
+      "title": "Bonus hunt 67",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-22T16:37:01.362Z",
+      "updatedAt": "2026-10-22T19:06:51.999Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 18,
+      "totalWinnings": 314.26,
+      "profitLoss": -185.74,
+      "profitLossPercentage": -37.15,
+      "averagePayoutRequired": 27.78,
+      "currentAverage": 17.46,
+      "averageBetSize": 0.25,
+      "cumulativeMultiplier": 1034.95,
+      "currentAverageMultiplier": 57.5,
+      "averageRequiredMultiplier": 111.11,
+      "highestWin": {
+        "slotName": "Big Bass Splash 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+        "payout": 90.8,
+        "multiplier": 227,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Big Bass Splash 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+        "payout": 90.8,
+        "multiplier": 227,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 0.55,
+        "multiplier": 2.75,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 16.3,
+          "payout": 3.26
+        },
+        {
+          "slotName": "Duck Hunters 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2554b9bc55d292b6de5645afbf5f74c8993af51d97e54875fa5e8b4edbbff49f",
+          "betSize": 0.2,
+          "multiplier": 16,
+          "payout": 3.2
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.2,
+          "multiplier": 16.2,
+          "payout": 3.24
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.2,
+          "multiplier": 13,
+          "payout": 2.6
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.2,
+          "multiplier": 93.8,
+          "payout": 18.76
+        },
+        {
+          "slotName": "Marlin Masters Atlantis",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9c7a817f26cf6aac91587aea343d814800697d333a9acf9f1384020116aadf40",
+          "betSize": 0.2,
+          "multiplier": 8.2,
+          "payout": 1.64
+        },
+        {
+          "slotName": "Marlin Masters: The Big Haul",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+          "betSize": 0.2,
+          "multiplier": 20.8,
+          "payout": 4.16
+        },
+        {
+          "slotName": "Marlin Masters",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/e4db60107760c1fd16d2ccf7bfd2613093d917e6b268745ba20ea8c53d862c60",
+          "betSize": 0.2,
+          "multiplier": 25.6,
+          "payout": 5.12
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 44.9,
+          "payout": 8.98
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.2,
+          "multiplier": 145.15,
+          "payout": 29.03
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 2.75,
+          "payout": 0.55
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.2,
+          "multiplier": 51.95,
+          "payout": 10.39
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 34.45,
+          "payout": 6.89
+        },
+        {
+          "slotName": "Big Bass Halloween Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+          "betSize": 0.3,
+          "multiplier": 19,
+          "payout": 5.7
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 57.65,
+          "payout": 23.06
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 0.4,
+          "multiplier": 223,
+          "payout": 89.2
+        },
+        {
+          "slotName": "Big Bass Raceday Repeat",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/3ea127cc8674676aac581e6387908978f27f3f84676223be7cc3b442514ccf84",
+          "betSize": 0.4,
+          "multiplier": 19.2,
+          "payout": 7.68
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.4,
+          "multiplier": 227,
+          "payout": 90.8
+        }
+      ]
+    },
     {
       "id": "cmvic71cm01y3jcmnfhlicp70",
       "title": "Bonus hunt 66",
