@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-23T19:48:46.490Z",
+  "generatedAt": "2026-10-23T22:54:20.583Z",
   "hunts": [
     {
       "id": "cmvl7vobn008xjcwrj33wiipr",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-23T17:01:27.396Z",
-      "updatedAt": "2026-10-23T19:47:21.851Z",
-      "isOpening": true,
+      "updatedAt": "2026-10-23T20:02:32.044Z",
+      "isOpening": false,
       "startCost": 800,
       "bonusCount": 22,
-      "totalWinnings": 282.33,
-      "profitLoss": -517.67,
-      "profitLossPercentage": -64.71,
+      "totalWinnings": 679.52,
+      "profitLoss": -120.48,
+      "profitLossPercentage": -15.06,
       "averagePayoutRequired": 36.36,
-      "currentAverage": 12.83,
+      "currentAverage": 30.89,
       "averageBetSize": 0.39,
-      "cumulativeMultiplier": 796.8,
-      "currentAverageMultiplier": 36.22,
+      "cumulativeMultiplier": 1662.15,
+      "currentAverageMultiplier": 75.55,
       "averageRequiredMultiplier": 94.12,
       "highestWin": {
-        "slotName": "Big Bass Boxing Bonus Round",
+        "slotName": "Gates of Olympus Super Scatter",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
-        "payout": 45.28,
-        "multiplier": 113.2,
-        "betSize": 0.4
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 132.63,
+        "multiplier": 221.05,
+        "betSize": 0.6
       },
       "highestMulti": {
-        "slotName": "Big Bass Boxing Bonus Round",
+        "slotName": "Gates of Olympus Super Scatter",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
-        "payout": 45.28,
-        "multiplier": 113.2,
-        "betSize": 0.4
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 132.63,
+        "multiplier": 221.05,
+        "betSize": 0.6
       },
       "lowestMulti": {
-        "slotName": "Dr Zappo",
-        "provider": "Hacksaw Gaming",
-        "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
-        "payout": 0,
-        "multiplier": 0,
+        "slotName": "The Dog House Multihold",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4e9386ce838d3c59b1905529a13063930ea1bc11cc9bd29a5062dd7d47c383d1",
+        "payout": 2.32,
+        "multiplier": 5.8,
         "betSize": 0.4
       },
       "bonuses": [
@@ -163,64 +163,64 @@
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 59.4,
+          "payout": 23.76
         },
         {
           "slotName": "Great Game Serengeti",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 160.5,
+          "payout": 64.2
         },
         {
           "slotName": "The Big Dog House",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 206.1,
+          "payout": 82.44
         },
         {
           "slotName": "The Dog House Multihold",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4e9386ce838d3c59b1905529a13063930ea1bc11cc9bd29a5062dd7d47c383d1",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 5.8,
+          "payout": 2.32
         },
         {
           "slotName": "Marlin Masters: The Big Haul",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 84.4,
+          "payout": 33.76
         },
         {
           "slotName": "Gates of Olympus Xmas 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/206a059864461c5bb63e1af83d5a105a2c36205cb8e01b37418f57d10d295252",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 34.2,
+          "payout": 20.52
         },
         {
           "slotName": "Gates of Olympus Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 221.05,
+          "payout": 132.63
         },
         {
           "slotName": "Marlin Masters OG",
           "provider": "Hacksaw Gaming",
           "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 93.9,
+          "payout": 37.56
         }
       ]
     },
