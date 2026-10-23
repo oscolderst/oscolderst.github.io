@@ -1,7 +1,229 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-22T19:45:02.491Z",
+  "generatedAt": "2026-10-23T19:48:46.490Z",
   "hunts": [
+    {
+      "id": "cmvl7vobn008xjcwrj33wiipr",
+      "title": "Bonus hunt 68",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-23T17:01:27.396Z",
+      "updatedAt": "2026-10-23T19:47:21.851Z",
+      "isOpening": true,
+      "startCost": 800,
+      "bonusCount": 22,
+      "totalWinnings": 282.33,
+      "profitLoss": -517.67,
+      "profitLossPercentage": -64.71,
+      "averagePayoutRequired": 36.36,
+      "currentAverage": 12.83,
+      "averageBetSize": 0.39,
+      "cumulativeMultiplier": 796.8,
+      "currentAverageMultiplier": 36.22,
+      "averageRequiredMultiplier": 94.12,
+      "highestWin": {
+        "slotName": "Big Bass Boxing Bonus Round",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
+        "payout": 45.28,
+        "multiplier": 113.2,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Big Bass Boxing Bonus Round",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
+        "payout": 45.28,
+        "multiplier": 113.2,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Dr Zappo",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 57.55,
+          "payout": 11.51
+        },
+        {
+          "slotName": "Coffee Dealer",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/b45896e0491d57409bdae55f0f9dd1f2867fb8a54e7d66a12444aca76338ae48",
+          "betSize": 0.2,
+          "multiplier": 16.5,
+          "payout": 3.3
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 97.4,
+          "payout": 19.48
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 0.3,
+          "multiplier": 21,
+          "payout": 6.3
+        },
+        {
+          "slotName": "Starlight Princess 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/9b33e65dac8fca557649b0e87eb60754a62cc9ba40abd415b68ddfde4d799997",
+          "betSize": 0.4,
+          "multiplier": 54.25,
+          "payout": 21.7
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 101.95,
+          "payout": 40.78
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.4,
+          "multiplier": 61.55,
+          "payout": 24.62
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.4,
+          "multiplier": 29.7,
+          "payout": 11.88
+        },
+        {
+          "slotName": "Big Bass Amazon Xtreme",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/796957e88a7a9d2531a60ccde77ed922ebb028c6e3d2d3a3eb683ca3e7dd9feb",
+          "betSize": 0.4,
+          "multiplier": 110.9,
+          "payout": 44.36
+        },
+        {
+          "slotName": "Big Bass Secrets of the Golden Lake",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/516dd23e24bc643b9f6d77362b11b8b077ccea882a4dffb2913e023d7131fbef",
+          "betSize": 0.4,
+          "multiplier": 16.2,
+          "payout": 6.48
+        },
+        {
+          "slotName": "Big Bass Boxing Bonus Round",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/83f635b69fd26ecd4a7c43a983302ad110a1150ffc23b930fa04d99f6fb186bf",
+          "betSize": 0.4,
+          "multiplier": 113.2,
+          "payout": 45.28
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 23.5,
+          "payout": 9.4
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.4,
+          "multiplier": 51.9,
+          "payout": 20.76
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.4,
+          "multiplier": 41.2,
+          "payout": 16.48
+        },
+        {
+          "slotName": "Dr Zappo",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Great Game Serengeti",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Dog House Multihold",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4e9386ce838d3c59b1905529a13063930ea1bc11cc9bd29a5062dd7d47c383d1",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Marlin Masters: The Big Haul",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1591d4dcd00a304f1e9929ca774be2d253234e2c3b019fd383fee015f24615cb",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Gates of Olympus Xmas 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/206a059864461c5bb63e1af83d5a105a2c36205cb8e01b37418f57d10d295252",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Marlin Masters OG",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/66b20e98eb4aff0d4c17fdd853805b128468ecf21dc1f4325021ac270add285e",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmvjrkegi008hjc3xxls7biv9",
       "title": "Bonus hunt 67",
