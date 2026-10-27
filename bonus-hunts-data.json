@@ -1,7 +1,109 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-23T22:54:20.583Z",
+  "generatedAt": "2026-10-27T18:17:36.293Z",
   "hunts": [
+    {
+      "id": "cmvqzbu1s0015jc0ux400kzb0",
+      "title": "BONUS HUNT 69",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-27T17:48:41.825Z",
+      "updatedAt": "2026-10-27T17:48:41.825Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 7,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 71.43,
+      "currentAverage": 0,
+      "averageBetSize": 0.23,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 312.5,
+      "highestWin": {
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sun Princess",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/eee55fb124fd11f32bd54e50689505c6d4eefd58176ebb956f8b49aa7b754f56",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Wicked Grin",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/ebb5226b8e690621a8f821d754533e06e3877df0a6d63c1e6101b60a464e9f26",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Cheetah Wild",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/01db2bc65dfac2f8c3d8123d9a16bd51b3d2287b7e0c21f2ce552c5ae6ba63a9",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmvl7vobn008xjcwrj33wiipr",
       "title": "Bonus hunt 68",
