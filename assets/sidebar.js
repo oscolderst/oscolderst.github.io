@@ -22,7 +22,7 @@
     { href:'/bonus-hunts/', icon:'star', label:'Bonus Hunts' },
     { group:'Links' },
     { href:'https://www.twitch.tv/oscolderst', icon:'twitch', label:'Stream', ext:true },
-    { href:'https://streamelements.com/taydodrill/store', icon:'bag', label:'Shop', ext:true },
+    { href:'/shop/', icon:'bag', label:'Shop' },
     { href:'/community/', icon:'users', label:'Community' }
   ];
 
@@ -49,7 +49,7 @@
           '<span class="promo-icon">' + ICON.gift + '</span>' +
           '<span><span class="promo-label">Claim</span><span class="promo-title">Offers</span></span>' +
         '</a>' +
-        '<a class="side-promo ghost" href="https://streamelements.com/taydodrill/store" target="_blank" rel="noopener">' +
+        '<a class="side-promo ghost" href="/shop/">' +
           '<span class="promo-icon">' + ICON.bag + '</span>' +
           '<span><span class="promo-title">Shop</span></span>' +
         '</a>' +
