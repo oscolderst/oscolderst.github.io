@@ -20,9 +20,9 @@
     { href:'/live/',        icon:'live', label:'Live' },
     { href:'/clips/',       icon:'clip', label:'Clips' },
     { href:'/bonus-hunts/', icon:'star', label:'Bonus Hunts' },
+    { href:'/shop/',        icon:'bag',  label:'Shop' },
     { group:'Links' },
     { href:'https://www.twitch.tv/oscolderst', icon:'twitch', label:'Stream', ext:true },
-    { href:'/shop/', icon:'bag', label:'Shop' },
     { href:'/community/', icon:'users', label:'Community' }
   ];
 
