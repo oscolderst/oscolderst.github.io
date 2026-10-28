@@ -1,49 +1,175 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-28T19:44:31.576Z",
+  "generatedAt": "2026-10-28T23:37:55.866Z",
   "hunts": [
+    {
+      "id": "cmvskyb3v034kjcyrx8lz03yb",
+      "title": "bonus hunt 71",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-28T20:41:48.475Z",
+      "updatedAt": "2026-10-28T21:59:32.379Z",
+      "isOpening": false,
+      "startCost": 460,
+      "bonusCount": 10,
+      "totalWinnings": 405.41,
+      "profitLoss": -54.59,
+      "profitLossPercentage": -11.87,
+      "averagePayoutRequired": 46,
+      "currentAverage": 40.54,
+      "averageBetSize": 0.39,
+      "cumulativeMultiplier": 1014.78,
+      "currentAverageMultiplier": 101.48,
+      "averageRequiredMultiplier": 117.95,
+      "highestWin": {
+        "slotName": "Release the Kraken Megaways",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/22c7089ede1396ccc0b6f27278305abfa9ece7de30819593637bc095a3956a2b",
+        "payout": 173,
+        "multiplier": 432.5,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Release the Kraken Megaways",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/22c7089ede1396ccc0b6f27278305abfa9ece7de30819593637bc095a3956a2b",
+        "payout": 173,
+        "multiplier": 432.5,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "5 Lions Megaways 2",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+        "payout": 4.56,
+        "multiplier": 11.4,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 17.5,
+          "payout": 3.5
+        },
+        {
+          "slotName": "The Count",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/85df80b16ad5fc92a2a7a7e9e12f78c75dd1a33eddff36daa8a02dbc7f2eab54",
+          "betSize": 0.4,
+          "multiplier": 12,
+          "payout": 4.8
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 31.38,
+          "payout": 12.55
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.4,
+          "multiplier": 30,
+          "payout": 12
+        },
+        {
+          "slotName": "5 Lions Megaways 2",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+          "betSize": 0.4,
+          "multiplier": 11.4,
+          "payout": 4.56
+        },
+        {
+          "slotName": "Release the Kraken Megaways",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/22c7089ede1396ccc0b6f27278305abfa9ece7de30819593637bc095a3956a2b",
+          "betSize": 0.4,
+          "multiplier": 432.5,
+          "payout": 173
+        },
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.4,
+          "multiplier": 232.5,
+          "payout": 93
+        },
+        {
+          "slotName": "Big Bass Halloween 2",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/47b80f887282c2e75f1d398eb58823e9ecf0abd0bcf72d25f8c38e64a33a577e",
+          "betSize": 0.7,
+          "multiplier": 50,
+          "payout": 35
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 60,
+          "payout": 12
+        },
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.4,
+          "multiplier": 137.5,
+          "payout": 55
+        }
+      ]
+    },
     {
       "id": "cmvs5tu08000tjctnqpo3yobz",
       "title": "Bonus hunt 70",
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-28T13:38:25.449Z",
-      "updatedAt": "2026-10-28T19:33:29.180Z",
+      "updatedAt": "2026-10-28T20:40:32.554Z",
       "isOpening": false,
-      "startCost": 800,
+      "startCost": 700,
       "bonusCount": 15,
-      "totalWinnings": 0,
-      "profitLoss": -800,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 53.33,
-      "currentAverage": 0,
+      "totalWinnings": 279.06,
+      "profitLoss": -420.94,
+      "profitLossPercentage": -60.13,
+      "averagePayoutRequired": 46.67,
+      "currentAverage": 18.6,
       "averageBetSize": 0.34,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 156.86,
+      "cumulativeMultiplier": 882.8,
+      "currentAverageMultiplier": 58.85,
+      "averageRequiredMultiplier": 137.25,
       "highestWin": {
-        "slotName": "Fury of Anubis",
+        "slotName": "Big Bass Halloween Splash 1000",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+        "payout": 88.52,
+        "multiplier": 221.3,
+        "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "Fury of Anubis",
+        "slotName": "Big Bass Halloween Splash 1000",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+        "payout": 88.52,
+        "multiplier": 221.3,
+        "betSize": 0.4
       },
       "lowestMulti": {
-        "slotName": "Fury of Anubis",
+        "slotName": "Sugar Rush Super Scatter",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
-        "payout": 0,
-        "multiplier": 0,
-        "betSize": 0.2
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 2.44,
+        "multiplier": 6.1,
+        "betSize": 0.4
       },
       "bonuses": [
         {
@@ -51,120 +177,120 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 101.6,
+          "payout": 20.32
         },
         {
           "slotName": "Sweet Rush Bonanza",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 17,
+          "payout": 3.4
         },
         {
           "slotName": "Sunnydaze Asylum",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 204.4,
+          "payout": 40.88
         },
         {
           "slotName": "Eastern Fury",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 15.5,
+          "payout": 3.1
         },
         {
           "slotName": "Hearts of Venus",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 26.6,
+          "payout": 5.32
         },
         {
           "slotName": "Wonders of Aztec",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 83.7,
+          "payout": 16.74
         },
         {
           "slotName": "Big Bass Trophy Catch",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 29.2,
+          "payout": 8.76
         },
         {
           "slotName": "Golden Retriever",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/88cfc056b6bed1b22b232077d78b17e9237b3442af16a5fbf2d49b58559c65fb",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 34.4,
+          "payout": 10.32
         },
         {
           "slotName": "Big Bass Vegas 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/84e8d0d542775ca4506d21e7e720eab605a875c88e974c689011aa1ac77ca133",
           "betSize": 0.3,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 20.2,
+          "payout": 6.06
         },
         {
           "slotName": "Bubble Up!",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/5f68da9f9f9566e99c755571fba8de0ef6374b33eb0f4becc847919149daa978",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 9.5,
+          "payout": 3.8
         },
         {
           "slotName": "Gates of Olympus 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 19.1,
+          "payout": 7.64
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 6.1,
+          "payout": 2.44
         },
         {
           "slotName": "Big Bass Halloween Splash 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 221.3,
+          "payout": 88.52
         },
         {
           "slotName": "Harvest Moon: Grave Profits",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
           "betSize": 0.6,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 68,
+          "payout": 40.8
         },
         {
           "slotName": "Sweet Bonanza 1000",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
           "betSize": 0.8,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 26.2,
+          "payout": 20.96
         }
       ]
     },
