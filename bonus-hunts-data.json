@@ -1,7 +1,31 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-27T22:28:57.754Z",
+  "generatedAt": "2026-10-28T14:20:04.848Z",
   "hunts": [
+    {
+      "id": "cmvs5tu08000tjctnqpo3yobz",
+      "title": "Bonus hunt 70",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-28T13:38:25.449Z",
+      "updatedAt": "2026-10-28T13:38:25.449Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 0,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 0,
+      "currentAverage": 0,
+      "averageBetSize": 0,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 0,
+      "highestWin": null,
+      "highestMulti": null,
+      "lowestMulti": null,
+      "bonuses": []
+    },
     {
       "id": "cmvqzbu1s0015jc0ux400kzb0",
       "title": "BONUS HUNT 69",
