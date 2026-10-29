@@ -1,14 +1,204 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-29T16:20:31.617Z",
+  "generatedAt": "2026-10-29T21:18:47.218Z",
   "hunts": [
     {
+      "id": "cmvttvjob00z6jcjked6luoqs",
+      "title": "Bonus hunt 73",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-29T17:39:22.331Z",
+      "updatedAt": "2026-10-29T19:45:24.151Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 18,
+      "totalWinnings": 335.91,
+      "profitLoss": -164.09,
+      "profitLossPercentage": -32.82,
+      "averagePayoutRequired": 27.78,
+      "currentAverage": 18.66,
+      "averageBetSize": 0.23,
+      "cumulativeMultiplier": 1483.9,
+      "currentAverageMultiplier": 82.44,
+      "averageRequiredMultiplier": 121.95,
+      "highestWin": {
+        "slotName": "Fist of Destruction Megamultiplier",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+        "payout": 70.56,
+        "multiplier": 352.8,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Fist of Destruction Megamultiplier",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+        "payout": 70.56,
+        "multiplier": 352.8,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Jaws of Justice",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/4656252acc7a0a01b44ffed9e288326f3de44b1fca7de28068f77d05c2c8d1ba",
+        "payout": 1.76,
+        "multiplier": 8.8,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Duck Hunters 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2554b9bc55d292b6de5645afbf5f74c8993af51d97e54875fa5e8b4edbbff49f",
+          "betSize": 0.2,
+          "multiplier": 26.4,
+          "payout": 5.28
+        },
+        {
+          "slotName": "Soaked By Seamen",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/e044f39098a73e1417615fa8e710d07f176be9ca8b558ea5cc02d14d4f769548",
+          "betSize": 0.2,
+          "multiplier": 36.95,
+          "payout": 7.39
+        },
+        {
+          "slotName": "Das xBoot 2wei!",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/1ce27afaadf389f21280785a197e6d38f5612b095d906878d3d6a481322b058c",
+          "betSize": 0.2,
+          "multiplier": 18.65,
+          "payout": 3.73
+        },
+        {
+          "slotName": "Crazy Ex-Girlfriend",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/8218e92fd18e0547bae613646e8e8249bf09933f159b7e89afbacf753b963cb8",
+          "betSize": 0.2,
+          "multiplier": 309,
+          "payout": 61.8
+        },
+        {
+          "slotName": "Seamen",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/1714d1bc91836fbe06463be44271eeb0559bee7576e5810d551a28fd66a46a98",
+          "betSize": 0.2,
+          "multiplier": 143.4,
+          "payout": 28.68
+        },
+        {
+          "slotName": "Duck Hunters",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/34ee5a63f09ad96cd4d92ba752de18ca210df5439723203c26f385bed7ee97f1",
+          "betSize": 0.2,
+          "multiplier": 21.1,
+          "payout": 4.22
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.2,
+          "multiplier": 352.8,
+          "payout": 70.56
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.2,
+          "multiplier": 18,
+          "payout": 3.6
+        },
+        {
+          "slotName": "Great Game Serengeti",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+          "betSize": 0.2,
+          "multiplier": 54.3,
+          "payout": 10.86
+        },
+        {
+          "slotName": "Epic Ze Zeus",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c0705318ef1abb15d798a476e83bcf1b15107dd9a650edf39f43df3b39b33253",
+          "betSize": 0.2,
+          "multiplier": 79.3,
+          "payout": 15.86
+        },
+        {
+          "slotName": "Jaws of Justice",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/4656252acc7a0a01b44ffed9e288326f3de44b1fca7de28068f77d05c2c8d1ba",
+          "betSize": 0.2,
+          "multiplier": 8.8,
+          "payout": 1.76
+        },
+        {
+          "slotName": "Booze Bash",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/627c7edae09052fd8d720588a3f0c77a7468e36c2e4f83ae7491093ca923817a",
+          "betSize": 0.2,
+          "multiplier": 21,
+          "payout": 4.2
+        },
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.2,
+          "multiplier": 92.3,
+          "payout": 18.46
+        },
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 38.75,
+          "payout": 7.75
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 25,
+          "payout": 5
+        },
+        {
+          "slotName": "Harvest Moon: Grave Profits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
+          "betSize": 0.3,
+          "multiplier": 85,
+          "payout": 25.5
+        },
+        {
+          "slotName": "Outsourced 2: Balkan Engineering",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2249066967b3ce0f2b45ad76a996c121942cc507cf7ef885bb11873b0e8415ca",
+          "betSize": 0.4,
+          "multiplier": 12.15,
+          "payout": 4.86
+        },
+        {
+          "slotName": "Duck Hunters Happy Hour",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/92267188ff0983cfe32dca7fa3784143ceef5cd1eece74486205d6f810bea16a",
+          "betSize": 0.4,
+          "multiplier": 141,
+          "payout": 56.4
+        }
+      ]
+    },
+    {
       "id": "cmvtnvt5w01cajc7uwbv0t8gi",
-      "title": "Bonus hunt 72",
+      "title": "Bonus hunt 72 Coldbet",
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-29T14:51:36.932Z",
-      "updatedAt": "2026-10-29T15:45:03.883Z",
+      "updatedAt": "2026-10-29T17:39:32.223Z",
       "isOpening": false,
       "startCost": 500,
       "bonusCount": 16,
