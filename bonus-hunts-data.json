@@ -1,7 +1,181 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-28T23:37:55.866Z",
+  "generatedAt": "2026-10-29T16:20:31.617Z",
   "hunts": [
+    {
+      "id": "cmvtnvt5w01cajc7uwbv0t8gi",
+      "title": "Bonus hunt 72",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-29T14:51:36.932Z",
+      "updatedAt": "2026-10-29T15:45:03.883Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 16,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 31.25,
+      "currentAverage": 0,
+      "averageBetSize": 0.28,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 112.36,
+      "highestWin": {
+        "slotName": "Fury of Anubis",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Fury of Anubis",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Fury of Anubis",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Blast",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ee636eef7388578b750480165a4dd52b8b748714d358ab0aa6b81448472e9c9b",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Frightening Frankie",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7badcfd68326eb920e7cf88a53ed4ed0994971175257b4e54a45deca932838e",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Peppe's Pepperoni Pizza Plaza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a710fb4b159d4a3cf7c814d11b1ea07fe0a5ce4442122ea3ce102c96eb89dc5b",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "CULT.",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4fa578acd157a142851d4b713138e63016c6081514373954fba712b99e08dab3",
+          "betSize": 0.25,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a73d0321e7b6501b7f92b3522c7e6410f4ba8a94ffbf2a260b92a4c509e8cec",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Splash",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/98801318d067e57c3d22f9453d970d5278bf253365600c4d93841b9c994bf82a",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Big Bass Football Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b3b25082906745c192159d6ceebedbfdf7b0d4bc38e240bf014228ca466e0bbb",
+          "betSize": 1,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmvskyb3v034kjcyrx8lz03yb",
       "title": "bonus hunt 71",
