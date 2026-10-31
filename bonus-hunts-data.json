@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-31T15:03:38.268Z",
+  "generatedAt": "2026-10-31T19:17:14.489Z",
   "hunts": [
     {
       "id": "cmvwhwdh7000ljc57jflmpecu",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-10-31T14:27:24.092Z",
-      "updatedAt": "2026-10-31T14:27:24.092Z",
+      "updatedAt": "2026-10-31T16:09:27.366Z",
       "isOpening": false,
-      "startCost": 500,
-      "bonusCount": 5,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 100,
-      "currentAverage": 0,
-      "averageBetSize": 0.2,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 500,
+      "startCost": 400,
+      "bonusCount": 15,
+      "totalWinnings": 234.11,
+      "profitLoss": -165.89,
+      "profitLossPercentage": -41.47,
+      "averagePayoutRequired": 26.67,
+      "currentAverage": 15.61,
+      "averageBetSize": 0.22,
+      "cumulativeMultiplier": 1093.51,
+      "currentAverageMultiplier": 72.9,
+      "averageRequiredMultiplier": 119.4,
       "highestWin": {
-        "slotName": "Wonders of Aztec",
+        "slotName": "Eastern Fury",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+        "payout": 83.9,
+        "multiplier": 419.5,
         "betSize": 0.2
       },
       "highestMulti": {
-        "slotName": "Wonders of Aztec",
+        "slotName": "Eastern Fury",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+        "payout": 83.9,
+        "multiplier": 419.5,
         "betSize": 0.2
       },
       "lowestMulti": {
-        "slotName": "Wonders of Aztec",
+        "slotName": "Jelly Express",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+        "payout": 0.14,
+        "multiplier": 0.7,
         "betSize": 0.2
       },
       "bonuses": [
@@ -51,40 +51,120 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 5.7,
+          "payout": 1.14
         },
         {
           "slotName": "Wild Skullz",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 31.45,
+          "payout": 6.29
         },
         {
           "slotName": "Sugar Rush Super Scatter",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 14.4,
+          "payout": 2.88
         },
         {
           "slotName": "Jelly Express",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 0.7,
+          "payout": 0.14
         },
         {
           "slotName": "Bloody Dawn",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
           "betSize": 0.2,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 51.7,
+          "payout": 10.34
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 121.95,
+          "payout": 24.39
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 39.15,
+          "payout": 7.83
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 13.05,
+          "payout": 2.61
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 4.5,
+          "payout": 0.9
+        },
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.2,
+          "multiplier": 149.2,
+          "payout": 29.84
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.2,
+          "multiplier": 117.05,
+          "payout": 23.41
+        },
+        {
+          "slotName": "CULT.",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4fa578acd157a142851d4b713138e63016c6081514373954fba712b99e08dab3",
+          "betSize": 0.25,
+          "multiplier": 50.56,
+          "payout": 12.64
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.3,
+          "multiplier": 20.4,
+          "payout": 6.12
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 0.4,
+          "multiplier": 54.2,
+          "payout": 21.68
+        },
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 419.5,
+          "payout": 83.9
         }
       ]
     },
