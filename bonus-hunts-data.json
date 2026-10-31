@@ -1,7 +1,93 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-10-30T01:14:58.832Z",
+  "generatedAt": "2026-10-31T15:03:38.268Z",
   "hunts": [
+    {
+      "id": "cmvwhwdh7000ljc57jflmpecu",
+      "title": "Bonus hunt 73",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-10-31T14:27:24.092Z",
+      "updatedAt": "2026-10-31T14:27:24.092Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 5,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 100,
+      "currentAverage": 0,
+      "averageBetSize": 0.2,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 500,
+      "highestWin": {
+        "slotName": "Wonders of Aztec",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Wonders of Aztec",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Wonders of Aztec",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmvtnvt5w01cajc7uwbv0t8gi",
       "title": "Bonus hunt 72 Coldbet",
