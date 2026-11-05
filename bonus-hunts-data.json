@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-04T17:45:52.614Z",
+  "generatedAt": "2026-11-05T03:31:29.959Z",
   "hunts": [
     {
       "id": "cmw2ederv00ysjc2hmbro1fza",
@@ -8,23 +8,181 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-11-04T17:35:17.516Z",
-      "updatedAt": "2026-11-04T17:35:25.968Z",
+      "updatedAt": "2026-11-04T19:34:20.560Z",
       "isOpening": false,
       "startCost": 500,
-      "bonusCount": 0,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 0,
-      "currentAverage": 0,
-      "averageBetSize": 0,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 0,
-      "highestWin": null,
-      "highestMulti": null,
-      "lowestMulti": null,
-      "bonuses": []
+      "bonusCount": 17,
+      "totalWinnings": 669.49,
+      "profitLoss": 169.49,
+      "profitLossPercentage": 33.9,
+      "averagePayoutRequired": 29.41,
+      "currentAverage": 39.38,
+      "averageBetSize": 0.34,
+      "cumulativeMultiplier": 1616.24,
+      "currentAverageMultiplier": 95.07,
+      "averageRequiredMultiplier": 87.72,
+      "highestWin": {
+        "slotName": "Wisdom of Athena 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/957cb56330a924f67b9c2596af223e6d05ec404e028da24b84a1dee59e38fc7c",
+        "payout": 326.4,
+        "multiplier": 408,
+        "betSize": 0.8
+      },
+      "highestMulti": {
+        "slotName": "Wisdom of Athena 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/957cb56330a924f67b9c2596af223e6d05ec404e028da24b84a1dee59e38fc7c",
+        "payout": 326.4,
+        "multiplier": 408,
+        "betSize": 0.8
+      },
+      "lowestMulti": {
+        "slotName": "Book of Monsters",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/63707fbb0327994708728902b8fef1b82a1be2b5f21987cd54247cd4be6b44a6",
+        "payout": 4.24,
+        "multiplier": 10.6,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.2,
+          "multiplier": 117.9,
+          "payout": 23.58
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 112.6,
+          "payout": 22.52
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 176.3,
+          "payout": 35.26
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 33.2,
+          "payout": 6.64
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.2,
+          "multiplier": 137.55,
+          "payout": 27.51
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 97.8,
+          "payout": 19.56
+        },
+        {
+          "slotName": "Gold Party",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e3151334228b0cd92436375fb7fa236faf566f13cf75bef167a5bce8b415f379",
+          "betSize": 0.25,
+          "multiplier": 12.4,
+          "payout": 3.1
+        },
+        {
+          "slotName": "CULT.",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4fa578acd157a142851d4b713138e63016c6081514373954fba712b99e08dab3",
+          "betSize": 0.25,
+          "multiplier": 21.84,
+          "payout": 5.46
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 123.4,
+          "payout": 49.36
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 0.4,
+          "multiplier": 51.85,
+          "payout": 20.74
+        },
+        {
+          "slotName": "Book of Monsters",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/63707fbb0327994708728902b8fef1b82a1be2b5f21987cd54247cd4be6b44a6",
+          "betSize": 0.4,
+          "multiplier": 10.6,
+          "payout": 4.24
+        },
+        {
+          "slotName": "Big Bass Halloween Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+          "betSize": 0.4,
+          "multiplier": 123.2,
+          "payout": 49.28
+        },
+        {
+          "slotName": "Big Bass Football Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b3b25082906745c192159d6ceebedbfdf7b0d4bc38e240bf014228ca466e0bbb",
+          "betSize": 0.4,
+          "multiplier": 125.7,
+          "payout": 50.28
+        },
+        {
+          "slotName": "Big Bass Secrets of the Golden Lake",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/516dd23e24bc643b9f6d77362b11b8b077ccea882a4dffb2913e023d7131fbef",
+          "betSize": 0.4,
+          "multiplier": 13.2,
+          "payout": 5.28
+        },
+        {
+          "slotName": "Big Bass Bonanza 3 Reeler",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/5f908029d31d48432f5710ee780546d3e8058120ab7ab6a03773e8e48416b465",
+          "betSize": 0.4,
+          "multiplier": 26,
+          "payout": 10.4
+        },
+        {
+          "slotName": "Demon Pots",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6188ff759f0c1000c8b67e6f774807d2d725cbcb5ba30cc3fe04b4358c3b38fb",
+          "betSize": 0.4,
+          "multiplier": 24.7,
+          "payout": 9.88
+        },
+        {
+          "slotName": "Wisdom of Athena 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/957cb56330a924f67b9c2596af223e6d05ec404e028da24b84a1dee59e38fc7c",
+          "betSize": 0.8,
+          "multiplier": 408,
+          "payout": 326.4
+        }
+      ]
     },
     {
       "id": "cmvwhwdh7000ljc57jflmpecu",
