@@ -1,7 +1,117 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-05T03:31:29.959Z",
+  "generatedAt": "2026-11-05T18:58:48.700Z",
   "hunts": [
+    {
+      "id": "cmw3tp87e00ejjcrc14pdl6xz",
+      "title": "Bonus hunt 75",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-05T17:32:09.290Z",
+      "updatedAt": "2026-11-05T18:30:01.694Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 8,
+      "totalWinnings": 426.19,
+      "profitLoss": -73.81,
+      "profitLossPercentage": -14.76,
+      "averagePayoutRequired": 62.5,
+      "currentAverage": 53.27,
+      "averageBetSize": 0.44,
+      "cumulativeMultiplier": 878.25,
+      "currentAverageMultiplier": 109.78,
+      "averageRequiredMultiplier": 142.86,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 282.36,
+        "multiplier": 470.6,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 282.36,
+        "multiplier": 470.6,
+        "betSize": 0.6
+      },
+      "lowestMulti": {
+        "slotName": "Sugar Rush Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 0.46,
+        "multiplier": 1.15,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 47.45,
+          "payout": 9.49
+        },
+        {
+          "slotName": "Heartbreakers",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a19f4054bb023d720575456d06290ebb62502ef97a8f98e890f11a605c65cd81",
+          "betSize": 0.2,
+          "multiplier": 33,
+          "payout": 6.6
+        },
+        {
+          "slotName": "CULT.",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4fa578acd157a142851d4b713138e63016c6081514373954fba712b99e08dab3",
+          "betSize": 0.25,
+          "multiplier": 217.6,
+          "payout": 54.4
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.4,
+          "multiplier": 13.45,
+          "payout": 5.38
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 1.15,
+          "payout": 0.46
+        },
+        {
+          "slotName": "Harvest Moon: Grave Profits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
+          "betSize": 0.45,
+          "multiplier": 50,
+          "payout": 22.5
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.6,
+          "multiplier": 470.6,
+          "payout": 282.36
+        },
+        {
+          "slotName": "Sugar Rush 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/14d5410c6cf4c303d291262a10e949dc14b0ac2eca2a7a730b0401919c01358e",
+          "betSize": 1,
+          "multiplier": 45,
+          "payout": 45
+        }
+      ]
+    },
     {
       "id": "cmw2ederv00ysjc2hmbro1fza",
       "title": "Bonus hunt 74",
