@@ -1,7 +1,141 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-06T00:02:00.049Z",
+  "generatedAt": "2026-11-06T20:35:38.026Z",
   "hunts": [
+    {
+      "id": "cmw5c6z610031jcoagu05xwjb",
+      "title": "BONUS HUNT 77",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-06T18:57:36.649Z",
+      "updatedAt": "2026-11-06T20:34:07.521Z",
+      "isOpening": true,
+      "startCost": 1500,
+      "bonusCount": 11,
+      "totalWinnings": 968.38,
+      "profitLoss": -531.62,
+      "profitLossPercentage": -35.44,
+      "averagePayoutRequired": 136.36,
+      "currentAverage": 88.03,
+      "averageBetSize": 0.65,
+      "cumulativeMultiplier": 2293.8,
+      "currentAverageMultiplier": 208.53,
+      "averageRequiredMultiplier": 208.33,
+      "highestWin": {
+        "slotName": "Fortune of Olympus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+        "payout": 327.76,
+        "multiplier": 819.4,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Fortune of Olympus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+        "payout": 327.76,
+        "multiplier": 819.4,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Gates of Olympus Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.6
+      },
+      "bonuses": [
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.2,
+          "multiplier": 627,
+          "payout": 125.4
+        },
+        {
+          "slotName": "Fortune of Olympus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+          "betSize": 0.4,
+          "multiplier": 819.4,
+          "payout": 327.76
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 1,
+          "multiplier": 173.25,
+          "payout": 173.25
+        },
+        {
+          "slotName": "Big Bass Halloween Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+          "betSize": 1,
+          "multiplier": 75.2,
+          "payout": 75.2
+        },
+        {
+          "slotName": "Big Bass Vegas 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/84e8d0d542775ca4506d21e7e720eab605a875c88e974c689011aa1ac77ca133",
+          "betSize": 1,
+          "multiplier": 16.4,
+          "payout": 16.4
+        },
+        {
+          "slotName": "Big Bass Trophy Catch",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8ff74d3afa7ebda46f1abb4f9208743bf2ff4df1ea23a1f619af0d3522d1ca3",
+          "betSize": 1,
+          "multiplier": 27.2,
+          "payout": 27.2
+        },
+        {
+          "slotName": "Big Bass Football Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b3b25082906745c192159d6ceebedbfdf7b0d4bc38e240bf014228ca466e0bbb",
+          "betSize": 1,
+          "multiplier": 107.6,
+          "payout": 107.6
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.4,
+          "multiplier": 130.1,
+          "payout": 52.04
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 317.65,
+          "payout": 63.53
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmw3x1ehe001ajczlz0bwslos",
       "title": "BONUS HUNT 76",
