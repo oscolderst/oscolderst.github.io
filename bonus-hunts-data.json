@@ -1,40 +1,262 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-06T20:35:38.026Z",
+  "generatedAt": "2026-11-07T13:24:22.650Z",
   "hunts": [
+    {
+      "id": "cmw5fuhag008xjc3atftc8mf8",
+      "title": "BONUS HUNT 78",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-06T20:39:52.072Z",
+      "updatedAt": "2026-11-06T22:47:54.516Z",
+      "isOpening": false,
+      "startCost": 1500,
+      "bonusCount": 22,
+      "totalWinnings": 2957.58,
+      "profitLoss": 1457.58,
+      "profitLossPercentage": 97.17,
+      "averagePayoutRequired": 68.18,
+      "currentAverage": 134.44,
+      "averageBetSize": 0.92,
+      "cumulativeMultiplier": 3659.21,
+      "currentAverageMultiplier": 166.33,
+      "averageRequiredMultiplier": 74.26,
+      "highestWin": {
+        "slotName": "3 Buzzing Wilds",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/a8f4ae8daa91d9a794025d815e9734243916bf1744860e2d52ca104751a9abbc",
+        "payout": 1115.7,
+        "multiplier": 929.75,
+        "betSize": 1.2
+      },
+      "highestMulti": {
+        "slotName": "Fortune of Olympus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+        "payout": 394.4,
+        "multiplier": 986,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "The Hand of Midas",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a",
+        "payout": 10.35,
+        "multiplier": 10.35,
+        "betSize": 1
+      },
+      "bonuses": [
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.6,
+          "multiplier": 307.65,
+          "payout": 184.59
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.6,
+          "multiplier": 16.5,
+          "payout": 9.9
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.6,
+          "multiplier": 30.65,
+          "payout": 18.39
+        },
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.6,
+          "multiplier": 42.6,
+          "payout": 25.56
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.6,
+          "multiplier": 77.45,
+          "payout": 46.47
+        },
+        {
+          "slotName": "Heartbreakers",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a19f4054bb023d720575456d06290ebb62502ef97a8f98e890f11a605c65cd81",
+          "betSize": 0.8,
+          "multiplier": 57.5,
+          "payout": 46
+        },
+        {
+          "slotName": "Hearts of Venus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2fb07f6afd1505c99649688d20fd4a4a8a19ab71b008bd0a227fd2c10ec03cb7",
+          "betSize": 0.8,
+          "multiplier": 162,
+          "payout": 129.6
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 1,
+          "multiplier": 169.9,
+          "payout": 169.9
+        },
+        {
+          "slotName": "Big Bass Halloween Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/ab57d0bd9c3265d7c6b0aa25827543285d33dabd25932c1843cc6bc9451ea82d",
+          "betSize": 1,
+          "multiplier": 150.2,
+          "payout": 150.2
+        },
+        {
+          "slotName": "Fortunes of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/655c73842f2998473f10b77241222353fe223593b809fef2e5b32d3e75d91d30",
+          "betSize": 1,
+          "multiplier": 51,
+          "payout": 51
+        },
+        {
+          "slotName": "The Hand of Midas",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/2bc8146d5627e3b0e02bb80d7ab0d753941ad997e30412a7e5807a567a1c821a",
+          "betSize": 1,
+          "multiplier": 10.35,
+          "payout": 10.35
+        },
+        {
+          "slotName": "Harvest Moon: Grave Profits",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73b02dec909e9b3eb3c08b8cbbf7171487742a017c923ff724c942197b6a6dc0",
+          "betSize": 1,
+          "multiplier": 69.51,
+          "payout": 69.51
+        },
+        {
+          "slotName": "Sunnydaze Asylum",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
+          "betSize": 1,
+          "multiplier": 93.2,
+          "payout": 93.2
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 1.2,
+          "multiplier": 59,
+          "payout": 70.8
+        },
+        {
+          "slotName": "3 Buzzing Wilds",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/a8f4ae8daa91d9a794025d815e9734243916bf1744860e2d52ca104751a9abbc",
+          "betSize": 1.2,
+          "multiplier": 929.75,
+          "payout": 1115.7
+        },
+        {
+          "slotName": "5 Lions Megaways 2",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0eeb084b421e2e96d17fce52d9bd81ca5c7396e8035beaf30e84a8510169e1b4",
+          "betSize": 1.2,
+          "multiplier": 15.2,
+          "payout": 18.24
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 1.4,
+          "multiplier": 66.9,
+          "payout": 93.66
+        },
+        {
+          "slotName": "The Wild Machine",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/31e05b004125015ecc24b3073daf670d995302c316c0f3a55ff77fc1b1faa15a",
+          "betSize": 1.4,
+          "multiplier": 31.25,
+          "payout": 43.75
+        },
+        {
+          "slotName": "Big Bass Secrets of the Golden Lake",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/516dd23e24bc643b9f6d77362b11b8b077ccea882a4dffb2913e023d7131fbef",
+          "betSize": 1.6,
+          "multiplier": 16.8,
+          "payout": 26.88
+        },
+        {
+          "slotName": "Fortune of Olympus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+          "betSize": 0.4,
+          "multiplier": 986,
+          "payout": 394.4
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.6,
+          "multiplier": 50,
+          "payout": 30
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.6,
+          "multiplier": 265.8,
+          "payout": 159.48
+        }
+      ]
+    },
     {
       "id": "cmw5c6z610031jcoagu05xwjb",
       "title": "BONUS HUNT 77",
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-11-06T18:57:36.649Z",
-      "updatedAt": "2026-11-06T20:34:07.521Z",
-      "isOpening": true,
+      "updatedAt": "2026-11-06T20:38:53.453Z",
+      "isOpening": false,
       "startCost": 1500,
       "bonusCount": 11,
-      "totalWinnings": 968.38,
-      "profitLoss": -531.62,
-      "profitLossPercentage": -35.44,
+      "totalWinnings": 1417.64,
+      "profitLoss": -82.36,
+      "profitLossPercentage": -5.49,
       "averagePayoutRequired": 136.36,
-      "currentAverage": 88.03,
+      "currentAverage": 128.88,
       "averageBetSize": 0.65,
-      "cumulativeMultiplier": 2293.8,
-      "currentAverageMultiplier": 208.53,
+      "cumulativeMultiplier": 3416.95,
+      "currentAverageMultiplier": 310.63,
       "averageRequiredMultiplier": 208.33,
       "highestWin": {
-        "slotName": "Fortune of Olympus",
+        "slotName": "Hell Butcher",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
-        "payout": 327.76,
-        "multiplier": 819.4,
+        "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+        "payout": 449.26,
+        "multiplier": 1123.15,
         "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "Fortune of Olympus",
+        "slotName": "Hell Butcher",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
-        "payout": 327.76,
-        "multiplier": 819.4,
+        "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+        "payout": 449.26,
+        "multiplier": 1123.15,
         "betSize": 0.4
       },
       "lowestMulti": {
@@ -131,8 +353,8 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 1123.15,
+          "payout": 449.26
         }
       ]
     },
