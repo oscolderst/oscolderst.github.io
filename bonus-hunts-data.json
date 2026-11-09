@@ -1,7 +1,291 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-07T13:24:22.650Z",
+  "generatedAt": "2026-11-09T20:07:36.713Z",
   "hunts": [
+    {
+      "id": "cmw9ohzp004qvjc0juw20zgmo",
+      "title": "Bonus hunt 80",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-09T19:53:10.645Z",
+      "updatedAt": "2026-11-09T19:53:10.645Z",
+      "isOpening": false,
+      "startCost": 750,
+      "bonusCount": 2,
+      "totalWinnings": 0,
+      "profitLoss": -750,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 375,
+      "currentAverage": 0,
+      "averageBetSize": 0.4,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 937.5,
+      "highestWin": {
+        "slotName": "The Big Dog House",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "The Big Dog House",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "The Big Dog House",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
+    {
+      "id": "cmw9jkb9e00mxjc0j3fye6j29",
+      "title": "Bonus hunt 79",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-09T17:35:00.866Z",
+      "updatedAt": "2026-11-09T19:18:02.996Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 22,
+      "totalWinnings": 509.8,
+      "profitLoss": 9.8,
+      "profitLossPercentage": 1.96,
+      "averagePayoutRequired": 22.73,
+      "currentAverage": 23.17,
+      "averageBetSize": 0.25,
+      "cumulativeMultiplier": 1737.35,
+      "currentAverageMultiplier": 78.97,
+      "averageRequiredMultiplier": 89.29,
+      "highestWin": {
+        "slotName": "Wonders of Aztec",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+        "payout": 129.76,
+        "multiplier": 324.4,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Wonders of Aztec",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+        "payout": 129.76,
+        "multiplier": 324.4,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Gates of Olympus 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+        "payout": 1.05,
+        "multiplier": 5.25,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.2,
+          "multiplier": 22.3,
+          "payout": 4.46
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.2,
+          "multiplier": 182.35,
+          "payout": 36.47
+        },
+        {
+          "slotName": "Boombear Bros",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/50bb3af5db9db63f77c4a83b9aa2fc98241c0d4ef8f4402b696cb3508d38f6bf",
+          "betSize": 0.2,
+          "multiplier": 9.9,
+          "payout": 1.98
+        },
+        {
+          "slotName": "Dr Zappo",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
+          "betSize": 0.2,
+          "multiplier": 215,
+          "payout": 43
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 5.25,
+          "payout": 1.05
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.2,
+          "multiplier": 71.6,
+          "payout": 14.32
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.2,
+          "multiplier": 30.6,
+          "payout": 6.12
+        },
+        {
+          "slotName": "Arctic Duel",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/bb67a41005ba5eae4937db24bc3e907c4ad604dd57f1fbf6bafb2d4c668e86ec",
+          "betSize": 0.2,
+          "multiplier": 27.1,
+          "payout": 5.42
+        },
+        {
+          "slotName": "Junkyard Kings",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/290cfb54fac293b6098898e6ea5e4f123522b6bc9eb306df26556fe033655f50",
+          "betSize": 0.2,
+          "multiplier": 112,
+          "payout": 22.4
+        },
+        {
+          "slotName": "Great Game Rockies",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6802b13b9c6af8027a28d2e69df5d2430fdc9440928aa2d55bb38a863c92122c",
+          "betSize": 0.2,
+          "multiplier": 64,
+          "payout": 12.8
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 35.9,
+          "payout": 7.18
+        },
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.2,
+          "multiplier": 8.3,
+          "payout": 1.66
+        },
+        {
+          "slotName": "Behind Bars: Masterplan",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/9f9e2005653aa27188bb015c4fe7308ca6a0b88c12b8ac14211eb7e1711d8a51",
+          "betSize": 0.2,
+          "multiplier": 80.8,
+          "payout": 16.16
+        },
+        {
+          "slotName": "Grug Make Fire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/12f16f0fc3ce25d7fe5f88dc57ca76e419527b65f75b7593c49bc5a77913da04",
+          "betSize": 0.2,
+          "multiplier": 10.2,
+          "payout": 2.04
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.2,
+          "multiplier": 27.65,
+          "payout": 5.53
+        },
+        {
+          "slotName": "Jade Legends",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7a22d70296fc71daef1a5f198cf09bbd56779801fc8d961c9bc9a18a67e8f25e",
+          "betSize": 0.2,
+          "multiplier": 76.1,
+          "payout": 15.22
+        },
+        {
+          "slotName": "Great Game Serengeti",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+          "betSize": 0.4,
+          "multiplier": 126.4,
+          "payout": 50.56
+        },
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.4,
+          "multiplier": 324.4,
+          "payout": 129.76
+        },
+        {
+          "slotName": "Bear Crazy",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/8784a14e4ef687b2372cb07fc2adaa4c99a698f840b4259937b6a94b3ffe7009",
+          "betSize": 0.4,
+          "multiplier": 33,
+          "payout": 13.2
+        },
+        {
+          "slotName": "Sunnydaze Asylum",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
+          "betSize": 0.4,
+          "multiplier": 112.35,
+          "payout": 44.94
+        },
+        {
+          "slotName": "Helios: Triple Sun",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0cdd01815b61b400da1344d7897a3fb55794e25338331788ade5888c77a6fc8f",
+          "betSize": 0.6,
+          "multiplier": 107.75,
+          "payout": 64.65
+        },
+        {
+          "slotName": "Joker Never Retires",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/9d941eef0c1b3a199507eff2b696295184e2232d7666c45a4219dc6a4074d5e1",
+          "betSize": 0.2,
+          "multiplier": 54.4,
+          "payout": 10.88
+        }
+      ]
+    },
     {
       "id": "cmw5fuhag008xjc3atftc8mf8",
       "title": "BONUS HUNT 78",
