@@ -1,6 +1,6 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-09T20:07:36.713Z",
+  "generatedAt": "2026-11-10T10:28:59.730Z",
   "hunts": [
     {
       "id": "cmw9ohzp004qvjc0juw20zgmo",
@@ -8,41 +8,41 @@
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-11-09T19:53:10.645Z",
-      "updatedAt": "2026-11-09T19:53:10.645Z",
+      "updatedAt": "2026-11-09T20:20:30.083Z",
       "isOpening": false,
       "startCost": 750,
-      "bonusCount": 2,
-      "totalWinnings": 0,
-      "profitLoss": -750,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 375,
-      "currentAverage": 0,
+      "bonusCount": 4,
+      "totalWinnings": 1137.03,
+      "profitLoss": 387.03,
+      "profitLossPercentage": 51.6,
+      "averagePayoutRequired": 187.5,
+      "currentAverage": 284.26,
       "averageBetSize": 0.4,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 937.5,
+      "cumulativeMultiplier": 2842.58,
+      "currentAverageMultiplier": 710.64,
+      "averageRequiredMultiplier": 468.75,
       "highestWin": {
-        "slotName": "The Big Dog House",
+        "slotName": "Gates of Olympus Super Scatter",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 886.83,
+        "multiplier": 2217.07,
         "betSize": 0.4
       },
       "highestMulti": {
-        "slotName": "The Big Dog House",
+        "slotName": "Gates of Olympus Super Scatter",
         "provider": "Pragmatic Play",
-        "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
-        "payout": 0,
-        "multiplier": 0,
+        "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+        "payout": 886.83,
+        "multiplier": 2217.07,
         "betSize": 0.4
       },
       "lowestMulti": {
         "slotName": "The Big Dog House",
         "provider": "Pragmatic Play",
         "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
-        "payout": 0,
-        "multiplier": 0,
+        "payout": 28.48,
+        "multiplier": 71.2,
         "betSize": 0.4
       },
       "bonuses": [
@@ -51,16 +51,32 @@
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 71.2,
+          "payout": 28.48
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 105.6,
+          "payout": 42.24
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.4,
+          "multiplier": 2217.07,
+          "payout": 886.83
         },
         {
           "slotName": "Sweet Bonanza 2500",
           "provider": "Pragmatic Play",
           "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
           "betSize": 0.4,
-          "multiplier": 0,
-          "payout": 0
+          "multiplier": 448.7,
+          "payout": 179.48
         }
       ]
     },
