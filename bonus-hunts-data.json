@@ -1,7 +1,173 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-10T10:28:59.730Z",
+  "generatedAt": "2026-11-10T18:08:24.097Z",
   "hunts": [
+    {
+      "id": "cmwaoqpb90026jcg6xfc4nlf6",
+      "title": "Bonus hunt 81",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-10T12:47:43.270Z",
+      "updatedAt": "2026-11-10T13:30:55.811Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 15,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 33.33,
+      "currentAverage": 0,
+      "averageBetSize": 0.37,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 89.29,
+      "highestWin": {
+        "slotName": "Le Clubber",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/56bc84fd5cf979ab76a08793b76edaa2179113f817e85d6492b02213b69e170d",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Le Clubber",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/56bc84fd5cf979ab76a08793b76edaa2179113f817e85d6492b02213b69e170d",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Le Clubber",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/56bc84fd5cf979ab76a08793b76edaa2179113f817e85d6492b02213b69e170d",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Le Clubber",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/56bc84fd5cf979ab76a08793b76edaa2179113f817e85d6492b02213b69e170d",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Duck Hunters 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2554b9bc55d292b6de5645afbf5f74c8993af51d97e54875fa5e8b4edbbff49f",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Buried By Night",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/39b46b87001be28384157623261c01bb9e694264d13eb35313765076b6592033",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Boombear Bros",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/50bb3af5db9db63f77c4a83b9aa2fc98241c0d4ef8f4402b696cb3508d38f6bf",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Dr Zappo",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/5b7e932cbedf3fdddbd9d2a64d0ded5490ef3307385062c2b902fe2c76f493fa",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Arctic Duel",
+          "provider": "Bullshark Games",
+          "slotImage": "https://mediumrare.imgix.net/bb67a41005ba5eae4937db24bc3e907c4ad604dd57f1fbf6bafb2d4c668e86ec",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Great Game Rockies",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6802b13b9c6af8027a28d2e69df5d2430fdc9440928aa2d55bb38a863c92122c",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Death Becomes You",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/1a05d78652483448828c150dfbd0d989e2b932215ad42fe4456b48c6e5ffa53f",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Prechaun",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/22ef2219edfa1b6e3d8c785013df4504723e1c30d8f67de27ec0b75587d4cc2b",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Skull Fiesta",
+          "provider": "NowNow Gaming",
+          "slotImage": "https://mediumrare.imgix.net/9ebb1585a510c42ecfe2177606622e4183ab66755fb3c32a06c6b6627504baa3",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Benny the Beer",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Outsourced 2: Balkan Engineering",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2249066967b3ce0f2b45ad76a996c121942cc507cf7ef885bb11873b0e8415ca",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Rotten",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/46941e9367474779278145c5ac4dad2ea04d601c3b6deb583087585240459e42",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmw9ohzp004qvjc0juw20zgmo",
       "title": "Bonus hunt 80",
