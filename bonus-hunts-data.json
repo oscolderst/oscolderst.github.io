@@ -1,7 +1,141 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-11T02:55:12.013Z",
+  "generatedAt": "2026-11-11T17:59:08.706Z",
   "hunts": [
+    {
+      "id": "cmwc93bj20b90jcbk7zvbznhz",
+      "title": "BONUS HUNT 83",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-11T15:05:10.430Z",
+      "updatedAt": "2026-11-11T16:07:16.934Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 11,
+      "totalWinnings": 337.87,
+      "profitLoss": -162.13,
+      "profitLossPercentage": -32.43,
+      "averagePayoutRequired": 45.45,
+      "currentAverage": 30.72,
+      "averageBetSize": 0.47,
+      "cumulativeMultiplier": 781,
+      "currentAverageMultiplier": 71,
+      "averageRequiredMultiplier": 96.15,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 112.22,
+        "multiplier": 280.55,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 112.22,
+        "multiplier": 280.55,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Sugar Rush Super Scatter",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+        "payout": 9.46,
+        "multiplier": 23.65,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 23.65,
+          "payout": 9.46
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.4,
+          "multiplier": 52.35,
+          "payout": 20.94
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 280.55,
+          "payout": 112.22
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 107.8,
+          "payout": 43.12
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.4,
+          "multiplier": 46.8,
+          "payout": 18.72
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.4,
+          "multiplier": 57.2,
+          "payout": 22.88
+        },
+        {
+          "slotName": "Great Game Serengeti",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/7ddb40c5944113ce07fd04c4b0c3a47ead38e58b70f147fd710752d8516f4fd4",
+          "betSize": 0.4,
+          "multiplier": 85.3,
+          "payout": 34.12
+        },
+        {
+          "slotName": "Gates of Olympus 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
+          "betSize": 0.6,
+          "multiplier": 26.95,
+          "payout": 16.17
+        },
+        {
+          "slotName": "Starlight Princess Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/7d94399af668af79f99a8103723c0f1c588dbde97481a8c5ea6da206fdb189f0",
+          "betSize": 0.6,
+          "multiplier": 30.35,
+          "payout": 18.21
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.6,
+          "multiplier": 24.05,
+          "payout": 14.43
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.6,
+          "multiplier": 46,
+          "payout": 27.6
+        }
+      ]
+    },
     {
       "id": "cmwb4ewpu026ejcbkmm9vdp5z",
       "title": "Bonus hunt 82",
