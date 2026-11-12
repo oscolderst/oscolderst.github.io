@@ -1,7 +1,165 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-11T17:59:08.706Z",
+  "generatedAt": "2026-11-12T16:17:09.115Z",
   "hunts": [
+    {
+      "id": "cmwdjvxwa07pujcqg7n8v7ptt",
+      "title": "Bonus hunt 84",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-12T12:55:08.122Z",
+      "updatedAt": "2026-11-12T13:30:31.641Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 14,
+      "totalWinnings": 0,
+      "profitLoss": -500,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 35.71,
+      "currentAverage": 0,
+      "averageBetSize": 0.41,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 86.21,
+      "highestWin": {
+        "slotName": "Nitro Nights",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Nitro Nights",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Nitro Nights",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+        "payout": 0,
+        "multiplier": 0,
+        "betSize": 0.2
+      },
+      "bonuses": [
+        {
+          "slotName": "Nitro Nights",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c6faedd42b1f13c7ac4646c5303b027135dd6e66c849e978907c7af96276427a",
+          "betSize": 0.2,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Buried By Night",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/39b46b87001be28384157623261c01bb9e694264d13eb35313765076b6592033",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Duck Hunters 2",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/2554b9bc55d292b6de5645afbf5f74c8993af51d97e54875fa5e8b4edbbff49f",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Outlaw Rooster",
+          "provider": "NowNow Gaming",
+          "slotImage": "https://mediumrare.imgix.net/93c00758fe143b1a89f5cefb7a83173b12fe6763def6185560512bac13d61044",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Great Game Rockies",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6802b13b9c6af8027a28d2e69df5d2430fdc9440928aa2d55bb38a863c92122c",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Soaked By Seamen",
+          "provider": "Nolimit City",
+          "slotImage": "https://mediumrare.imgix.net/e044f39098a73e1417615fa8e710d07f176be9ca8b558ea5cc02d14d4f769548",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Hot Ross",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Benny the Beer",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Pug Life",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/38d0c89012f7195628b72aca978fd149ebe395b97cd081f5a24fd779a25445c4",
+          "betSize": 0.4,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Vampire",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c477af5408f89dffad20cb7c6e39a6f7c2d1189844aca85fece51d999f374dbf",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        },
+        {
+          "slotName": "Le Cowboy",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/8fcbbf5698551b750134e712b28c89f14ea2f76393ea8109b0a7855598b41030",
+          "betSize": 0.6,
+          "multiplier": 0,
+          "payout": 0
+        }
+      ]
+    },
     {
       "id": "cmwc93bj20b90jcbk7zvbznhz",
       "title": "BONUS HUNT 83",
