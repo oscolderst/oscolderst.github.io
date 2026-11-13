@@ -1,30 +1,250 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-13T18:05:12.495Z",
+  "generatedAt": "2026-11-13T23:32:59.001Z",
   "hunts": [
+    {
+      "id": "cmwff4mpy02bzjc6pm6s8knjo",
+      "title": "Bonus hunt 88",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-13T20:17:27.815Z",
+      "updatedAt": "2026-11-13T20:49:53.024Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 5,
+      "totalWinnings": 393.09,
+      "profitLoss": -106.91,
+      "profitLossPercentage": -21.38,
+      "averagePayoutRequired": 100,
+      "currentAverage": 78.62,
+      "averageBetSize": 0.28,
+      "cumulativeMultiplier": 1444.85,
+      "currentAverageMultiplier": 288.97,
+      "averageRequiredMultiplier": 357.14,
+      "highestWin": {
+        "slotName": "Fortune of Olympus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+        "payout": 192.9,
+        "multiplier": 482.25,
+        "betSize": 0.4
+      },
+      "highestMulti": {
+        "slotName": "Fortune of Olympus",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+        "payout": 192.9,
+        "multiplier": 482.25,
+        "betSize": 0.4
+      },
+      "lowestMulti": {
+        "slotName": "Gates of Olympus 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+        "payout": 15.34,
+        "multiplier": 38.35,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.4,
+          "multiplier": 38.35,
+          "payout": 15.34
+        },
+        {
+          "slotName": "Hell Butcher",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/efb193ae6852298ca74a462fb636304ad39eee44bce6c243a86f8ea68bcb156a",
+          "betSize": 0.2,
+          "multiplier": 360.5,
+          "payout": 72.1
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 243.7,
+          "payout": 48.74
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 320.05,
+          "payout": 64.01
+        },
+        {
+          "slotName": "Fortune of Olympus",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fd61eede3628522d57ac12a3b98112f8f6ceee2bb8ae3acc5fe129e10911d241",
+          "betSize": 0.4,
+          "multiplier": 482.25,
+          "payout": 192.9
+        }
+      ]
+    },
     {
       "id": "cmwfa7lhf02pgjcd0uldgfier",
       "title": "Bonus hunt 87",
       "casino": "Stake",
       "currency": "EUR",
       "createdAt": "2026-11-13T17:59:48.100Z",
-      "updatedAt": "2026-11-13T17:59:48.100Z",
+      "updatedAt": "2026-11-13T19:12:38.136Z",
       "isOpening": false,
-      "startCost": 500,
-      "bonusCount": 0,
-      "totalWinnings": 0,
-      "profitLoss": -500,
-      "profitLossPercentage": -100,
-      "averagePayoutRequired": 0,
-      "currentAverage": 0,
-      "averageBetSize": 0,
-      "cumulativeMultiplier": 0,
-      "currentAverageMultiplier": 0,
-      "averageRequiredMultiplier": 0,
-      "highestWin": null,
-      "highestMulti": null,
-      "lowestMulti": null,
-      "bonuses": []
+      "startCost": 200,
+      "bonusCount": 14,
+      "totalWinnings": 349.52,
+      "profitLoss": 149.52,
+      "profitLossPercentage": 74.76,
+      "averagePayoutRequired": 14.29,
+      "currentAverage": 24.97,
+      "averageBetSize": 0.4,
+      "cumulativeMultiplier": 962.85,
+      "currentAverageMultiplier": 68.77,
+      "averageRequiredMultiplier": 35.71,
+      "highestWin": {
+        "slotName": "Sweet Bonanza 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+        "payout": 90.3,
+        "multiplier": 150.5,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Jelly Express",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+        "payout": 47.28,
+        "multiplier": 236.4,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Fist of Destruction Megamultiplier",
+        "provider": "Hacksaw Gaming",
+        "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+        "payout": 1.76,
+        "multiplier": 4.4,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.2,
+          "multiplier": 236.4,
+          "payout": 47.28
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.4,
+          "multiplier": 37.25,
+          "payout": 14.9
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.4,
+          "multiplier": 41.7,
+          "payout": 16.68
+        },
+        {
+          "slotName": "Sweet Craze",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b8508d8fa3a61a3efe85396c05a7521a3c6de0067a571d31b548f0cc6873ac9e",
+          "betSize": 0.4,
+          "multiplier": 30.8,
+          "payout": 12.32
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 79.7,
+          "payout": 31.88
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.4,
+          "multiplier": 13,
+          "payout": 5.2
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.4,
+          "multiplier": 35.7,
+          "payout": 14.28
+        },
+        {
+          "slotName": "Hot Ross",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
+          "betSize": 0.4,
+          "multiplier": 21,
+          "payout": 8.4
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 19.2,
+          "payout": 7.68
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.4,
+          "multiplier": 4.4,
+          "payout": 1.76
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.4,
+          "multiplier": 170.9,
+          "payout": 68.36
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.6,
+          "multiplier": 150.5,
+          "payout": 90.3
+        },
+        {
+          "slotName": "Gates of Olympus Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73318f9e220e1637c4b11338d10f377cd997d0232636f5f5a1940167ad0451cd",
+          "betSize": 0.6,
+          "multiplier": 15.05,
+          "payout": 9.03
+        },
+        {
+          "slotName": "The Big Dog House",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/e7d9c69afc43a5ec663bfae87e17a02aa7e5954edbbfd1687e7cdfb049e3ea07",
+          "betSize": 0.2,
+          "multiplier": 107.25,
+          "payout": 21.45
+        }
+      ]
     },
     {
       "id": "cmwdzhi9t01tsjcey9qg5vntv",
