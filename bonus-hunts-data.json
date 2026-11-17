@@ -1,7 +1,187 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-13T23:32:59.001Z",
+  "generatedAt": "2026-11-17T08:31:55.753Z",
   "hunts": [
+    {
+      "id": "cmwjn2kc70i3pjc3xufhgy7bw",
+      "title": "Bonus hunt 90",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-16T19:10:53.047Z",
+      "updatedAt": "2026-11-16T20:08:56.058Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 6,
+      "totalWinnings": 313.18,
+      "profitLoss": -186.82,
+      "profitLossPercentage": -37.36,
+      "averagePayoutRequired": 83.33,
+      "currentAverage": 52.2,
+      "averageBetSize": 0.73,
+      "cumulativeMultiplier": 446.75,
+      "currentAverageMultiplier": 74.46,
+      "averageRequiredMultiplier": 114.94,
+      "highestWin": {
+        "slotName": "Sunnydaze Asylum",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
+        "payout": 91,
+        "multiplier": 113.75,
+        "betSize": 0.8
+      },
+      "highestMulti": {
+        "slotName": "Jelly Express",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+        "payout": 75.03,
+        "multiplier": 125.05,
+        "betSize": 0.6
+      },
+      "lowestMulti": {
+        "slotName": "Fury of Anubis",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+        "payout": 22.72,
+        "multiplier": 28.4,
+        "betSize": 0.8
+      },
+      "bonuses": [
+        {
+          "slotName": "Bloody Dawn",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4c44a015bf9a0aa882a75632ee36852733d67cb56eb49d41f5ccf6d03a16d923",
+          "betSize": 0.6,
+          "multiplier": 86.05,
+          "payout": 51.63
+        },
+        {
+          "slotName": "Bear Crazy",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/8784a14e4ef687b2372cb07fc2adaa4c99a698f840b4259937b6a94b3ffe7009",
+          "betSize": 0.75,
+          "multiplier": 40,
+          "payout": 30
+        },
+        {
+          "slotName": "Wonders of Aztec",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/999819f16f291ee7ce80bd3aa2d70ec7fb4bcbd859df3a895b61bfaff0b9e07a",
+          "betSize": 0.8,
+          "multiplier": 53.5,
+          "payout": 42.8
+        },
+        {
+          "slotName": "Sunnydaze Asylum",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/4b114842ddc5f5074b06f29a33903fe8da4aea4ebe3f49fbffac1a5e65434caf",
+          "betSize": 0.8,
+          "multiplier": 113.75,
+          "payout": 91
+        },
+        {
+          "slotName": "Fury of Anubis",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d3a463c081862ce0cfa75897b2b1243d78ef123000ad8ccdf643248579f14ba4",
+          "betSize": 0.8,
+          "multiplier": 28.4,
+          "payout": 22.72
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.6,
+          "multiplier": 125.05,
+          "payout": 75.03
+        }
+      ]
+    },
+    {
+      "id": "cmwjjm3yy0gnfjc3xnt7zl94d",
+      "title": "Bonus Hunt 89",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-16T17:34:06.490Z",
+      "updatedAt": "2026-11-16T18:25:15.769Z",
+      "isOpening": false,
+      "startCost": 160,
+      "bonusCount": 5,
+      "totalWinnings": 143.73,
+      "profitLoss": -16.27,
+      "profitLossPercentage": -10.17,
+      "averagePayoutRequired": 32,
+      "currentAverage": 28.75,
+      "averageBetSize": 0.44,
+      "cumulativeMultiplier": 368.18,
+      "currentAverageMultiplier": 73.64,
+      "averageRequiredMultiplier": 72.73,
+      "highestWin": {
+        "slotName": "Sweet Rush Bonanza",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+        "payout": 59.61,
+        "multiplier": 99.35,
+        "betSize": 0.6
+      },
+      "highestMulti": {
+        "slotName": "Gates of Olympus 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+        "payout": 26.08,
+        "multiplier": 130.4,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Chronos: Sands of Eternity",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/962f30d4db4a3e425b726d3de9f84e8acfb830201167bd99ce7a9ae21bb900c6",
+        "payout": 8,
+        "multiplier": 13.33,
+        "betSize": 0.6
+      },
+      "bonuses": [
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 130.4,
+          "payout": 26.08
+        },
+        {
+          "slotName": "Gates of Olympus 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fdf333e96a5e21555bbb4e9e04a3ee4e1986c9cca9aa75141597041cc8334d23",
+          "betSize": 0.4,
+          "multiplier": 94.55,
+          "payout": 37.82
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 30.55,
+          "payout": 12.22
+        },
+        {
+          "slotName": "Sweet Rush Bonanza",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/d8b0e546601b9e21c097752be41c5f5e1b3cc245711547ea026ac54d67cbe65f",
+          "betSize": 0.6,
+          "multiplier": 99.35,
+          "payout": 59.61
+        },
+        {
+          "slotName": "Chronos: Sands of Eternity",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/962f30d4db4a3e425b726d3de9f84e8acfb830201167bd99ce7a9ae21bb900c6",
+          "betSize": 0.6,
+          "multiplier": 13.33,
+          "payout": 8
+        }
+      ]
+    },
     {
       "id": "cmwff4mpy02bzjc6pm6s8knjo",
       "title": "Bonus hunt 88",
