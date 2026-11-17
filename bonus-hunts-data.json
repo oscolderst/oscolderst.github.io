@@ -1,7 +1,31 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-17T08:31:55.753Z",
+  "generatedAt": "2026-11-17T17:53:50.666Z",
   "hunts": [
+    {
+      "id": "cmwkzlbud07u2jc7ibh05b6h4",
+      "title": "Bonus hunt 91",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-17T17:49:10.070Z",
+      "updatedAt": "2026-11-17T17:49:10.070Z",
+      "isOpening": false,
+      "startCost": 400,
+      "bonusCount": 0,
+      "totalWinnings": 0,
+      "profitLoss": -400,
+      "profitLossPercentage": -100,
+      "averagePayoutRequired": 0,
+      "currentAverage": 0,
+      "averageBetSize": 0,
+      "cumulativeMultiplier": 0,
+      "currentAverageMultiplier": 0,
+      "averageRequiredMultiplier": 0,
+      "highestWin": null,
+      "highestMulti": null,
+      "lowestMulti": null,
+      "bonuses": []
+    },
     {
       "id": "cmwjn2kc70i3pjc3xufhgy7bw",
       "title": "Bonus hunt 90",
