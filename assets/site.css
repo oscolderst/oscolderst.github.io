@@ -103,8 +103,14 @@
   }
   .deal-rows svg{width:18px;height:18px;flex-shrink:0;color:var(--muted);}
   .deal-row-label{color:#b9b9c2;white-space:nowrap;}
-  .deal-row-line{flex:1;min-width:12px;height:1px;background:rgba(255,255,255,.08);}
-  .deal-rows b{font-weight:800;white-space:nowrap;}
+  .deal-row-line{flex:1;min-width:8px;height:1px;background:rgba(255,255,255,.08);}
+  /* a long value wraps inside its row instead of spilling out of the card */
+  .deal-rows b{font-weight:800;text-align:right;min-width:0;overflow-wrap:anywhere;}
+  /* narrow cards (3 in a row on mid-size screens, small phones): tighter rows */
+  .deal{container-type:inline-size;}
+  @container (max-width:380px){
+    .deal-rows li{padding:11px 14px;gap:8px;font-size:13.5px;border-radius:18px;}
+  }
   .deal-actions{display:flex;gap:12px;margin-top:auto;padding-top:4px;}
   .deal-cta{
     flex:1;display:flex;align-items:center;justify-content:center;min-height:54px;border-radius:999px;
