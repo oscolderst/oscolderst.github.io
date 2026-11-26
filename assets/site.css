@@ -111,6 +111,23 @@
     .deal-rows li{padding:11px 14px;gap:8px;font-size:13.5px;border-radius:18px;}
   }
   .deal-actions{display:flex;gap:12px;margin-top:auto;padding-top:4px;}
+  /* payment methods accepted for deposit and withdrawal */
+  .deal-pay{display:flex;flex-direction:column;gap:7px;margin-top:auto;}
+  .deal-pay + .deal-actions{margin-top:0;}
+  .deal-pay-label{font-size:11px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--muted);}
+  .deal-pay-list{display:flex;flex-wrap:wrap;gap:6px;}
+  .pm{
+    display:inline-flex;align-items:center;justify-content:center;gap:5px;height:26px;min-width:40px;padding:0 8px;
+    border-radius:7px;background:#232327;border:1px solid rgba(255,255,255,.1);
+    color:#e8e8ec;font-size:11px;font-weight:800;letter-spacing:.2px;white-space:nowrap;
+  }
+  .pm svg{height:14px;width:auto;}
+  .pm-visa{font-style:italic;font-weight:900;font-size:12px;letter-spacing:.5px;color:#fff;background:#1a1f71;border-color:#1a1f71;}
+  .pm-skrill{color:#fff;background:#862165;border-color:#862165;}
+  .pm-mbway{background:#000;border-color:rgba(255,255,255,.18);padding:0 7px;}
+  .pm-mbway img{display:block;height:18px;width:auto;}
+  .pm-neteller{color:#fff;background:#3d7b3c;border-color:#3d7b3c;font-size:10px;}
+  .pm-coin i{display:inline-flex;align-items:center;justify-content:center;width:15px;height:15px;border-radius:50%;color:#fff;font-style:normal;font-size:10px;font-weight:900;}
   .deal-cta{
     flex:1;display:flex;align-items:center;justify-content:center;min-height:54px;border-radius:999px;
     background:linear-gradient(180deg,#f4f4f5,#d6d6d9);color:#111;text-decoration:none;
