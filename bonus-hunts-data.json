@@ -1,7 +1,213 @@
 {
   "username": "oscolderst",
-  "generatedAt": "2026-11-18T00:34:18.205Z",
+  "generatedAt": "2026-11-26T22:36:44.930Z",
   "hunts": [
+    {
+      "id": "cmwxo156o0084jc6159oodwls",
+      "title": "Bonus hunt 91",
+      "casino": "Stake",
+      "currency": "EUR",
+      "createdAt": "2026-11-26T14:46:32.832Z",
+      "updatedAt": "2026-11-26T19:31:04.767Z",
+      "isOpening": false,
+      "startCost": 500,
+      "bonusCount": 20,
+      "totalWinnings": 702.98,
+      "profitLoss": 202.98,
+      "profitLossPercentage": 40.6,
+      "averagePayoutRequired": 25,
+      "currentAverage": 35.15,
+      "averageBetSize": 0.32,
+      "cumulativeMultiplier": 2501.4,
+      "currentAverageMultiplier": 125.07,
+      "averageRequiredMultiplier": 78.12,
+      "highestWin": {
+        "slotName": "Gates of Olympus 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+        "payout": 101.5,
+        "multiplier": 507.5,
+        "betSize": 0.2
+      },
+      "highestMulti": {
+        "slotName": "Gates of Olympus 2500",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+        "payout": 101.5,
+        "multiplier": 507.5,
+        "betSize": 0.2
+      },
+      "lowestMulti": {
+        "slotName": "Big Bass Splash 1000",
+        "provider": "Pragmatic Play",
+        "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+        "payout": 5.84,
+        "multiplier": 14.6,
+        "betSize": 0.4
+      },
+      "bonuses": [
+        {
+          "slotName": "Miami Mayhem",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d30a58340d30c9eaa2c2261c5350ad5965a0287f3cb03ef3e0c3077b0fefb209",
+          "betSize": 0.2,
+          "multiplier": 163.6,
+          "payout": 32.72
+        },
+        {
+          "slotName": "Gates of Olympus 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/0993fd9fa06afec06bab1de08bade3e8e90bf9b4f98db5f77013f1fe4ce40905",
+          "betSize": 0.2,
+          "multiplier": 507.5,
+          "payout": 101.5
+        },
+        {
+          "slotName": "Wild Skullz",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/fe6c0e25e8c759643f1afc213beda089297cb7bca0bc0b686fdf2fbde83f461d",
+          "betSize": 0.2,
+          "multiplier": 120.2,
+          "payout": 24.04
+        },
+        {
+          "slotName": "Eastern Fury",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/f2871790b00a2e4723e3d5f58653f09754ab4a4d3c4a5b9ea82c31e9802e240f",
+          "betSize": 0.2,
+          "multiplier": 38.5,
+          "payout": 7.7
+        },
+        {
+          "slotName": "Fist of Destruction",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/c123ef1cf5a97e2c94cdbd6db80c47c35afa5af9837f1416eb25ac10dd6c8f50",
+          "betSize": 0.2,
+          "multiplier": 29.8,
+          "payout": 5.96
+        },
+        {
+          "slotName": "Fist of Destruction Megamultiplier",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/518149ec5f2cc9379fe5fded80456ce49c9797d2fbb5de4ce09a4569d7dbe196",
+          "betSize": 0.2,
+          "multiplier": 61.9,
+          "payout": 12.38
+        },
+        {
+          "slotName": "Sweet Bonanza 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/73754d4bf421b78fbd3895bbc7890d379797588cb699d6cbe47f3656aa93613b",
+          "betSize": 0.4,
+          "multiplier": 138.35,
+          "payout": 55.34
+        },
+        {
+          "slotName": "Big Bass Christmas Blast 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/b0a1a480df613205d4353dcf8824a7585cd27b308d33a3adea584b44ca428c07",
+          "betSize": 0.4,
+          "multiplier": 48.4,
+          "payout": 19.36
+        },
+        {
+          "slotName": "The Dog House Megaways 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/6732a05f6efada7d017eb8e722b64c740389a82fc28f00fbfbe8e97f7c62fd61",
+          "betSize": 0.4,
+          "multiplier": 27,
+          "payout": 10.8
+        },
+        {
+          "slotName": "Hot Ross",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/6bba31726417743c031a7149e8e70bf1768ba47f589f54488c7d0acd712f9e26",
+          "betSize": 0.4,
+          "multiplier": 67.2,
+          "payout": 26.88
+        },
+        {
+          "slotName": "RIP City",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/34d643b7d8c0b23e734742e5d1c32eb6beb29ee34a69e7cd97486db6c125a2db",
+          "betSize": 0.4,
+          "multiplier": 87.2,
+          "payout": 34.88
+        },
+        {
+          "slotName": "Big Bass Secrets of the Golden Lake",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/516dd23e24bc643b9f6d77362b11b8b077ccea882a4dffb2913e023d7131fbef",
+          "betSize": 0.4,
+          "multiplier": 62,
+          "payout": 24.8
+        },
+        {
+          "slotName": "Big Bass Splash 1000",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/1cab3479be96a3bb59020b9c135a4756807f8bdbd9f0d8f56009d064fc9cee5e",
+          "betSize": 0.4,
+          "multiplier": 14.6,
+          "payout": 5.84
+        },
+        {
+          "slotName": "Sugar Rush Super Scatter",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/51388f7a7a76f2a575a8b79dac57432f8d6f2833ae1dfd61d82519632001f478",
+          "betSize": 0.4,
+          "multiplier": 84.55,
+          "payout": 33.82
+        },
+        {
+          "slotName": "Jelly Express",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/386ba23036ab82e5d095e833b11d5ffd765dc5ac64a0b18be64ff17081689dd0",
+          "betSize": 0.4,
+          "multiplier": 86.9,
+          "payout": 34.76
+        },
+        {
+          "slotName": "Barrel Bonanza",
+          "provider": "Backseat Gaming",
+          "slotImage": "https://mediumrare.imgix.net/78853c4c98bbc63173678f9a29fa16f693261b7d72b5fc21754dc780f8e376a3",
+          "betSize": 0.4,
+          "multiplier": 30.3,
+          "payout": 12.12
+        },
+        {
+          "slotName": "FRKN Bananas",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/d4c903b8aa3bcbcd3e7cfdd46e14fa5ff3f056922cd470a109438ee41184990e",
+          "betSize": 0.4,
+          "multiplier": 209,
+          "payout": 83.6
+        },
+        {
+          "slotName": "Benny the Beer",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/f52ea5c5ced763586bc45659ed5c5ac8a3c0f1d2edca7a9c390b7ea6ceae4194",
+          "betSize": 0.4,
+          "multiplier": 158,
+          "payout": 63.2
+        },
+        {
+          "slotName": "Rotten",
+          "provider": "Hacksaw Gaming",
+          "slotImage": "https://mediumrare.imgix.net/46941e9367474779278145c5ac4dad2ea04d601c3b6deb583087585240459e42",
+          "betSize": 0.2,
+          "multiplier": 102,
+          "payout": 20.4
+        },
+        {
+          "slotName": "Sweet Bonanza 2500",
+          "provider": "Pragmatic Play",
+          "slotImage": "https://mediumrare.imgix.net/76411df1039d658a8b9c9f90c14467c7ca7c240feeed97274ea73208d786484e",
+          "betSize": 0.2,
+          "multiplier": 464.4,
+          "payout": 92.88
+        }
+      ]
+    },
     {
       "id": "cmwjn2kc70i3pjc3xufhgy7bw",
       "title": "Bonus hunt 90",
